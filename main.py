@@ -49,7 +49,9 @@ FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "")
 FEISHU_APP_SECRET = os.environ.get("FEISHU_APP_SECRET", "")
 FEISHU_DOC_FOLDER_TOKEN = os.environ.get("FEISHU_DOC_FOLDER_TOKEN", "")
 FEISHU_DOC_BASE_URL = os.environ.get("FEISHU_DOC_BASE_URL", "https://feishu.cn")
-FEISHU_OWNER_EMAIL = os.environ.get("FEISHU_OWNER_EMAIL", "")  # 文档所有者(你的飞书邮箱)
+FEISHU_OWNER_EMAIL = os.environ.get("FEISHU_OWNER_EMAIL", "")  # 文档所有者邮箱(可选)
+FEISHU_OWNER_MEMBER_TYPE = os.environ.get("FEISHU_OWNER_MEMBER_TYPE", "userid")  # userid/openid/email
+FEISHU_OWNER_MEMBER_ID = os.environ.get("FEISHU_OWNER_MEMBER_ID", "")  # 你的用户ID或 open_id
 FEISHU_HOST = "https://open.feishu.cn"
 
 # 网页搜索 API(Tavily, 可选)
@@ -1041,9 +1043,16 @@ def push_feishu_doc(md: str) -> Optional[str]:
     append_docx_blocks(token, document_id, md_to_blocks(md))
     set_doc_tenant_readable(token, document_id)
     # 让指定用户(你)拥有编辑/管理权限, 并把所有权转让给 TA
-    if FEISHU_OWNER_EMAIL:
-        add_doc_collaborator(token, document_id, "email", FEISHU_OWNER_EMAIL, "full_access")
-        transfer_doc_owner(token, document_id, "email", FEISHU_OWNER_EMAIL)
+    owner_type = FEISHU_OWNER_MEMBER_TYPE
+    owner_id = FEISHU_OWNER_MEMBER_ID
+    if not owner_id and FEISHU_OWNER_EMAIL:
+        owner_type = "email"
+        owner_id = FEISHU_OWNER_EMAIL
+    if owner_id:
+        add_doc_collaborator(token, document_id, owner_type, owner_id, "full_access")
+        transfer_doc_owner(token, document_id, owner_type, owner_id)
+    else:
+        print("[info] 未配置 FEISHU_OWNER_MEMBER_ID / FEISHU_OWNER_EMAIL, 文档仍归应用所有")
     return f"{FEISHU_DOC_BASE_URL.rstrip('/')}/docx/{document_id}"
 
 

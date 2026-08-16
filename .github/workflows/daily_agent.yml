@@ -43,6 +43,8 @@ jobs:
           FEISHU_DOC_FOLDER_TOKEN: ${{ secrets.FEISHU_DOC_FOLDER_TOKEN }}
           FEISHU_DOC_BASE_URL: ${{ secrets.FEISHU_DOC_BASE_URL }}
           FEISHU_OWNER_EMAIL: ${{ secrets.FEISHU_OWNER_EMAIL }}
+          FEISHU_OWNER_MEMBER_TYPE: ${{ secrets.FEISHU_OWNER_MEMBER_TYPE }}
+          FEISHU_OWNER_MEMBER_ID: ${{ secrets.FEISHU_OWNER_MEMBER_ID }}
           DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
           DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}

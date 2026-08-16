@@ -50,7 +50,12 @@
 文档默认由**应用（机器人）所有**，创建在应用自己的空间。要「存到你指定的文件夹」且「你能编辑」，需要两步：
 
 1. **给文件夹授权**：在飞书里打开目标文件夹 → 添加协作者 → 搜索并添加该应用（机器人）为「可编辑」。否则应用无权写入你的文件夹，会回退到应用空间。
-2. **配置所有者邮箱**：添加 Secret `FEISHU_OWNER_EMAIL`（你的飞书登录邮箱）。运行时会把你添加为文档协作者（可管理），并尝试把所有权转让给你。
+2. **配置所有者身份**：运行时会把你添加为文档协作者（可管理），并尝试把所有权转让给你。三选一填 Secret：
+   - 有邮箱 → 只填 `FEISHU_OWNER_EMAIL`（飞书登录邮箱）
+   - 没邮箱 → 填 `FEISHU_OWNER_MEMBER_TYPE=userid` + `FEISHU_OWNER_MEMBER_ID=你的用户ID`
+   - 用 open_id → 填 `FEISHU_OWNER_MEMBER_TYPE=openid` + `FEISHU_OWNER_MEMBER_ID=ou_xxx`
+
+> 没开邮箱时怎么找「用户ID」：飞书管理后台（admin.feishu.cn）→ 成员与部门 → 搜自己的名字 → 用户详情里的「用户ID」（也可能是工号）。
 
 > `FEISHU_DOC_FOLDER_TOKEN` 取文件夹 URL 中 `/folder/` 后的那串字符（不是 `?folderToken=`）。
 
@@ -93,7 +98,9 @@ git sparse-checkout set '/*' '!/reports/'
 | `FEISHU_APP_SECRET` | 飞书自建应用 App Secret（可选） | `xxxx` |
 | `FEISHU_DOC_FOLDER_TOKEN` | 归档目标文件夹 token（可选） | 文件夹 URL `/folder/` 后的值 |
 | `FEISHU_DOC_BASE_URL` | 你的飞书租户域名（自定义域名必填，否则链接打不开） | `https://ucnf8fdogxx6.feishu.cn` |
-| `FEISHU_OWNER_EMAIL` | 你的飞书邮箱（让文档归你所有、可编辑） | `you@company.com` |
+| `FEISHU_OWNER_EMAIL` | 你的飞书邮箱（有邮箱时用这个） | `you@company.com` |
+| `FEISHU_OWNER_MEMBER_TYPE` | 所有者身份类型（没邮箱时用，默认 `userid`） | `userid` / `openid` |
+| `FEISHU_OWNER_MEMBER_ID` | 你的用户ID或 open_id（没邮箱时用） | `abc123` / `ou_xxx` |
 | `DINGTALK_WEBHOOK_URL` | 钉钉机器人 Webhook | `https://oapi.dingtalk.com/robot/send?access_token=xxx` |
 | `DINGTALK_SECRET` | 钉钉「加签」密钥（可选） | 机器人「安全设置」里的密钥 |
 
