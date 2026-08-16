@@ -302,6 +302,35 @@ def item_key(it: Item) -> str:
     return "t:" + hashlib.sha1(normalize_title(it.title).encode("utf-8")).hexdigest()
 
 
+# 条目分类(报告按此分栏目)
+CATEGORY_ORDER = ["论文", "开源项目", "资讯动态"]
+
+
+def categorize(it: Item) -> str:
+    if it.source in ("ArXiv", "OpenAlex", "HuggingFace"):
+        return "论文"
+    if it.source == "GitHub Trending" or "github.com" in (it.url or "").lower():
+        return "开源项目"
+    return "资讯动态"
+
+
+def extract_github_link(text: str) -> str:
+    m = re.search(r"(?:https?://)?github\.com/[\w\-./]+", text or "")
+    if not m:
+        return ""
+    link = m.group(0).rstrip(".,;:)")
+    if not link.startswith("http"):
+        link = "https://" + link
+    return link
+
+
+def group_items(items: List[Item]) -> Dict[str, List[Item]]:
+    groups: Dict[str, List[Item]] = {c: [] for c in CATEGORY_ORDER}
+    for it in items:
+        groups[categorize(it)].append(it)
+    return {c: g for c, g in groups.items() if g}
+
+
 # ---------------------------------------------------------------------------
 # 历史查重索引 (持久化到仓库, 用于跨天去重)
 # ---------------------------------------------------------------------------
@@ -664,13 +693,12 @@ def filter_and_score(items: List[Item], index: Dict[str, Dict[str, str]]) -> Lis
 SYSTEM_PROMPT = (
     "你是一名资深的前沿科技分析师。请对给定的每条科技信息, 严格以 Markdown 输出以下三项内容:\n"
     "1. **核心技术突破**: 一句话点明技术关键点\n"
-    "2. **开源情况**: 是否附带代码/项目链接\n"
+    "2. **开源情况**: 是否附带代码/项目链接(若条目提供了 github_link, 请直接写明该开源链接)\n"
     "3. **工业落地可行性**: 评级(高/中/低) + 一句简短逻辑依据\n\n"
     "格式要求:\n"
     "- 每个条目一个小节, 标题使用 \"### N. 标题\"(N 为序号, 标题用中文概括)\n"
     "- 三项内容各占一行, 以无序列表呈现\n"
-    "- 只基于给定信息, 不要编造; 语言精炼专业\n"
-    "- 最后输出一节 \"## 今日要点总结\", 用 3-4 句概括今日最重要的趋势"
+    "- 只基于给定信息, 不要编造; 语言精炼专业"
 )
 
 
@@ -694,7 +722,7 @@ def call_llm(system: str, user: str) -> str:
     return data["choices"][0]["message"]["content"].strip()
 
 
-def llm_analyze(items: List[Item]) -> str:
+def llm_analyze(items: List[Item], category: str = "") -> str:
     if not LLM_API_KEY:
         print("[warn] 未配置 LLM_API_KEY, 跳过 LLM 解读")
         return ""
@@ -706,11 +734,13 @@ def llm_analyze(items: List[Item]) -> str:
             "url": i.url,
             "source": i.source,
             "domains": i.domains,
+            "github_link": extract_github_link(i.summary),
         }
         for i in subset
     ]
-    user = "以下是今日采集到的前沿科技信息, 请逐条分析:\n\n" + json.dumps(
-        payload_items, ensure_ascii=False, indent=2
+    cat_note = f"以下条目均属于「{category}」类别。" if category else ""
+    user = "以下是今日采集到的前沿科技信息。%s 请逐条分析:\n\n%s" % (
+        cat_note, json.dumps(payload_items, ensure_ascii=False, indent=2)
     )
     try:
         return call_llm(SYSTEM_PROMPT, user)
@@ -728,19 +758,15 @@ def fallback_analysis(items: List[Item]) -> str:
         lines.append(f"- **开源情况**: {'附项目链接 ' + it.url if it.url else '未提供链接'}")
         lines.append("- **工业落地可行性**: 中 (依据: 领域热度较高, 需进一步评估)")
         lines.append("")
-    lines.append("## 今日要点总结")
-    lines.append("今日共采集到相关条目 %d 条, 涉及领域: %s。" % (
-        len(items),
-        "、".join(sorted({d for i in items for d in i.domains})[:6]),
-    ))
     return "\n".join(lines)
 
 
 # ---------------------------------------------------------------------------
 # 4. 报告生成与存档
 # ---------------------------------------------------------------------------
-def build_report(items: List[Item], llm_md: str) -> str:
+def build_report(items: List[Item], llm_by_category: Dict[str, str]) -> str:
     now = beijing_now()
+    groups = group_items(items)
     lines: List[str] = []
     lines.append(f"# 前沿科技日报 · {now.strftime('%Y-%m-%d')}")
     lines.append("")
@@ -749,29 +775,47 @@ def build_report(items: List[Item], llm_md: str) -> str:
     lines.append("")
 
     counter = Counter(d for i in items for d in i.domains)
+    cat_counts = " / ".join(f"{c} {len(groups.get(c, []))}" for c in CATEGORY_ORDER)
     lines.append("## 今日概览")
     lines.append(f"- 相关条目: {len(items)}")
+    lines.append(f"- 分类: {cat_counts}")
     lines.append("- 领域分布:")
     for name, cnt in counter.most_common():
         lines.append(f"  - {name}: {cnt}")
     lines.append("")
 
-    analysis = llm_md or fallback_analysis(items)
     lines.append("## LLM 深度解读")
-    lines.append(analysis.strip())
-    lines.append("")
+    for cat in CATEGORY_ORDER:
+        group = groups.get(cat)
+        if not group:
+            continue
+        analysis = llm_by_category.get(cat) or fallback_analysis(group)
+        lines.append(f"### {cat}")
+        lines.append(analysis.strip())
+        lines.append("")
+    if not any(groups.get(c) for c in CATEGORY_ORDER):
+        lines.append("_今日无新增内容。_")
+        lines.append("")
 
     lines.append("## 完整条目清单")
-    for idx, it in enumerate(items, 1):
-        flag = (" [" + " / ".join(it.flags) + "]") if it.flags else ""
-        lines.append(f"{idx}. **{it.title}**  [{it.source}]{flag}")
-        if it.url:
-            lines.append(f"   - 链接: {it.url}")
-        lines.append(f"   - 领域: {' / '.join(it.domains)}")
-        if it.summary:
-            snippet = re.sub(r"\s+", " ", it.summary).strip()[:220]
-            lines.append(f"   - 摘要: {snippet}")
-        lines.append("")
+    for cat in CATEGORY_ORDER:
+        group = groups.get(cat)
+        if not group:
+            continue
+        lines.append(f"### {cat}")
+        for idx, it in enumerate(group, 1):
+            flag = (" [" + " / ".join(it.flags) + "]") if it.flags else ""
+            lines.append(f"{idx}. **{it.title}**  [{it.source}]{flag}")
+            if it.url:
+                lines.append(f"   - 链接: {it.url}")
+            gh = extract_github_link(it.summary)
+            if gh and gh.rstrip("/") != (it.url or "").rstrip("/"):
+                lines.append(f"   - 开源: {gh}")
+            lines.append(f"   - 领域: {' / '.join(it.domains)}")
+            if it.summary:
+                snippet = re.sub(r"\s+", " ", it.summary).strip()[:220]
+                lines.append(f"   - 摘要: {snippet}")
+            lines.append("")
     return "\n".join(lines)
 
 
@@ -922,10 +966,13 @@ def md_to_blocks(md: str) -> List[Dict[str, Any]]:
             blocks.append(_mk_block(3, "heading1", line[2:]))
         elif line.startswith("> "):
             blocks.append(_mk_block(15, "quote", line[2:]))
-        elif line.startswith(("- ", "* ")):
-            blocks.append(_mk_block(12, "bullet", line[2:]))
+        elif re.match(r"^\s*[-*]\s+", line):
+            # 无序列表(容忍缩进), 去掉前导空白与 "- "/"* "
+            content = re.sub(r"^\s*[-*]\s+", "", line)
+            blocks.append(_mk_block(12, "bullet", content))
         elif re.match(r"^\d+\.\s", line):
-            blocks.append(_mk_block(13, "ordered", re.sub(r"^\d+\.\s", "", line)))
+            # 有序列表: 保留序号为普通文本, 避免飞书 ordered 块每项都从 1 编号
+            blocks.append(_mk_block(2, "text", line))
         else:
             blocks.append(_mk_block(2, "text", line))
     if in_code and code_buf:
@@ -1142,8 +1189,12 @@ def main() -> None:
 
     if new_items:
         new_items = new_items[:MAX_REPORT_ITEMS]
-        llm_md = llm_analyze(new_items)
-        report = build_report(new_items, llm_md)
+        groups = group_items(new_items)
+        llm_by_category: Dict[str, str] = {}
+        for cat in CATEGORY_ORDER:
+            if groups.get(cat):
+                llm_by_category[cat] = llm_analyze(groups[cat], cat)
+        report = build_report(new_items, llm_by_category)
     else:
         report = (
             f"# 前沿科技日报 · {beijing_now().strftime('%Y-%m-%d')}\n\n"
