@@ -1,0 +1,54 @@
+name: Daily AI Tech Agent
+
+on:
+  schedule:
+    # UTC 00:00 = 北京时间 08:00 (GitHub Actions 定时任务统一按 UTC 计算)
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: daily-agent
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run agent
+        env:
+          PYTHONUNBUFFERED: "1"
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          MAX_LLM_ITEMS: "20"
+          MAX_REPORT_ITEMS: "40"
+          LOOKBACK_HOURS: "96"
+        run: python main.py
+
+      - name: Commit report and dedup index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports data
+          git commit -m "chore: daily report $(date +%F)" || echo "no changes to commit"
+          git push || echo "push failed (nothing to push)"
