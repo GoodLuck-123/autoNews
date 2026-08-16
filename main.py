@@ -979,9 +979,15 @@ def set_doc_tenant_readable(token: str, document_id: str) -> None:
             headers=_feishu_headers(token),
             timeout=30,
         )
-        data = resp.json()
-        if data.get("code") != 0:
-            print(f"[warn] 设置文档租户权限失败(已忽略): {_feishu_err(resp, '设置权限')}")
+        if resp.status_code == 200:
+            try:
+                data = resp.json()
+            except ValueError:
+                data = {}
+            if data.get("code") not in (0, None):
+                print(f"[warn] 设置文档租户权限失败(已忽略): {data}")
+        else:
+            print(f"[warn] 设置文档租户权限失败(已忽略): HTTP {resp.status_code} {resp.text[:200]}")
     except Exception as exc:  # noqa: BLE001
         print(f"[warn] 设置文档租户权限失败(已忽略): {exc}")
 
