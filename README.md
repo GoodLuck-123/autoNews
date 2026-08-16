@@ -1,7 +1,7 @@
-# 前沿科技信息聚合 Agent (v2)
+# 前沿科技信息聚合 Agent (v3)
 
 基于 **GitHub Actions + Python + LLM API** 的自动化前沿科技日报聚合系统。
-每日定时采集多源信息，经 11 个垂直领域关键词过滤 + 顶尖机构/顶会/知名研究者质量筛选，跨天历史查重，调用大模型生成结构化解读，存档到仓库并推送到飞书 / 钉钉。
+每日定时采集多源信息，经 11 个垂直领域关键词过滤 + 顶尖机构/顶会/知名研究者质量筛选，跨天历史查重，调用大模型生成结构化解读，归档到飞书云文档并推送链接（或钉钉），同时存档回仓库。
 
 ## 目录结构
 
@@ -9,6 +9,7 @@
 .
 ├── main.py                            # 采集 / 过滤 / 质量评分 / 查重 / LLM 分析 / 存档 / 推送
 ├── requirements.txt                   # 依赖(仅 requests)
+├── .gitignore                         # 忽略 __pycache__ / .env 等
 ├── .github/workflows/daily_agent.yml  # GitHub Actions 定时任务(采集 + 提交回仓库)
 ├── reports/YYYY-MM-DD.md              # 每日日报存档(由 Action 自动提交)
 ├── data/seen_index.json               # 跨天查重索引(由 Action 自动维护)
@@ -23,7 +24,8 @@
 | OpenAlex | 学术库检索，按**顶级机构/顶会/高被引**筛选高质量论文（含作者单位、引用数、期刊/会议） | 是 |
 | HuggingFace Daily Papers | 社区高关注度论文 | 是 |
 | GitHub Trending | 当日热门开源仓库（可选） | 否 |
-| RSS | OpenAI / Google DeepMind / HuggingFace Blog / Simon Willison / Lilian Weng / Sebastian Raschka 等官方博客与研究者长文 | 否 |
+| RSS | OpenAI / Google DeepMind / HuggingFace Blog / Simon Willison / Lilian Weng / Sebastian Raschka 官方博客与研究者长文 | 否 |
+| Web Search | Tavily 检索当日相关新闻（OpenAI/Anthropic/人形机器人/NVIDIA 等，可选） | 否 |
 
 ### 高质量论文筛选逻辑
 
@@ -32,14 +34,34 @@
 - OpenAlex 结果**仅保留**命中「顶级机构 / 顶会顶刊 / 高被引」的论文（质量分 ≥ 3）
 - 其余源按「机构 + 顶会 + 知名研究者 + 引用数 + 领域命中数」综合打分排序，报告里给高质量条目打 `[大厂/顶级机构]` `[顶会/顶刊]` `[知名研究者]` 等标记
 
+## 飞书文档归档（避免消息轰炸）
+
+飞书对话不支持 Markdown 且单条消息有字数上限，v3 默认把整份日报**归档为飞书云文档**，然后只在群里发一条文档链接。实现基于飞书「企业自建应用」的 docx 开放接口：
+
+1. 到 [飞书开放平台](https://open.feishu.cn/) 创建「企业自建应用」
+2. 应用「权限管理」里开通：`docx:document`（文档读写）、`drive:drive`（云空间/权限）等
+3. 发布应用并创建版本，让应用在你的租户内可用
+4. 拿到 **App ID** 与 **App Secret** 填入 Secrets（见下表）
+
+配置了 `FEISHU_APP_ID` + `FEISHU_APP_SECRET` 时：自动创建文档 → 写入内容 → 设为「租户内可读」→ 群里只发一条链接；未配置时回退为「分片纯文本」旧行为。
+
+> 文档默认创建在应用「我的空间」根目录；如需归档到指定文件夹，配置 `FEISHU_DOC_FOLDER_TOKEN`（文件夹 URL 里的 `?folderToken=xxx`）。
+
 ## 跨天查重与存档
 
 - 每次运行把当天命中条目的 URL/标题写入 `data/seen_index.json`（保留 90 天），下次运行自动跳过已收录内容，避免重复推送
 - 日报写入 `reports/YYYY-MM-DD.md`，由 GitHub Actions 在采集后 `git commit` 回仓库，形成可回溯的每日存档
 
-## 关于「能否搜索全网」
+## 本地不拉取 md 存档（sparse-checkout）
 
-GitHub Actions 的 runner 有完整的公网出站能力，脚本可访问**任意公开 API/URL**。因此「外网」「OpenAI 等厂商信息」都能取到——本版通过 RSS 抓取厂商官方博客与研究者博客。但**不存在免费的“全网搜索”接口**：如需真正的网页搜索（如搜“OpenAI 今日新闻”），需额外接入带 Key 的搜索 API（如 Tavily / Serper / Bing Search），可后续扩展。
+`reports/*.md` 会被 Action 提交到远端仓库用于存档，但你本地开发时不想把它们拉下来。用 git sparse-checkout 即可（`.gitignore` 管不到已跟踪文件）：
+
+```bash
+git sparse-checkout init --no-cone
+git sparse-checkout set '/*' '!/reports/'
+```
+
+之后 `git pull` 不再拉取 `reports/` 内容（`data/`、`main.py` 等仍正常）。恢复：`git sparse-checkout disable`。
 
 ## 部署步骤
 
@@ -60,6 +82,9 @@ GitHub Actions 的 runner 有完整的公网出站能力，脚本可访问**任�
 | --- | --- | --- |
 | `FEISHU_WEBHOOK_URL` | 飞书自定义机器人 Webhook | `https://open.feishu.cn/open-apis/bot/v2/hook/xxx` |
 | `FEISHU_SECRET` | 飞书签名密钥（可选） | 机器人「安全设置」里的密钥 |
+| `FEISHU_APP_ID` | 飞书自建应用 App ID（归档云文档用，可选） | `cli_xxxx` |
+| `FEISHU_APP_SECRET` | 飞书自建应用 App Secret（可选） | `xxxx` |
+| `FEISHU_DOC_FOLDER_TOKEN` | 归档目标文件夹 token（可选） | 文件夹 URL 里的值 |
 | `DINGTALK_WEBHOOK_URL` | 钉钉机器人 Webhook | `https://oapi.dingtalk.com/robot/send?access_token=xxx` |
 | `DINGTALK_SECRET` | 钉钉「加签」密钥（可选） | 机器人「安全设置」里的密钥 |
 
@@ -67,6 +92,7 @@ GitHub Actions 的 runner 有完整的公网出站能力，脚本可访问**任�
 
 | Secret 名 | 默认值 | 说明 |
 | --- | --- | --- |
+| `TAVILY_API_KEY` | 空 | 网页搜索 API Key（tavily.com 免费注册），配置后启用 Web Search 源 |
 | `MAX_LLM_ITEMS` | `20` | 送入 LLM 分析的最大条目数 |
 | `MAX_REPORT_ITEMS` | `40` | 日报展示的最大条目数 |
 | `LOOKBACK_HOURS` | `96` | 采集回溯小时数（覆盖周末 ArXiv 停更） |

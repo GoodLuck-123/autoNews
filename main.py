@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-前沿科技信息聚合 Agent (v2)
+前沿科技信息聚合 Agent (v3)
 ====================================
 流程:
   1. 采集: ArXiv / OpenAlex(高质量学术) / HuggingFace Daily Papers /
-           GitHub Trending / 各大实验室与研究者 RSS
+           GitHub Trending / 各大实验室与研究者 RSS / 网页搜索(Tavily)
   2. 过滤: 11 个垂直领域关键词 + 顶尖机构/顶会/知名研究者质量信号
   3. 查重: 与仓库内 data/seen_index.json 历史记录去重
   4. 分析: 调用 LLM(OpenAI 兼容接口) 结构化输出 Markdown
   5. 存档: 日报写入 reports/YYYY-MM-DD.md (由 GitHub Actions 提交回仓库)
-  6. 推送: 飞书(Feishu) / 钉钉(DingTalk) Webhook
+  6. 推送: 飞书(归档为云文档后只发链接, 避免消息轰炸) / 钉钉 Webhook
 
 全部配置通过环境变量注入, 配合 GitHub Actions Secrets 使用, 零服务器运维。
 """
@@ -43,6 +43,16 @@ FEISHU_WEBHOOK_URL = os.environ.get("FEISHU_WEBHOOK_URL", "")
 FEISHU_SECRET = os.environ.get("FEISHU_SECRET", "")
 DINGTALK_WEBHOOK_URL = os.environ.get("DINGTALK_WEBHOOK_URL", "")
 DINGTALK_SECRET = os.environ.get("DINGTALK_SECRET", "")
+
+# 飞书自建应用凭证(用于把日报归档为云文档后分享链接, 避免消息轰炸)
+FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "")
+FEISHU_APP_SECRET = os.environ.get("FEISHU_APP_SECRET", "")
+FEISHU_DOC_FOLDER_TOKEN = os.environ.get("FEISHU_DOC_FOLDER_TOKEN", "")
+FEISHU_DOC_BASE_URL = os.environ.get("FEISHU_DOC_BASE_URL", "https://feishu.cn")
+FEISHU_HOST = "https://open.feishu.cn"
+
+# 网页搜索 API(Tavily, 可选)
+TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY", "")
 
 MAX_LLM_ITEMS = int(os.environ.get("MAX_LLM_ITEMS", "20"))        # 送入 LLM 的最大条目数
 MAX_REPORT_ITEMS = int(os.environ.get("MAX_REPORT_ITEMS", "40"))  # 日报展示的最大条目数
@@ -205,6 +215,20 @@ RSS_FEEDS = [
     ("Simon Willison", "https://simonwillison.net/atom/everything/"),
     ("Lilian Weng", "https://lilianweng.github.io/index.xml"),
     ("Sebastian Raschka", "https://magazine.sebastianraschka.com/feed"),
+]
+
+# 网页搜索查询词(启用 TAVILY_API_KEY 后逐条检索当日新闻)
+WEB_SEARCH_QUERIES = [
+    q.strip()
+    for q in os.environ.get(
+        "WEB_SEARCH_QUERIES",
+        "OpenAI model announcement,"
+        "Anthropic Claude news,"
+        "humanoid robot release,"
+        "NVIDIA GPU AI chip announcement,"
+        "AI coding agent launch",
+    ).split(",")
+    if q.strip()
 ]
 
 # ---------------------------------------------------------------------------
@@ -544,6 +568,42 @@ def fetch_rss(max_per_feed: int = 10) -> List[Item]:
     return items
 
 
+def fetch_web_search(max_results: int = 5) -> List[Item]:
+    """通过 Tavily 检索当日相关新闻(可选, 需配置 TAVILY_API_KEY)。"""
+    if not TAVILY_API_KEY:
+        return []
+    items: List[Item] = []
+    for query in WEB_SEARCH_QUERIES:
+        try:
+            resp = requests.post(
+                "https://api.tavily.com/search",
+                json={
+                    "api_key": TAVILY_API_KEY,
+                    "query": query,
+                    "topic": "news",
+                    "days": 2,
+                    "search_depth": "advanced",
+                    "max_results": max_results,
+                },
+                timeout=HTTP_TIMEOUT,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            for r in (data.get("results") or []):
+                title = r.get("title") or ""
+                url = r.get("url") or ""
+                content = (r.get("content") or "")[:400]
+                if not title or not url:
+                    continue
+                items.append(Item(
+                    title=title, summary=content, url=url,
+                    source="Web Search", published="",
+                ))
+        except Exception as exc:  # noqa: BLE001
+            print(f"[warn] 网页搜索失败(已跳过 '{query}'): {exc}")
+    return items
+
+
 # ---------------------------------------------------------------------------
 # 2. 领域过滤 / 质量评分 / 去重
 # ---------------------------------------------------------------------------
@@ -679,7 +739,7 @@ def build_report(items: List[Item], llm_md: str) -> str:
     lines.append(f"# 前沿科技日报 · {now.strftime('%Y-%m-%d')}")
     lines.append("")
     lines.append(f"> 采集时间: {now.strftime('%Y-%m-%d %H:%M')} (北京时间)")
-    lines.append("> 数据源: ArXiv / OpenAlex / HuggingFace / GitHub Trending / RSS")
+    lines.append("> 数据源: ArXiv / OpenAlex / HuggingFace / GitHub Trending / RSS / Web Search")
     lines.append("")
 
     counter = Counter(d for i in items for d in i.domains)
@@ -730,10 +790,8 @@ def feishu_sign(timestamp: str, secret: str) -> str:
     return base64.b64encode(hmac_code).decode("utf-8")
 
 
-def push_feishu(md: str) -> bool:
-    if not FEISHU_WEBHOOK_URL:
-        print("[info] 未配置 FEISHU_WEBHOOK_URL, 跳过飞书推送")
-        return False
+def push_feishu_text(md: str) -> bool:
+    """降级方案: 分片纯文本消息(有字数上限, 会多条)。"""
     ok = True
     for chunk in chunk_text(md, 1500):
         body: Dict[str, Any] = {"msg_type": "text", "content": {"text": chunk}}
@@ -746,6 +804,190 @@ def push_feishu(md: str) -> bool:
             ok = False
             print(f"[error] 飞书推送失败 {resp.status_code}: {resp.text[:200]}")
     return ok
+
+
+# --- 飞书云文档归档(自建应用 docx API) ---
+_tenant_token_cache: Dict[str, Any] = {}
+
+
+def _feishu_headers(token: str) -> Dict[str, str]:
+    return {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
+
+
+def get_tenant_access_token() -> str:
+    if _tenant_token_cache.get("token") and _tenant_token_cache.get("expires_at", 0) > time.time():
+        return _tenant_token_cache["token"]
+    resp = requests.post(
+        f"{FEISHU_HOST}/open-apis/auth/v3/tenant_access_token/internal",
+        json={"app_id": FEISHU_APP_ID, "app_secret": FEISHU_APP_SECRET},
+        timeout=30,
+    )
+    data = resp.json()
+    if data.get("code") != 0:
+        raise RuntimeError(f"获取 tenant_access_token 失败: {data}")
+    _tenant_token_cache["token"] = data["tenant_access_token"]
+    _tenant_token_cache["expires_at"] = time.time() + int(data.get("expire", 7200)) - 300
+    return data["tenant_access_token"]
+
+
+def _text_run(content: str, bold: bool = False, link: Optional[str] = None) -> Dict[str, Any]:
+    run: Dict[str, Any] = {"content": content}
+    style: Dict[str, Any] = {}
+    if bold:
+        style["bold"] = True
+    if link:
+        style["link"] = {"url": link}
+    if style:
+        run["text_element_style"] = style
+    return {"text_run": run}
+
+
+def _inline_elements(text: str) -> List[Dict[str, Any]]:
+    """解析 **加粗** 与 [标题](链接) 为飞书 text_run 元素。"""
+    elements: List[Dict[str, Any]] = []
+    for part in re.split(r"(\*\*.+?\*\*|\[[^\]]+\]\([^)]+\))", text):
+        if not part:
+            continue
+        if part.startswith("**") and part.endswith("**") and len(part) > 4:
+            elements.append(_text_run(part[2:-2], bold=True))
+        elif part.startswith("["):
+            m = re.match(r"\[([^\]]+)\]\(([^)]+)\)", part)
+            if m:
+                elements.append(_text_run(m.group(1), link=m.group(2)))
+            else:
+                elements.append(_text_run(part))
+        else:
+            elements.append(_text_run(part))
+    return elements or [_text_run("")]
+
+
+def _mk_block(block_type: int, field: str, text: str) -> Dict[str, Any]:
+    return {
+        "block_type": block_type,
+        field: {"elements": _inline_elements(text), "style": {}},
+    }
+
+
+def md_to_blocks(md: str) -> List[Dict[str, Any]]:
+    """把日报 Markdown 转成飞书 docx 块(标题/文本/列表/引用/代码)。"""
+    blocks: List[Dict[str, Any]] = []
+    code_buf: List[str] = []
+    in_code = False
+    for raw in md.split("\n"):
+        line = raw.rstrip()
+        if line.startswith("```"):
+            if in_code:
+                blocks.append({
+                    "block_type": 14,
+                    "code": {"elements": [_text_run("\n".join(code_buf))], "style": {}},
+                })
+                code_buf = []
+                in_code = False
+            else:
+                in_code = True
+            continue
+        if in_code:
+            code_buf.append(raw)
+            continue
+        if not line.strip():
+            continue
+        if line.startswith("### "):
+            blocks.append(_mk_block(5, "heading3", line[4:]))
+        elif line.startswith("## "):
+            blocks.append(_mk_block(4, "heading2", line[3:]))
+        elif line.startswith("# "):
+            blocks.append(_mk_block(3, "heading1", line[2:]))
+        elif line.startswith("> "):
+            blocks.append(_mk_block(15, "quote", line[2:]))
+        elif line.startswith(("- ", "* ")):
+            blocks.append(_mk_block(12, "bullet", line[2:]))
+        elif re.match(r"^\d+\.\s", line):
+            blocks.append(_mk_block(13, "ordered", re.sub(r"^\d+\.\s", "", line)))
+        else:
+            blocks.append(_mk_block(2, "text", line))
+    if in_code and code_buf:
+        blocks.append({
+            "block_type": 14,
+            "code": {"elements": [_text_run("\n".join(code_buf))], "style": {}},
+        })
+    return blocks
+
+
+def create_docx(token: str, title: str) -> str:
+    resp = requests.post(
+        f"{FEISHU_HOST}/open-apis/docx/v1/documents",
+        json={"folder_token": FEISHU_DOC_FOLDER_TOKEN, "title": title},
+        headers=_feishu_headers(token),
+        timeout=60,
+    )
+    data = resp.json()
+    if data.get("code") != 0:
+        raise RuntimeError(f"创建飞书文档失败: {data}")
+    return data["data"]["document"]["document_id"]
+
+
+def append_docx_blocks(token: str, document_id: str, blocks: List[Dict[str, Any]]) -> None:
+    url = f"{FEISHU_HOST}/open-apis/docx/v1/documents/{document_id}/blocks/{document_id}/children"
+    for i in range(0, len(blocks), 50):
+        resp = requests.post(
+            url,
+            json={"children": blocks[i:i + 50], "index": -1},
+            headers=_feishu_headers(token),
+            timeout=60,
+        )
+        data = resp.json()
+        if data.get("code") != 0:
+            raise RuntimeError(f"写入文档块失败: {data}")
+
+
+def set_doc_tenant_readable(token: str, document_id: str) -> None:
+    """把文档设为租户内可读(全公司成员可打开), 失败不影响主流程。"""
+    try:
+        requests.post(
+            f"{FEISHU_HOST}/open-apis/drive/v1/permissions/{document_id}/public",
+            params={"type": "docx"},
+            json={"link_share_entity": "tenant_readable", "external_access": False},
+            headers=_feishu_headers(token),
+            timeout=30,
+        )
+    except Exception as exc:  # noqa: BLE001
+        print(f"[warn] 设置文档租户权限失败(已忽略): {exc}")
+
+
+def push_feishu_doc(md: str) -> Optional[str]:
+    """归档日报到飞书云文档并返回文档链接。"""
+    token = get_tenant_access_token()
+    title = f"前沿科技日报 · {beijing_now().strftime('%Y-%m-%d')}"
+    document_id = create_docx(token, title)
+    append_docx_blocks(token, document_id, md_to_blocks(md))
+    set_doc_tenant_readable(token, document_id)
+    return f"{FEISHU_DOC_BASE_URL.rstrip('/')}/docx/{document_id}"
+
+
+def push_feishu(md: str) -> bool:
+    if not FEISHU_WEBHOOK_URL:
+        print("[info] 未配置 FEISHU_WEBHOOK_URL, 跳过飞书推送")
+        return False
+    # 优先: 归档为云文档后只发一个链接(避免消息轰炸)
+    if FEISHU_APP_ID and FEISHU_APP_SECRET:
+        try:
+            doc_url = push_feishu_doc(md)
+            body: Dict[str, Any] = {
+                "msg_type": "text",
+                "content": {"text": f"今日前沿科技日报已归档, 点击查看:\n{doc_url}"},
+            }
+            if FEISHU_SECRET:
+                timestamp = str(int(time.time()))
+                body["timestamp"] = timestamp
+                body["sign"] = feishu_sign(timestamp, FEISHU_SECRET)
+            resp = requests.post(FEISHU_WEBHOOK_URL, json=body, timeout=30)
+            ok = resp.status_code == 200
+            if not ok:
+                print(f"[error] 飞书链接推送失败 {resp.status_code}: {resp.text[:200]}")
+            return ok
+        except Exception as exc:  # noqa: BLE001
+            print(f"[warn] 飞书文档归档失败, 回退为分片文本: {exc}")
+    return push_feishu_text(md)
 
 
 def dingtalk_sign(timestamp: str, secret: str) -> str:
@@ -793,6 +1035,7 @@ def main() -> None:
         ("HuggingFace", fetch_hf_daily_papers),
         ("GitHub Trending", fetch_github_trending),
         ("RSS", fetch_rss),
+        ("Web Search", fetch_web_search),
     ]
     for name, fn in sources:
         before = len(raw)

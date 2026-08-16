@@ -38,8 +38,12 @@ jobs:
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_DOC_FOLDER_TOKEN: ${{ secrets.FEISHU_DOC_FOLDER_TOKEN }}
           DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
           DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           MAX_LLM_ITEMS: "20"
           MAX_REPORT_ITEMS: "40"
           LOOKBACK_HOURS: "96"
