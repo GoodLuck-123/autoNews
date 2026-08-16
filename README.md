@@ -84,7 +84,8 @@ git sparse-checkout set '/*' '!/reports/'
 | `FEISHU_SECRET` | 飞书签名密钥（可选） | 机器人「安全设置」里的密钥 |
 | `FEISHU_APP_ID` | 飞书自建应用 App ID（归档云文档用，可选） | `cli_xxxx` |
 | `FEISHU_APP_SECRET` | 飞书自建应用 App Secret（可选） | `xxxx` |
-| `FEISHU_DOC_FOLDER_TOKEN` | 归档目标文件夹 token（可选） | 文件夹 URL 里的值 |
+| `FEISHU_DOC_FOLDER_TOKEN` | 归档目标文件夹 token（可选） | 文件夹 URL `/folder/` 后的值 |
+| `FEISHU_DOC_BASE_URL` | 你的飞书租户域名（自定义域名必填，否则链接打不开） | `https://ucnf8fdogxx6.feishu.cn` |
 | `DINGTALK_WEBHOOK_URL` | 钉钉机器人 Webhook | `https://oapi.dingtalk.com/robot/send?access_token=xxx` |
 | `DINGTALK_SECRET` | 钉钉「加签」密钥（可选） | 机器人「安全设置」里的密钥 |
 
@@ -105,6 +106,18 @@ git sparse-checkout set '/*' '!/reports/'
 ## 定时触发
 
 `daily_agent.yml` 中 `cron: "0 0 * * *"` = **UTC 00:00 = 北京时间每日 08:00**（GitHub 按 UTC 计算，实际触发可能有延迟）。手动触发：**Actions → Run workflow**。
+
+## 飞书文档归档排查
+
+失败时会在日志打印 `[warn] 创建文档... code=xxx msg=...`，按 code 定位：
+
+| 现象 | 原因 / 解决 |
+| --- | --- |
+| `code=99991400` | 应用**未发布** → 开放平台「版本管理与发布」创建版本并发布 |
+| `code=99991663` | 缺少权限 → 应用「权限管理」开通 `docx:document`、`drive:drive` |
+| `code=1254046` | `FEISHU_DOC_FOLDER_TOKEN` 无效或应用无权访问该文件夹 → 可先留空（自动归档到应用空间） |
+| 文档创建成功但链接打不开 | 自定义域名租户需配置 `FEISHU_DOC_BASE_URL`（如 `https://ucnf8fdogxx6.feishu.cn`） |
+| 仍是消息轰炸 | 说明归档失败已回退分片文本；看上面的 `[warn]` 行定位具体原因 |
 
 ## 本地调试
 

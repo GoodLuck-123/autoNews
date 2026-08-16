@@ -814,6 +814,23 @@ def _feishu_headers(token: str) -> Dict[str, str]:
     return {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
 
 
+def _feishu_err(resp: requests.Response, action: str) -> str:
+    """把飞书错误响应格式化为可读信息(含常见原因提示)。"""
+    try:
+        data = resp.json()
+    except ValueError:
+        return f"{action}失败 HTTP {resp.status_code}: {resp.text[:200]}"
+    code = data.get("code")
+    msg = data.get("msg", "")
+    hints = {
+        "99991400": "应用未发布, 去开放平台「版本管理与发布」发布应用",
+        "99991663": "缺少权限, 去应用「权限管理」开通 docx:document / drive:drive",
+        "1254046": "folder_token 无效或应用无权访问该文件夹",
+        "99990000": "参数或鉴权错误, 检查 App ID / App Secret",
+    }.get(str(code), "")
+    return f"{action}失败 code={code} msg={msg} {hints}".strip()
+
+
 def get_tenant_access_token() -> str:
     if _tenant_token_cache.get("token") and _tenant_token_cache.get("expires_at", 0) > time.time():
         return _tenant_token_cache["token"]
@@ -824,7 +841,7 @@ def get_tenant_access_token() -> str:
     )
     data = resp.json()
     if data.get("code") != 0:
-        raise RuntimeError(f"获取 tenant_access_token 失败: {data}")
+        raise RuntimeError(_feishu_err(resp, "获取 tenant_access_token"))
     _tenant_token_cache["token"] = data["tenant_access_token"]
     _tenant_token_cache["expires_at"] = time.time() + int(data.get("expire", 7200)) - 300
     return data["tenant_access_token"]
@@ -914,16 +931,23 @@ def md_to_blocks(md: str) -> List[Dict[str, Any]]:
 
 
 def create_docx(token: str, title: str) -> str:
-    resp = requests.post(
-        f"{FEISHU_HOST}/open-apis/docx/v1/documents",
-        json={"folder_token": FEISHU_DOC_FOLDER_TOKEN, "title": title},
-        headers=_feishu_headers(token),
-        timeout=60,
-    )
-    data = resp.json()
-    if data.get("code") != 0:
-        raise RuntimeError(f"创建飞书文档失败: {data}")
-    return data["data"]["document"]["document_id"]
+    # 优先归档到指定文件夹, 失败则回退到应用自己的空间
+    folders = [FEISHU_DOC_FOLDER_TOKEN] if FEISHU_DOC_FOLDER_TOKEN else []
+    folders.append("")
+    last_err = ""
+    for folder in folders:
+        resp = requests.post(
+            f"{FEISHU_HOST}/open-apis/docx/v1/documents",
+            json={"folder_token": folder, "title": title},
+            headers=_feishu_headers(token),
+            timeout=60,
+        )
+        data = resp.json()
+        if data.get("code") == 0:
+            return data["data"]["document"]["document_id"]
+        last_err = _feishu_err(resp, f"创建文档(folder={'<指定文件夹>' if folder else '<应用空间>'})")
+        print(f"[warn] {last_err}")
+    raise RuntimeError(last_err or "创建飞书文档失败")
 
 
 def append_docx_blocks(token: str, document_id: str, blocks: List[Dict[str, Any]]) -> None:
@@ -937,19 +961,22 @@ def append_docx_blocks(token: str, document_id: str, blocks: List[Dict[str, Any]
         )
         data = resp.json()
         if data.get("code") != 0:
-            raise RuntimeError(f"写入文档块失败: {data}")
+            raise RuntimeError(_feishu_err(resp, "写入文档块"))
 
 
 def set_doc_tenant_readable(token: str, document_id: str) -> None:
     """把文档设为租户内可读(全公司成员可打开), 失败不影响主流程。"""
     try:
-        requests.post(
+        resp = requests.post(
             f"{FEISHU_HOST}/open-apis/drive/v1/permissions/{document_id}/public",
             params={"type": "docx"},
             json={"link_share_entity": "tenant_readable", "external_access": False},
             headers=_feishu_headers(token),
             timeout=30,
         )
+        data = resp.json()
+        if data.get("code") != 0:
+            print(f"[warn] 设置文档租户权限失败(已忽略): {_feishu_err(resp, '设置权限')}")
     except Exception as exc:  # noqa: BLE001
         print(f"[warn] 设置文档租户权限失败(已忽略): {exc}")
 
