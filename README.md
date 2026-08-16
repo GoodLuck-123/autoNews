@@ -45,7 +45,14 @@
 
 配置了 `FEISHU_APP_ID` + `FEISHU_APP_SECRET` 时：自动创建文档 → 写入内容 → 设为「租户内可读」→ 群里只发一条链接；未配置时回退为「分片纯文本」旧行为。
 
-> 文档默认创建在应用「我的空间」根目录；如需归档到指定文件夹，配置 `FEISHU_DOC_FOLDER_TOKEN`（文件夹 URL 里的 `?folderToken=xxx`）。
+### 归档到指定文件夹 + 让你能编辑
+
+文档默认由**应用（机器人）所有**，创建在应用自己的空间。要「存到你指定的文件夹」且「你能编辑」，需要两步：
+
+1. **给文件夹授权**：在飞书里打开目标文件夹 → 添加协作者 → 搜索并添加该应用（机器人）为「可编辑」。否则应用无权写入你的文件夹，会回退到应用空间。
+2. **配置所有者邮箱**：添加 Secret `FEISHU_OWNER_EMAIL`（你的飞书登录邮箱）。运行时会把你添加为文档协作者（可管理），并尝试把所有权转让给你。
+
+> `FEISHU_DOC_FOLDER_TOKEN` 取文件夹 URL 中 `/folder/` 后的那串字符（不是 `?folderToken=`）。
 
 ## 跨天查重与存档
 
@@ -86,6 +93,7 @@ git sparse-checkout set '/*' '!/reports/'
 | `FEISHU_APP_SECRET` | 飞书自建应用 App Secret（可选） | `xxxx` |
 | `FEISHU_DOC_FOLDER_TOKEN` | 归档目标文件夹 token（可选） | 文件夹 URL `/folder/` 后的值 |
 | `FEISHU_DOC_BASE_URL` | 你的飞书租户域名（自定义域名必填，否则链接打不开） | `https://ucnf8fdogxx6.feishu.cn` |
+| `FEISHU_OWNER_EMAIL` | 你的飞书邮箱（让文档归你所有、可编辑） | `you@company.com` |
 | `DINGTALK_WEBHOOK_URL` | 钉钉机器人 Webhook | `https://oapi.dingtalk.com/robot/send?access_token=xxx` |
 | `DINGTALK_SECRET` | 钉钉「加签」密钥（可选） | 机器人「安全设置」里的密钥 |
 
@@ -116,6 +124,8 @@ git sparse-checkout set '/*' '!/reports/'
 | `code=99991400` | 应用**未发布** → 开放平台「版本管理与发布」创建版本并发布 |
 | `code=99991663` | 缺少权限 → 应用「权限管理」开通 `docx:document`、`drive:drive` |
 | `code=1254046` | `FEISHU_DOC_FOLDER_TOKEN` 无效或应用无权访问该文件夹 → 可先留空（自动归档到应用空间） |
+| 文档没进指定文件夹 | 应用没被加为该文件夹的「可编辑」协作者 → 在飞书文件夹里添加应用为协作者 |
+| 文档所有者是应用、自己没法编辑 | 配置 `FEISHU_OWNER_EMAIL`（你的飞书邮箱），运行时会自动加协作者并转让所有权 |
 | 文档创建成功但链接打不开 | 自定义域名租户需配置 `FEISHU_DOC_BASE_URL`（如 `https://ucnf8fdogxx6.feishu.cn`） |
 | 仍是消息轰炸 | 说明归档失败已回退分片文本；看上面的 `[warn]` 行定位具体原因 |
 

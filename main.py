@@ -49,6 +49,7 @@ FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "")
 FEISHU_APP_SECRET = os.environ.get("FEISHU_APP_SECRET", "")
 FEISHU_DOC_FOLDER_TOKEN = os.environ.get("FEISHU_DOC_FOLDER_TOKEN", "")
 FEISHU_DOC_BASE_URL = os.environ.get("FEISHU_DOC_BASE_URL", "https://feishu.cn")
+FEISHU_OWNER_EMAIL = os.environ.get("FEISHU_OWNER_EMAIL", "")  # 文档所有者(你的飞书邮箱)
 FEISHU_HOST = "https://open.feishu.cn"
 
 # 网页搜索 API(Tavily, 可选)
@@ -950,6 +951,7 @@ def create_docx(token: str, title: str) -> str:
             return data["data"]["document"]["document_id"]
         last_err = _feishu_err(resp, f"创建文档(folder={'<指定文件夹>' if folder else '<应用空间>'})")
         print(f"[warn] {last_err}")
+    print("[hint] 若需归档到指定文件夹, 请在飞书里把该应用(机器人)添加为目标文件夹的「可编辑」协作者")
     raise RuntimeError(last_err or "创建飞书文档失败")
 
 
@@ -984,6 +986,47 @@ def set_doc_tenant_readable(token: str, document_id: str) -> None:
         print(f"[warn] 设置文档租户权限失败(已忽略): {exc}")
 
 
+def add_doc_collaborator(token: str, document_id: str, member_type: str, member_id: str,
+                         perm: str = "full_access") -> bool:
+    """给文档添加协作者(使指定用户获得编辑/管理权限)。"""
+    try:
+        resp = requests.post(
+            f"{FEISHU_HOST}/open-apis/drive/v1/permissions/{document_id}/members",
+            params={"type": "docx"},
+            json={"member_type": member_type, "member_id": member_id, "perm": perm},
+            headers=_feishu_headers(token),
+            timeout=30,
+        )
+        data = resp.json()
+        if data.get("code") != 0:
+            print(f"[warn] 添加文档协作者失败: {_feishu_err(resp, '添加协作者')}")
+            return False
+        return True
+    except Exception as exc:  # noqa: BLE001
+        print(f"[warn] 添加文档协作者失败: {exc}")
+        return False
+
+
+def transfer_doc_owner(token: str, document_id: str, member_type: str, member_id: str) -> bool:
+    """把文档所有权转让给指定用户(最佳努力, 失败不影响主流程)。"""
+    try:
+        resp = requests.post(
+            f"{FEISHU_HOST}/open-apis/drive/v1/permissions/{document_id}/members/transfer_owner",
+            params={"type": "docx"},
+            json={"member_type": member_type, "member_id": member_id},
+            headers=_feishu_headers(token),
+            timeout=30,
+        )
+        data = resp.json()
+        if data.get("code") != 0:
+            print(f"[warn] 转让文档所有者失败(已忽略): {_feishu_err(resp, '转让所有者')}")
+            return False
+        return True
+    except Exception as exc:  # noqa: BLE001
+        print(f"[warn] 转让文档所有者失败(已忽略): {exc}")
+        return False
+
+
 def push_feishu_doc(md: str) -> Optional[str]:
     """归档日报到飞书云文档并返回文档链接。"""
     token = get_tenant_access_token()
@@ -991,6 +1034,10 @@ def push_feishu_doc(md: str) -> Optional[str]:
     document_id = create_docx(token, title)
     append_docx_blocks(token, document_id, md_to_blocks(md))
     set_doc_tenant_readable(token, document_id)
+    # 让指定用户(你)拥有编辑/管理权限, 并把所有权转让给 TA
+    if FEISHU_OWNER_EMAIL:
+        add_doc_collaborator(token, document_id, "email", FEISHU_OWNER_EMAIL, "full_access")
+        transfer_doc_owner(token, document_id, "email", FEISHU_OWNER_EMAIL)
     return f"{FEISHU_DOC_BASE_URL.rstrip('/')}/docx/{document_id}"
 
 
