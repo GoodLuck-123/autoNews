@@ -609,6 +609,7 @@ def fetch_web_search(max_results: int = 5) -> List[Item]:
 # ---------------------------------------------------------------------------
 def filter_and_score(items: List[Item], index: Dict[str, Dict[str, str]]) -> List[Item]:
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
+    today = beijing_now().strftime("%Y-%m-%d")
     candidates: List[Item] = []
 
     for it in items:
@@ -628,8 +629,9 @@ def filter_and_score(items: List[Item], index: Dict[str, Dict[str, str]]) -> Lis
         if it.published and published_dt and published_dt < cutoff:
             continue
 
-        # 与历史索引去重
-        if item_key(it) in index:
+        # 与历史索引去重(仅排除"非今日"已收录项; 当天重跑仍会重新生成报告)
+        seen = index.get(item_key(it))
+        if seen and seen.get("first_seen") and seen["first_seen"] < today:
             continue
 
         candidates.append(it)
@@ -643,9 +645,10 @@ def filter_and_score(items: List[Item], index: Dict[str, Dict[str, str]]) -> Lis
             best[tkey] = it
 
     # 将本次所有通过过滤的 URL 写入索引(含被标题去重掉的), 避免次日重复收录
-    today = beijing_now().strftime("%Y-%m-%d")
     for it in candidates:
-        index[item_key(it)] = {"title": it.title, "first_seen": today, "url": it.url}
+        key = item_key(it)
+        if key not in index:
+            index[key] = {"title": it.title, "first_seen": today, "url": it.url}
 
     final = list(best.values())
     final.sort(key=lambda x: (x.quality, x.published), reverse=True)

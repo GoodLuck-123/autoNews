@@ -49,7 +49,7 @@
 
 ## 跨天查重与存档
 
-- 每次运行把当天命中条目的 URL/标题写入 `data/seen_index.json`（保留 90 天），下次运行自动跳过已收录内容，避免重复推送
+- 每次运行把当天命中条目的 URL/标题写入 `data/seen_index.json`（保留 90 天），**只对「非今日」已收录内容去重**——跨天不重复推送，但当天重复触发（如手动测试）仍会重新生成并推送报告，无需手动删除索引
 - 日报写入 `reports/YYYY-MM-DD.md`，由 GitHub Actions 在采集后 `git commit` 回仓库，形成可回溯的每日存档
 
 ## 本地不拉取 md 存档（sparse-checkout）
