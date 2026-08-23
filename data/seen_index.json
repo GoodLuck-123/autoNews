@@ -4738,5 +4738,100 @@
     "title": "Meta Platforms (META) Undercuts Anthropic and OpenAI ...",
     "first_seen": "2026-08-22",
     "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-undercuts-anthropic-201309099.html"
+  },
+  "u:https://doi.org/10.3389/fnins.2026.1882653": {
+    "title": "Closed-loop brain-computer interfaces for post-stroke sensorimotor loop restoration",
+    "first_seen": "2026-08-23",
+    "url": "https://doi.org/10.3389/fnins.2026.1882653"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.19981": {
+    "title": "HealMed: Multilingual Evaluation of Large Language Models in Medicine",
+    "first_seen": "2026-08-23",
+    "url": "https://doi.org/10.48550/arxiv.2608.19981"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.19556": {
+    "title": "Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models",
+    "first_seen": "2026-08-23",
+    "url": "https://doi.org/10.48550/arxiv.2608.19556"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.20284": {
+    "title": "Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning",
+    "first_seen": "2026-08-23",
+    "url": "https://doi.org/10.48550/arxiv.2608.20284"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.20000": {
+    "title": "Point-Based 3D Reconstruction from Sparse Views under Known Illumination",
+    "first_seen": "2026-08-23",
+    "url": "https://doi.org/10.48550/arxiv.2608.20000"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.19758": {
+    "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+    "first_seen": "2026-08-23",
+    "url": "https://doi.org/10.48550/arxiv.2608.19758"
+  },
+  "u:https://github.com/openai/codex": {
+    "title": "openai/codex",
+    "first_seen": "2026-08-23",
+    "url": "https://github.com/openai/codex"
+  },
+  "u:https://github.com/Wei-Shaw/sub2api": {
+    "title": "Wei-Shaw/sub2api",
+    "first_seen": "2026-08-23",
+    "url": "https://github.com/Wei-Shaw/sub2api"
+  },
+  "u:https://github.com/anthropics/claude-code": {
+    "title": "anthropics/claude-code",
+    "first_seen": "2026-08-23",
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  "u:https://github.com/multica-ai/andrej-karpathy-skills": {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "first_seen": "2026-08-23",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  "u:https://simonwillison.net/2026/Aug/22/llm": {
+    "title": "llm 0.33",
+    "first_seen": "2026-08-23",
+    "url": "https://simonwillison.net/2026/Aug/22/llm/"
+  },
+  "u:https://simonwillison.net/2026/Aug/22/more-than-just-code-review": {
+    "title": "More than just code review",
+    "first_seen": "2026-08-23",
+    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
+  },
+  "u:https://magazine.sebastianraschka.com/p/claude-watermarking": {
+    "title": "How Claude Watermarks AI-Generated Text",
+    "first_seen": "2026-08-23",
+    "url": "https://magazine.sebastianraschka.com/p/claude-watermarking"
+  },
+  "u:https://www.informationweek.com/machine-learning-ai/openai-s-model-slowdown-offers-cios-a-lesson-in-ai-planning": {
+    "title": "OpenAI's model slowdown offers CIOs a lesson in AI planning",
+    "first_seen": "2026-08-23",
+    "url": "https://www.informationweek.com/machine-learning-ai/openai-s-model-slowdown-offers-cios-a-lesson-in-ai-planning"
+  },
+  "u:https://www.independent.co.uk/tech/security/chatgpt-openai-update-new-astra-model-b3035734.html": {
+    "title": "OpenAI pauses work on new version of ChatGPT after it shows concerning behaviour",
+    "first_seen": "2026-08-23",
+    "url": "https://www.independent.co.uk/tech/security/chatgpt-openai-update-new-astra-model-b3035734.html"
+  },
+  "u:https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security": {
+    "title": "Anthropic Brings Claude Mythos 5 to Claude Security",
+    "first_seen": "2026-08-23",
+    "url": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security"
+  },
+  "u:https://thenewstack.io/anthropic-mythos-claude-security": {
+    "title": "Anthropic brings Mythos 5 to its Claude Security vulnerability scanner",
+    "first_seen": "2026-08-23",
+    "url": "https://thenewstack.io/anthropic-mythos-claude-security"
+  },
+  "u:https://stocktwits.com/news-articles/markets/equity/nvidia-deals-show-next-ai-growth-wave-beyond-chips/cZY9bYlRJVb": {
+    "title": "Nvidia Is Not Just Selling AI Chips: Its Latest Deals Show Where The Next Growth Wave May Come From",
+    "first_seen": "2026-08-23",
+    "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-deals-show-next-ai-growth-wave-beyond-chips/cZY9bYlRJVb"
+  },
+  "u:https://www.forbes.com/sites/timkeary/2026/08/20/slack-brings-ai-agents-to-workspaces-but-can-it-take-on-teams": {
+    "title": "Slack Brings AI Agents To Workspaces. But Can It Take On Teams?",
+    "first_seen": "2026-08-23",
+    "url": "https://www.forbes.com/sites/timkeary/2026/08/20/slack-brings-ai-agents-to-workspaces-but-can-it-take-on-teams"
   }
 }
