@@ -4833,5 +4833,80 @@
     "title": "Slack Brings AI Agents To Workspaces. But Can It Take On Teams?",
     "first_seen": "2026-08-23",
     "url": "https://www.forbes.com/sites/timkeary/2026/08/20/slack-brings-ai-agents-to-workspaces-but-can-it-take-on-teams"
+  },
+  "u:https://doi.org/10.1145/3841472": {
+    "title": "A Survey on Human-AI Collaboration with Large Foundation Models",
+    "first_seen": "2026-08-24",
+    "url": "https://doi.org/10.1145/3841472"
+  },
+  "u:https://doi.org/10.1145/3843225": {
+    "title": "Multi-Bin Batching for Increasing LLM Inference Throughput",
+    "first_seen": "2026-08-24",
+    "url": "https://doi.org/10.1145/3843225"
+  },
+  "u:https://github.com/freestylefly/awesome-gpt-image-2": {
+    "title": "freestylefly/awesome-gpt-image-2",
+    "first_seen": "2026-08-24",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  "u:https://github.com/Alishahryar1/free-claude-code": {
+    "title": "Alishahryar1/free-claude-code",
+    "first_seen": "2026-08-24",
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  "u:https://github.com/tinyhumansai/openhuman": {
+    "title": "tinyhumansai/openhuman",
+    "first_seen": "2026-08-24",
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  "u:https://github.com/VoltAgent/awesome-agent-skills": {
+    "title": "VoltAgent/awesome-agent-skills",
+    "first_seen": "2026-08-24",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  "u:https://github.com/virgiliojr94/book-to-skill": {
+    "title": "virgiliojr94/book-to-skill",
+    "first_seen": "2026-08-24",
+    "url": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  "u:https://github.com/anthropics/claude-plugins-community": {
+    "title": "anthropics/claude-plugins-community",
+    "first_seen": "2026-08-24",
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  "u:https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t": {
+    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+    "first_seen": "2026-08-24",
+    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
+  },
+  "u:https://simonwillison.net/2026/Aug/23/drew-breunig": {
+    "title": "Quoting Drew Breunig",
+    "first_seen": "2026-08-24",
+    "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
+  },
+  "u:https://www.startuphub.ai/ai-news/artificial-intelligence/2026/claude-code-adds-ai-design-cross-session-chat": {
+    "title": "Claude Code Adds AI Design, Cross-Session Chat",
+    "first_seen": "2026-08-24",
+    "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/claude-code-adds-ai-design-cross-session-chat"
+  },
+  "u:https://almcorp.com/news/anthropic-claude-code-auto-mode-default-august-2026": {
+    "title": "Anthropic Is Making Claude Code’s Auto Mode the Default Setting",
+    "first_seen": "2026-08-24",
+    "url": "https://almcorp.com/news/anthropic-claude-code-auto-mode-default-august-2026"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/noitom-robotics-releases-hiphi-one-010000288.html": {
+    "title": "Noitom Robotics Releases HiPHI, One of the Largest High-Precision Human Motion Datasets Ever Made Public, at the World Robot Conference",
+    "first_seen": "2026-08-24",
+    "url": "https://finance.yahoo.com/technology/ai/articles/noitom-robotics-releases-hiphi-one-010000288.html"
+  },
+  "u:https://es.tradingview.com/news/stocktwits:10f366471094b:0-nvidia-is-not-just-selling-ai-chips-its-latest-deals-show-where-the-next-growth-wave-may-come-from": {
+    "title": "Nvidia Is Not Just Selling AI Chips: Its Latest Deals Show Where The Next Growth Wave May Come From",
+    "first_seen": "2026-08-24",
+    "url": "https://es.tradingview.com/news/stocktwits:10f366471094b:0-nvidia-is-not-just-selling-ai-chips-its-latest-deals-show-where-the-next-growth-wave-may-come-from"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-cloudera-113739829.html": {
+    "title": "Latest News In AI Chips - Cloudera NVIDIA Partnership Boosts Apache Spark Performance",
+    "first_seen": "2026-08-24",
+    "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-cloudera-113739829.html"
   }
 }
