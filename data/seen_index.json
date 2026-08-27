@@ -7253,5 +7253,45 @@
     "title": "Acronis launches agentic AI platform for autonomous IT workflows - The Jerusalem Post",
     "first_seen": "2026-08-27",
     "url": "https://www.jpost.com/business-and-innovation/article-906562"
+  },
+  "u:https://huggingface.co/papers/2608.23383": {
+    "title": "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
+    "first_seen": "2026-08-27",
+    "url": "https://huggingface.co/papers/2608.23383"
+  },
+  "u:https://huggingface.co/papers/2608.25529": {
+    "title": "Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios",
+    "first_seen": "2026-08-27",
+    "url": "https://huggingface.co/papers/2608.25529"
+  },
+  "u:https://huggingface.co/papers/2608.24138": {
+    "title": "Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation",
+    "first_seen": "2026-08-27",
+    "url": "https://huggingface.co/papers/2608.24138"
+  },
+  "u:https://huggingface.co/papers/2608.26005": {
+    "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+    "first_seen": "2026-08-27",
+    "url": "https://huggingface.co/papers/2608.26005"
+  },
+  "u:https://huggingface.co/papers/2608.15062": {
+    "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation in Transformers",
+    "first_seen": "2026-08-27",
+    "url": "https://huggingface.co/papers/2608.15062"
+  },
+  "u:https://huggingface.co/papers/2608.24479": {
+    "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
+    "first_seen": "2026-08-27",
+    "url": "https://huggingface.co/papers/2608.24479"
+  },
+  "u:https://www.reuters.com/sports/robot-olympics-ends-with-humanoids-864-second-100m-nearly-second-faster-than-2026-08-26": {
+    "title": "Robot Olympics ends with humanoid's 8.64-second 100m, nearly a second faster than Bolt - Reuters",
+    "first_seen": "2026-08-27",
+    "url": "https://www.reuters.com/sports/robot-olympics-ends-with-humanoids-864-second-100m-nearly-second-faster-than-2026-08-26/"
+  },
+  "u:https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games": {
+    "title": "New Dev Tool From Meta Enables AI to Quickly Test Quest Games - Road to VR",
+    "first_seen": "2026-08-27",
+    "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/"
   }
 }
