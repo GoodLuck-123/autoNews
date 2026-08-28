@@ -7293,5 +7293,250 @@
     "title": "New Dev Tool From Meta Enables AI to Quickly Test Quest Games - Road to VR",
     "first_seen": "2026-08-27",
     "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.23927": {
+    "title": "GlanceWAM: Sparse Test-Time Imagination for World-Action Models",
+    "first_seen": "2026-08-28",
+    "url": "https://doi.org/10.48550/arxiv.2608.23927"
+  },
+  "u:https://doi.org/10.65222/viral.2026.8.45.65": {
+    "title": "The Impact of Claude Agents and Autonomous AI Agents on Higher Education: Opportunities, Challenges, and Implications for Educational Leadership",
+    "first_seen": "2026-08-28",
+    "url": "https://doi.org/10.65222/viral.2026.8.45.65"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.24646": {
+    "title": "On-Policy Self-Distillation in Diffusion Models",
+    "first_seen": "2026-08-28",
+    "url": "https://doi.org/10.48550/arxiv.2608.24646"
+  },
+  "u:https://huggingface.co/papers/2608.26530": {
+    "title": "PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.26530"
+  },
+  "u:https://huggingface.co/papers/2608.25518": {
+    "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.25518"
+  },
+  "u:https://huggingface.co/papers/2608.26238": {
+    "title": "Procedura: Agentic 3D Modeling with Procedural Control",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.26238"
+  },
+  "u:https://huggingface.co/papers/2608.26809": {
+    "title": "Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.26809"
+  },
+  "u:https://huggingface.co/papers/2608.26200": {
+    "title": "GameWAM: A World Action Model for Video Games",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.26200"
+  },
+  "u:https://huggingface.co/papers/2608.27448": {
+    "title": "TTPO: Test-Time Policy Optimization",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.27448"
+  },
+  "u:https://huggingface.co/papers/2608.26993": {
+    "title": "Aphanta: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.26993"
+  },
+  "u:https://huggingface.co/papers/2608.25500": {
+    "title": "CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.25500"
+  },
+  "u:https://huggingface.co/papers/2608.27345": {
+    "title": "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.27345"
+  },
+  "u:https://huggingface.co/papers/2608.27456": {
+    "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.27456"
+  },
+  "u:https://huggingface.co/papers/2608.26103": {
+    "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.26103"
+  },
+  "u:https://huggingface.co/papers/2608.27454": {
+    "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.27454"
+  },
+  "u:https://huggingface.co/papers/2608.26872": {
+    "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.26872"
+  },
+  "u:https://huggingface.co/papers/2608.27351": {
+    "title": "Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.27351"
+  },
+  "u:https://huggingface.co/papers/2608.27168": {
+    "title": "Magpie: Real-Time World Renderer for Interactive Games",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.27168"
+  },
+  "u:https://huggingface.co/papers/2608.27260": {
+    "title": "What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.27260"
+  },
+  "u:https://huggingface.co/papers/2608.25832": {
+    "title": "Skill Issue: Are Skills Language-Invariant in LLMs?",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.25832"
+  },
+  "u:https://huggingface.co/papers/2608.26070": {
+    "title": "Prefix Sliding for efficient test-time scaling",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.26070"
+  },
+  "u:https://huggingface.co/papers/2608.25204": {
+    "title": "LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.25204"
+  },
+  "u:https://huggingface.co/papers/2608.25625": {
+    "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.25625"
+  },
+  "u:https://huggingface.co/papers/2608.24358": {
+    "title": "The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.24358"
+  },
+  "u:https://huggingface.co/papers/2608.19583": {
+    "title": "VGI-Bench: Probing Visual Intelligence in Video Generation Models",
+    "first_seen": "2026-08-28",
+    "url": "https://huggingface.co/papers/2608.19583"
+  },
+  "u:https://github.com/bilawalsidhu/gods-eye-view": {
+    "title": "bilawalsidhu/gods-eye-view",
+    "first_seen": "2026-08-28",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  "u:https://github.com/JetBrains/go-modern-guidelines": {
+    "title": "JetBrains/go-modern-guidelines",
+    "first_seen": "2026-08-28",
+    "url": "https://github.com/JetBrains/go-modern-guidelines"
+  },
+  "u:https://github.com/calesthio/OpenMontage": {
+    "title": "calesthio/OpenMontage",
+    "first_seen": "2026-08-28",
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  "u:https://github.com/thedotmack/claude-mem": {
+    "title": "thedotmack/claude-mem",
+    "first_seen": "2026-08-28",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  "u:https://github.com/ComposioHQ/awesome-claude-skills": {
+    "title": "ComposioHQ/awesome-claude-skills",
+    "first_seen": "2026-08-28",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  "u:https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "first_seen": "2026-08-28",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+  },
+  "u:https://openai.com/index/expanding-our-presence-in-brazil": {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "first_seen": "2026-08-28",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil"
+  },
+  "u:https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control": {
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "first_seen": "2026-08-28",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+  },
+  "u:https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations": {
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "first_seen": "2026-08-28",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
+  },
+  "u:https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode": {
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "first_seen": "2026-08-28",
+    "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
+  },
+  "u:https://www.forbes.com/sites/anishasircar/2026/08/28/openai-says-agi-is-coming-by-year-end-it-also-just-had-the-worst-safety-crisis-in-its-history": {
+    "title": "OpenAI Says AGI Is Coming By Year-End. It Also Just Had The Worst Safety Crisis In Its History. - Forbes",
+    "first_seen": "2026-08-28",
+    "url": "https://www.forbes.com/sites/anishasircar/2026/08/28/openai-says-agi-is-coming-by-year-end-it-also-just-had-the-worst-safety-crisis-in-its-history/"
+  },
+  "u:https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach": {
+    "title": "OpenAI releases its official report on the Hugging Face breach - TechCrunch",
+    "first_seen": "2026-08-28",
+    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
+  },
+  "u:https://thenextweb.com/news/salesforce-anthropic-claudeforce-partnership": {
+    "title": "Salesforce is putting Claude at the centre of its products, and itself inside Claude - The Next Web",
+    "first_seen": "2026-08-28",
+    "url": "https://thenextweb.com/news/salesforce-anthropic-claudeforce-partnership"
+  },
+  "u:https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28": {
+    "title": "US judge blocks Pentagon's Anthropic blacklisting - Reuters",
+    "first_seen": "2026-08-28",
+    "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/"
+  },
+  "u:https://www.consultancy-me.com/news/amp/14270/anthropic-names-bain-company-a-global-premier-partner-for-claude": {
+    "title": "Anthropic names Bain & Company a Global Premier Partner for Claude - Consultancy-me.com",
+    "first_seen": "2026-08-28",
+    "url": "https://www.consultancy-me.com/news/amp/14270/anthropic-names-bain-company-a-global-premier-partner-for-claude"
+  },
+  "u:https://gizmodo.com/anthropic-is-quietly-cutting-google-out-of-the-equation-2000803895": {
+    "title": "Anthropic Is Quietly Cutting Google Out of the Equation - Gizmodo",
+    "first_seen": "2026-08-28",
+    "url": "https://gizmodo.com/anthropic-is-quietly-cutting-google-out-of-the-equation-2000803895"
+  },
+  "u:https://www.foxnews.com/tech/humanoid-robot-outruns-usain-bolt-record-china-races-ahead": {
+    "title": "Humanoid robot outruns Usain Bolt record as China races ahead - Fox News",
+    "first_seen": "2026-08-28",
+    "url": "https://www.foxnews.com/tech/humanoid-robot-outruns-usain-bolt-record-china-races-ahead"
+  },
+  "u:https://gizmodo.com/hugging-face-wants-you-to-stop-worrying-and-love-this-adorable-robot-duck-2000803943": {
+    "title": "Hugging Face Wants You to Stop Worrying and Love This Adorable Robot Duck - Gizmodo",
+    "first_seen": "2026-08-28",
+    "url": "https://gizmodo.com/hugging-face-wants-you-to-stop-worrying-and-love-this-adorable-robot-duck-2000803943"
+  },
+  "u:https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot": {
+    "title": "Hugging Face’s new robot is an adorable rollerskating duck - The Verge",
+    "first_seen": "2026-08-28",
+    "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot"
+  },
+  "u:https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor": {
+    "title": "Ex-Meta scientists want to bring visual AI to the factory floor - TechCrunch",
+    "first_seen": "2026-08-28",
+    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/"
+  },
+  "u:https://www.businessinsider.com/nvidia-earnings-report-nvda-stock-ai-chips-jensen-huang-2026-8": {
+    "title": "Nvidia earnings: Stock jumps as revenue expected to grow 70%, but 'extreme' memory costs pressure margins - Business Insider",
+    "first_seen": "2026-08-28",
+    "url": "https://www.businessinsider.com/nvidia-earnings-report-nvda-stock-ai-chips-jensen-huang-2026-8"
+  },
+  "u:https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them": {
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them - TechCrunch",
+    "first_seen": "2026-08-28",
+    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
+  },
+  "u:https://www.pymnts.com/news/artificial-intelligence/2026/cisco-deploys-custom-ai-agent-to-entire-90000-person-workforce": {
+    "title": "Cisco Deploys Custom AI Agent to Entire 90,000-Person Workforce - PYMNTS.com",
+    "first_seen": "2026-08-28",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cisco-deploys-custom-ai-agent-to-entire-90000-person-workforce/"
+  },
+  "u:https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models": {
+    "title": "Deep Cogito raises $43M to develop self-improving AI models - SiliconANGLE",
+    "first_seen": "2026-08-28",
+    "url": "https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models/"
   }
 }
