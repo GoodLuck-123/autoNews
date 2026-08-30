@@ -8293,5 +8293,130 @@
     "title": "AI Coding Agent Development Cost for Enterprises",
     "first_seen": "2026-08-29",
     "url": "https://appinventiv.com/blog/ai-coding-agent-development-cost"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.27033": {
+    "title": "Riemann-1.0: An Embodied World Action Model for Physical AI",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.48550/arxiv.2608.27033"
+  },
+  "u:https://doi.org/10.1186/s40163-026-00296-8": {
+    "title": "Social robots and future crime: a scoping literature review",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.1186/s40163-026-00296-8"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.27406": {
+    "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.48550/arxiv.2608.27406"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.27345": {
+    "title": "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.48550/arxiv.2608.27345"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.26948": {
+    "title": "KISS-GS: 3D Gaussian Splatting Compression Kept Simple",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.48550/arxiv.2608.26948"
+  },
+  "u:https://doi.org/10.5281/zenodo.18764561": {
+    "title": "Execution-Time Authorization for AI Agents: A Formal Framework for Deterministic Governance Boundaries",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.5281/zenodo.18764561"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.26546": {
+    "title": "DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.48550/arxiv.2608.26546"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.27348": {
+    "title": "INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.48550/arxiv.2608.27348"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.26882": {
+    "title": "PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sustained Physical Impact?",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.48550/arxiv.2608.26882"
+  },
+  "u:https://doi.org/10.21105/joss.10314": {
+    "title": "Inference Perf: A Benchmarking Tool for GenAI Inference",
+    "first_seen": "2026-08-30",
+    "url": "https://doi.org/10.21105/joss.10314"
+  },
+  "u:https://github.com/THU-MAIC/OpenMAIC": {
+    "title": "THU-MAIC/OpenMAIC",
+    "first_seen": "2026-08-30",
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  "u:https://github.com/every-app/open-seo": {
+    "title": "every-app/open-seo",
+    "first_seen": "2026-08-30",
+    "url": "https://github.com/every-app/open-seo"
+  },
+  "u:https://github.com/Osmantic/ODS": {
+    "title": "Osmantic/ODS",
+    "first_seen": "2026-08-30",
+    "url": "https://github.com/Osmantic/ODS"
+  },
+  "u:https://github.com/addyosmani/agent-skills": {
+    "title": "addyosmani/agent-skills",
+    "first_seen": "2026-08-30",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  "u:https://github.com/workweave/router": {
+    "title": "workweave/router",
+    "first_seen": "2026-08-30",
+    "url": "https://github.com/workweave/router"
+  },
+  "u:https://simonwillison.net/2026/Aug/29/hy4": {
+    "title": "Introducing Hy4 Preview",
+    "first_seen": "2026-08-30",
+    "url": "https://simonwillison.net/2026/Aug/29/hy4/"
+  },
+  "u:https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html": {
+    "title": "OpenAI to end model access to Cursor after acquisition by ...",
+    "first_seen": "2026-08-30",
+    "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html"
+  },
+  "u:https://fortune.com/2026/08/27/chinese-open-source-ai-is-starting-to-win-over-u-s-businesses": {
+    "title": "Chinese open-source AI is starting to win over U.S. ...",
+    "first_seen": "2026-08-30",
+    "url": "https://fortune.com/2026/08/27/chinese-open-source-ai-is-starting-to-win-over-u-s-businesses"
+  },
+  "u:https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent": {
+    "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
+    "first_seen": "2026-08-30",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent"
+  },
+  "u:https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027": {
+    "title": "NVIDIA Announces Financial Results for Second Quarter ...",
+    "first_seen": "2026-08-30",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027"
+  },
+  "u:https://www.rutlandherald.com/online_features/press_releases/worlds-first-autonomous-humanoid-tennis-match-galbot-robots-complete-100-consecutive-rallies/article_b9e67cc0-a7d5-514f-be92-dcd3794c9be1.html": {
+    "title": "World's First Autonomous Humanoid Tennis Match: GALBOT Robots Complete 100+ Consecutive Rallies | Press Releases | rutlandherald.com",
+    "first_seen": "2026-08-30",
+    "url": "https://www.rutlandherald.com/online_features/press_releases/worlds-first-autonomous-humanoid-tennis-match-galbot-robots-complete-100-consecutive-rallies/article_b9e67cc0-a7d5-514f-be92-dcd3794c9be1.html"
+  },
+  "u:https://www.automotivemanufacturingsolutions.com/news/xpeng-takes-the-next-step-with-humanoid-robots/2726328": {
+    "title": "Xpeng takes the next step with humanoid robots",
+    "first_seen": "2026-08-30",
+    "url": "https://www.automotivemanufacturingsolutions.com/news/xpeng-takes-the-next-step-with-humanoid-robots/2726328"
+  },
+  "u:https://www.deltanews.tv/online_features/press_releases/worlds-first-autonomous-humanoid-tennis-match-galbot-robots-complete-100-consecutive-rallies/article_f41974aa-c61c-5284-b9bc-57a1ff142cc6.html": {
+    "title": "World's First Autonomous Humanoid Tennis Match: GALBOT Robots Complete 100+ Consecutive Rallies",
+    "first_seen": "2026-08-30",
+    "url": "https://www.deltanews.tv/online_features/press_releases/worlds-first-autonomous-humanoid-tennis-match-galbot-robots-complete-100-consecutive-rallies/article_f41974aa-c61c-5284-b9bc-57a1ff142cc6.html"
+  },
+  "u:https://aimultiple.com/ai-chip-makers": {
+    "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors",
+    "first_seen": "2026-08-30",
+    "url": "https://aimultiple.com/ai-chip-makers"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/amazon-just-tripled-order-nvidia-234718526.html": {
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "first_seen": "2026-08-30",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-just-tripled-order-nvidia-234718526.html"
   }
 }
