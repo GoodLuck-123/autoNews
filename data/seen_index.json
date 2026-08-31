@@ -8418,5 +8418,105 @@
     "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
     "first_seen": "2026-08-30",
     "url": "https://finance.yahoo.com/technology/ai/articles/amazon-just-tripled-order-nvidia-234718526.html"
+  },
+  "u:https://doi.org/10.17605/osf.io/aqpzc": {
+    "title": "Agent Policy Boundary (APB): Cross-Stage Usage-Control Continuity for Autonomous LLM Agents",
+    "first_seen": "2026-08-31",
+    "url": "https://doi.org/10.17605/osf.io/aqpzc"
+  },
+  "u:https://huggingface.co/papers/2608.27906": {
+    "title": "Rubric-to-Code Credit Assignment for Reinforcement Learning",
+    "first_seen": "2026-08-31",
+    "url": "https://huggingface.co/papers/2608.27906"
+  },
+  "u:https://huggingface.co/papers/2608.28549": {
+    "title": "Video Generative Models as Geometry Learner",
+    "first_seen": "2026-08-31",
+    "url": "https://huggingface.co/papers/2608.28549"
+  },
+  "u:https://huggingface.co/papers/2608.28478": {
+    "title": "Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge",
+    "first_seen": "2026-08-31",
+    "url": "https://huggingface.co/papers/2608.28478"
+  },
+  "u:https://huggingface.co/papers/2608.28476": {
+    "title": "ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL",
+    "first_seen": "2026-08-31",
+    "url": "https://huggingface.co/papers/2608.28476"
+  },
+  "u:https://github.com/p-e-w/heretic": {
+    "title": "p-e-w/heretic",
+    "first_seen": "2026-08-31",
+    "url": "https://github.com/p-e-w/heretic"
+  },
+  "u:https://github.com/majd/ipatool": {
+    "title": "majd/ipatool",
+    "first_seen": "2026-08-31",
+    "url": "https://github.com/majd/ipatool"
+  },
+  "u:https://github.com/punkpeye/awesome-mcp-servers": {
+    "title": "punkpeye/awesome-mcp-servers",
+    "first_seen": "2026-08-31",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers"
+  },
+  "u:https://github.com/pollen-robotics/microduck_rl": {
+    "title": "pollen-robotics/microduck_rl",
+    "first_seen": "2026-08-31",
+    "url": "https://github.com/pollen-robotics/microduck_rl"
+  },
+  "u:https://github.com/corsairdev/corsair": {
+    "title": "corsairdev/corsair",
+    "first_seen": "2026-08-31",
+    "url": "https://github.com/corsairdev/corsair"
+  },
+  "u:https://github.com/colinhacks/zod": {
+    "title": "colinhacks/zod",
+    "first_seen": "2026-08-31",
+    "url": "https://github.com/colinhacks/zod"
+  },
+  "u:https://github.com/livekit/agents": {
+    "title": "livekit/agents",
+    "first_seen": "2026-08-31",
+    "url": "https://github.com/livekit/agents"
+  },
+  "u:https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work": {
+    "title": "Understanding ChatGPT Work",
+    "first_seen": "2026-08-31",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
+  },
+  "u:https://applemagazine.com/cursor-openai-model-cutoff-mac-developers/amp": {
+    "title": "Cursor Faces OpenAI Model Cutoff: What Mac Developers Need to Know Before November 12 - AppleMagazine",
+    "first_seen": "2026-08-31",
+    "url": "https://applemagazine.com/cursor-openai-model-cutoff-mac-developers/amp"
+  },
+  "u:https://www.bain.com/about/media-center/press-releases/2026/bain-company-announces-partnership-with-anthropic-to-accelerate-clients-enterprise-ai-transformations": {
+    "title": "Bain & Company announces partnership with Anthropic to ...",
+    "first_seen": "2026-08-31",
+    "url": "https://www.bain.com/about/media-center/press-releases/2026/bain-company-announces-partnership-with-anthropic-to-accelerate-clients-enterprise-ai-transformations"
+  },
+  "u:https://www.xpeng.com/pressroom/news/01a03797fccda01e0de68a02a256006a": {
+    "title": "XPENG Robotics Raises US$900M for Humanoid Robots",
+    "first_seen": "2026-08-31",
+    "url": "https://www.xpeng.com/pressroom/news/01a03797fccda01e0de68a02a256006a"
+  },
+  "u:https://www.xpeng.com/news/01a03797fccda01e0de68a02a256006a": {
+    "title": "XPENG Robotics Raises US$900M for Humanoid Robots",
+    "first_seen": "2026-08-31",
+    "url": "https://www.xpeng.com/news/01a03797fccda01e0de68a02a256006a"
+  },
+  "u:https://mashable.com/tech/hugging-face-microduck-open-source-robot-duck": {
+    "title": "Hugging Face launches Microduck, a $399 open-source ...",
+    "first_seen": "2026-08-31",
+    "url": "https://mashable.com/tech/hugging-face-microduck-open-source-robot-duck"
+  },
+  "u:https://eu.36kr.com/en/p/3952887367646337": {
+    "title": "2026 World Robot Conference Successfully Concluded in Beijing - Key Highlights & Outcomes",
+    "first_seen": "2026-08-31",
+    "url": "https://eu.36kr.com/en/p/3952887367646337"
+  },
+  "u:https://towardsdatascience.com/how-to-work-with-ai-coding-agents": {
+    "title": "How to Work with AI Coding Agents",
+    "first_seen": "2026-08-31",
+    "url": "https://towardsdatascience.com/how-to-work-with-ai-coding-agents"
   }
 }
