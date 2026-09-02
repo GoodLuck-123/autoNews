@@ -9118,5 +9118,320 @@
     "title": "OpenAI Secretly Developing \"Perpetual\" AI Agent",
     "first_seen": "2026-09-01",
     "url": "https://finance.biggo.com/news/c171998a-4f4c-498f-8a41-82660d430cee"
+  },
+  "u:https://doi.org/10.1007/978-3-032-37249-9_10": {
+    "title": "Benchmarking Pragmatic Reasoning of Large Language Models in the Czech Language",
+    "first_seen": "2026-09-02",
+    "url": "https://doi.org/10.1007/978-3-032-37249-9_10"
+  },
+  "u:https://huggingface.co/papers/2609.00621": {
+    "title": "Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2609.00621"
+  },
+  "u:https://huggingface.co/papers/2609.01607": {
+    "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2609.01607"
+  },
+  "u:https://huggingface.co/papers/2608.30468": {
+    "title": "Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30468"
+  },
+  "u:https://huggingface.co/papers/2609.00551": {
+    "title": "EM^2Mem: Event-Centric Multimodal Memory for Large Language Models",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2609.00551"
+  },
+  "u:https://huggingface.co/papers/2609.00968": {
+    "title": "ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2609.00968"
+  },
+  "u:https://huggingface.co/papers/2609.00519": {
+    "title": "The Safeguard Worked. Is the LLM System Safer?",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2609.00519"
+  },
+  "u:https://huggingface.co/papers/2609.00048": {
+    "title": "GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2609.00048"
+  },
+  "u:https://huggingface.co/papers/2608.29681": {
+    "title": "MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual MultiModal Misinformation",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.29681"
+  },
+  "u:https://huggingface.co/papers/2608.29974": {
+    "title": "SpanCalib-VLM: Calibrated Hallucination Span Detection in Vision-Language Models",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.29974"
+  },
+  "u:https://huggingface.co/papers/2608.29847": {
+    "title": "ContextBias: Controlled Evaluation of Bias Persistence Under Context Shift in Text-to-Image Models",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.29847"
+  },
+  "u:https://huggingface.co/papers/2608.30795": {
+    "title": "Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation and Model Contributions",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30795"
+  },
+  "u:https://huggingface.co/papers/2608.31106": {
+    "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.31106"
+  },
+  "u:https://huggingface.co/papers/2608.30935": {
+    "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30935"
+  },
+  "u:https://huggingface.co/papers/2608.30530": {
+    "title": "WebWorld: The Browser as a World Model for Self-Improving Web Code",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30530"
+  },
+  "u:https://huggingface.co/papers/2608.30209": {
+    "title": "DICS: Exploring Data Intrinsic Consistency for Visual Instruction Selection",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30209"
+  },
+  "u:https://huggingface.co/papers/2608.30428": {
+    "title": "Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied Social Interactions",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30428"
+  },
+  "u:https://huggingface.co/papers/2608.30135": {
+    "title": "Verification-Aware Training for Speculative Decoding",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30135"
+  },
+  "u:https://huggingface.co/papers/2608.29910": {
+    "title": "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.29910"
+  },
+  "u:https://huggingface.co/papers/2608.30241": {
+    "title": "PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30241"
+  },
+  "u:https://huggingface.co/papers/2608.30320": {
+    "title": "On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30320"
+  },
+  "u:https://huggingface.co/papers/2608.30821": {
+    "title": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30821"
+  },
+  "u:https://huggingface.co/papers/2608.30396": {
+    "title": "Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30396"
+  },
+  "u:https://huggingface.co/papers/2608.30968": {
+    "title": "CogEvol: Towards Efficient and Reliable Learning Environment Generation",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30968"
+  },
+  "u:https://huggingface.co/papers/2608.30147": {
+    "title": "CAST: Critique-Aware Supervision for Training Reliable Long-Horizon Tool-Calling Agents",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.30147"
+  },
+  "u:https://huggingface.co/papers/2608.31022": {
+    "title": "MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.31022"
+  },
+  "u:https://huggingface.co/papers/2608.31076": {
+    "title": "Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.31076"
+  },
+  "u:https://huggingface.co/papers/2608.31075": {
+    "title": "Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.31075"
+  },
+  "u:https://huggingface.co/papers/2608.31046": {
+    "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.31046"
+  },
+  "u:https://huggingface.co/papers/2608.31119": {
+    "title": "PaperGym: Rubric-Centered Evolution for Research-Plan Generation",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.31119"
+  },
+  "u:https://huggingface.co/papers/2608.29613": {
+    "title": "Cross-lingual Functional Vectors for Emotion Detection in Large Language Models",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/papers/2608.29613"
+  },
+  "u:https://github.com/Gitlawb/openclaude": {
+    "title": "Gitlawb/openclaude",
+    "first_seen": "2026-09-02",
+    "url": "https://github.com/Gitlawb/openclaude"
+  },
+  "u:https://github.com/Imbad0202/academic-research-skills": {
+    "title": "Imbad0202/academic-research-skills",
+    "first_seen": "2026-09-02",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  "u:https://github.com/browser-use/video-use": {
+    "title": "browser-use/video-use",
+    "first_seen": "2026-09-02",
+    "url": "https://github.com/browser-use/video-use"
+  },
+  "u:https://github.com/VoltAgent/awesome-design-md": {
+    "title": "VoltAgent/awesome-design-md",
+    "first_seen": "2026-09-02",
+    "url": "https://github.com/VoltAgent/awesome-design-md"
+  },
+  "u:https://github.com/unclecode/crawl4ai": {
+    "title": "unclecode/crawl4ai",
+    "first_seen": "2026-09-02",
+    "url": "https://github.com/unclecode/crawl4ai"
+  },
+  "u:https://openai.com/index/path-to-astra": {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "first_seen": "2026-09-02",
+    "url": "https://openai.com/index/path-to-astra"
+  },
+  "u:https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "first_seen": "2026-09-02",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+  },
+  "u:https://openai.com/index/gilbert-tobin": {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "first_seen": "2026-09-02",
+    "url": "https://openai.com/index/gilbert-tobin"
+  },
+  "u:https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "first_seen": "2026-09-02",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+  },
+  "u:https://deepmind.google/blog/introducing-agentic-video-in-gemini": {
+    "title": "Introducing agentic video understanding with Gemini",
+    "first_seen": "2026-09-02",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+  },
+  "u:https://huggingface.co/blog/allenai/benchmirt": {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/blog/allenai/benchmirt"
+  },
+  "u:https://huggingface.co/blog/webgpu-kernels": {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "first_seen": "2026-09-02",
+    "url": "https://huggingface.co/blog/webgpu-kernels"
+  },
+  "u:https://simonwillison.net/2026/Sep/1/claude-fable-5-1": {
+    "title": "Claude Fable 5.1 made me a really nice animated pelican",
+    "first_seen": "2026-09-02",
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/"
+  },
+  "u:https://simonwillison.net/2026/Sep/1/codex-libreoffice": {
+    "title": "Codex bundles LibreOffice",
+    "first_seen": "2026-09-02",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+  },
+  "u:https://simonwillison.net/2026/Sep/1/geojson": {
+    "title": "GeoJSON Map Viewer",
+    "first_seen": "2026-09-02",
+    "url": "https://simonwillison.net/2026/Sep/1/geojson/"
+  },
+  "u:https://simonwillison.net/2026/Sep/1/python-315-rc-2": {
+    "title": "Python 3.15.0 candidate 2 is here!",
+    "first_seen": "2026-09-02",
+    "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/"
+  },
+  "u:https://tech-insider.org/openai-astra-solves-10-open-math-problems-2026": {
+    "title": "OpenAI Astra Solves 10 Open Math Problems [2026]",
+    "first_seen": "2026-09-02",
+    "url": "https://tech-insider.org/openai-astra-solves-10-open-math-problems-2026"
+  },
+  "u:https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities": {
+    "title": "OpenAI Is About to Release Its First AI Model With 'Critical ...",
+    "first_seen": "2026-09-02",
+    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities"
+  },
+  "u:https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here": {
+    "title": "Anthropic upgrades Claude with new Fable 5.1 model, ...",
+    "first_seen": "2026-09-02",
+    "url": "https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here"
+  },
+  "u:https://decrypt.co/377078/anthropic-claude-fable-5-1": {
+    "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
+    "first_seen": "2026-09-02",
+    "url": "https://decrypt.co/377078/anthropic-claude-fable-5-1"
+  },
+  "u:https://www.cnet.com/tech/services-and-software/anthropics-claude-what-you-need-to-know-about-this-ai-tool-2": {
+    "title": "Anthropic's Claude: What You Need to Know About This AI ...",
+    "first_seen": "2026-09-02",
+    "url": "https://www.cnet.com/tech/services-and-software/anthropics-claude-what-you-need-to-know-about-this-ai-tool-2"
+  },
+  "u:https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads": {
+    "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a ...",
+    "first_seen": "2026-09-02",
+    "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads"
+  },
+  "u:https://autonews.gasgoo.com/articles/news/ubtech-reports-127-billion-yuan-in-first-half-revenue-sells-921-full-size-humanoid-robots-2094660109459607553": {
+    "title": "UBTECH Reports 1.27 Billion Yuan in First-Half Revenue, Sells 921 Full-Size Humanoid Robots",
+    "first_seen": "2026-09-02",
+    "url": "https://autonews.gasgoo.com/articles/news/ubtech-reports-127-billion-yuan-in-first-half-revenue-sells-921-full-size-humanoid-robots-2094660109459607553"
+  },
+  "u:https://www.prnewswire.com/news-releases/hero-esports-to-stage-middle-easts-first-humanoid-robot-kickboxing-event-in-riyadh-302864961.html": {
+    "title": "Hero Esports to Stage Middle East's First Humanoid Robot Kickboxing Event in Riyadh",
+    "first_seen": "2026-09-02",
+    "url": "https://www.prnewswire.com/news-releases/hero-esports-to-stage-middle-easts-first-humanoid-robot-kickboxing-event-in-riyadh-302864961.html"
+  },
+  "u:https://kr-asia.com/ubtechs-full-size-humanoid-robot-revenue-jumps-1445-in-h1-2026": {
+    "title": "UBTech’s full-size humanoid robot revenue jumps 1,445% in H1 2026",
+    "first_seen": "2026-09-02",
+    "url": "https://kr-asia.com/ubtechs-full-size-humanoid-robot-revenue-jumps-1445-in-h1-2026"
+  },
+  "u:https://www.globenewswire.com/news-release/2026/08/31/3353306/0/en/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms.html": {
+    "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
+    "first_seen": "2026-09-02",
+    "url": "https://www.globenewswire.com/news-release/2026/08/31/3353306/0/en/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms.html"
+  },
+  "u:https://www.mediatek.com/press-room/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms": {
+    "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
+    "first_seen": "2026-09-02",
+    "url": "https://www.mediatek.com/press-room/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+  },
+  "u:https://www.techtimes.com/articles/325711/20260827/aws-adds-2-million-more-nvidia-gpus-prior-1-million-commitment-ran-out-early.htm": {
+    "title": "AWS Adds 2 Million More NVIDIA GPUs",
+    "first_seen": "2026-09-02",
+    "url": "https://www.techtimes.com/articles/325711/20260827/aws-adds-2-million-more-nvidia-gpus-prior-1-million-commitment-ran-out-early.htm"
+  },
+  "u:https://www.tradingview.com/news/stocktwits:a294b5125094b:0-nvidia-s-mediatek-partnership-could-push-its-rack-scale-ai-empire-into-custom-chips-top-analyst-says": {
+    "title": "Nvidia’s MediaTek Partnership Could Push Its Rack-Scale AI Empire Into Custom Chips, Top Analyst Says",
+    "first_seen": "2026-09-02",
+    "url": "https://www.tradingview.com/news/stocktwits:a294b5125094b:0-nvidia-s-mediatek-partnership-could-push-its-rack-scale-ai-empire-into-custom-chips-top-analyst-says"
+  },
+  "u:https://www.infoworld.com/article/4216661/compose-multiplatform-1-12-0-welcomes-coding-agents-with-mcp-server.html": {
+    "title": "Compose Multiplatform 1.12.0 welcomes coding agents with MCP server",
+    "first_seen": "2026-09-02",
+    "url": "https://www.infoworld.com/article/4216661/compose-multiplatform-1-12-0-welcomes-coding-agents-with-mcp-server.html"
+  },
+  "u:https://www.stocktitan.net/news/JG/aurora-mobile-s-modellix-releases-beta-plugin-for-deep-seek-harness-7r9dc5dge4er.html": {
+    "title": "DeepSeek Harness Draws Nearly 200,000 GitHub Stars as Aurora Mobile Adds Free AI Models",
+    "first_seen": "2026-09-02",
+    "url": "https://www.stocktitan.net/news/JG/aurora-mobile-s-modellix-releases-beta-plugin-for-deep-seek-harness-7r9dc5dge4er.html"
+  },
+  "u:https://siliconangle.com/2026/09/01/air-security-launches-with-50m-to-build-a-firewall-for-ai-agents": {
+    "title": "AIR Security launches with $50M to build a firewall for AI agents - SiliconANGLE",
+    "first_seen": "2026-09-02",
+    "url": "https://siliconangle.com/2026/09/01/air-security-launches-with-50m-to-build-a-firewall-for-ai-agents"
   }
 }
