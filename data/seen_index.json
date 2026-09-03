@@ -9433,5 +9433,290 @@
     "title": "AIR Security launches with $50M to build a firewall for AI agents - SiliconANGLE",
     "first_seen": "2026-09-02",
     "url": "https://siliconangle.com/2026/09/01/air-security-launches-with-50m-to-build-a-firewall-for-ai-agents"
+  },
+  "u:https://doi.org/10.1002/smb2.70058": {
+    "title": "FEWT: Frequency‐Enhanced Wavelet‐Based Transformer for Multimodal Wheeled Bimanual Manipulation",
+    "first_seen": "2026-09-03",
+    "url": "https://doi.org/10.1002/smb2.70058"
+  },
+  "u:https://doi.org/10.54097/tgds0y20": {
+    "title": "Reflections on Practical Paths of Empowering Embodied AI Development via Computer Vision in Robotic Systems",
+    "first_seen": "2026-09-03",
+    "url": "https://doi.org/10.54097/tgds0y20"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.30897": {
+    "title": "CAER: Causal Action Effect Reweighting for World Model Training",
+    "first_seen": "2026-09-03",
+    "url": "https://doi.org/10.48550/arxiv.2608.30897"
+  },
+  "u:https://doi.org/10.1007/978-3-032-36226-1_20": {
+    "title": "QuantumGS: Quantum Encoding Framework for Gaussian Splatting",
+    "first_seen": "2026-09-03",
+    "url": "https://doi.org/10.1007/978-3-032-36226-1_20"
+  },
+  "u:https://doi.org/10.48550/arxiv.2608.30509": {
+    "title": "CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for Multi-Mode Multi-Request LLM Inference Acceleration",
+    "first_seen": "2026-09-03",
+    "url": "https://doi.org/10.48550/arxiv.2608.30509"
+  },
+  "u:https://huggingface.co/papers/2609.02272": {
+    "title": "PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.02272"
+  },
+  "u:https://huggingface.co/papers/2609.01865": {
+    "title": "ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01865"
+  },
+  "u:https://huggingface.co/papers/2608.30949": {
+    "title": "MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2608.30949"
+  },
+  "u:https://huggingface.co/papers/2609.02886": {
+    "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.02886"
+  },
+  "u:https://huggingface.co/papers/2609.00638": {
+    "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.00638"
+  },
+  "u:https://huggingface.co/papers/2608.27831": {
+    "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2608.27831"
+  },
+  "u:https://huggingface.co/papers/2609.01836": {
+    "title": "Agent Memory Is a Surface for Endogenous Authorization Laundering",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01836"
+  },
+  "u:https://huggingface.co/papers/2609.01453": {
+    "title": "Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01453"
+  },
+  "u:https://huggingface.co/papers/2609.01532": {
+    "title": "Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01532"
+  },
+  "u:https://huggingface.co/papers/2608.31082": {
+    "title": "Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2608.31082"
+  },
+  "u:https://huggingface.co/papers/2609.00374": {
+    "title": "Adapting Without Gradients: Affine Statistics Transport and What Its Certificate Can Tell You",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.00374"
+  },
+  "u:https://huggingface.co/papers/2609.00646": {
+    "title": "DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.00646"
+  },
+  "u:https://huggingface.co/papers/2608.30457": {
+    "title": "Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2608.30457"
+  },
+  "u:https://huggingface.co/papers/2609.01572": {
+    "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01572"
+  },
+  "u:https://huggingface.co/papers/2609.00137": {
+    "title": "Recursive Criticality of AI Self-Improvement",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.00137"
+  },
+  "u:https://huggingface.co/papers/2608.30478": {
+    "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2608.30478"
+  },
+  "u:https://huggingface.co/papers/2609.00768": {
+    "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.00768"
+  },
+  "u:https://huggingface.co/papers/2609.00092": {
+    "title": "Safin-1: Safety from Within through Memory-Native State Evolution",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.00092"
+  },
+  "u:https://huggingface.co/papers/2609.01343": {
+    "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01343"
+  },
+  "u:https://huggingface.co/papers/2609.01481": {
+    "title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01481"
+  },
+  "u:https://huggingface.co/papers/2609.00111": {
+    "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.00111"
+  },
+  "u:https://huggingface.co/papers/2609.00188": {
+    "title": "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.00188"
+  },
+  "u:https://huggingface.co/papers/2608.30730": {
+    "title": "E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2608.30730"
+  },
+  "u:https://huggingface.co/papers/2609.01560": {
+    "title": "H3-World: Turning Language Understanding into World Control",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01560"
+  },
+  "u:https://huggingface.co/papers/2609.01591": {
+    "title": "StudentSim: Training LLM-based Student Simulators",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01591"
+  },
+  "u:https://huggingface.co/papers/2609.01404": {
+    "title": "Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching",
+    "first_seen": "2026-09-03",
+    "url": "https://huggingface.co/papers/2609.01404"
+  },
+  "u:https://github.com/google-research/timesfm": {
+    "title": "google-research/timesfm",
+    "first_seen": "2026-09-03",
+    "url": "https://github.com/google-research/timesfm"
+  },
+  "u:https://github.com/pacifio/atlas": {
+    "title": "pacifio/atlas",
+    "first_seen": "2026-09-03",
+    "url": "https://github.com/pacifio/atlas"
+  },
+  "u:https://openai.com/index/atv-big-air-tour": {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "first_seen": "2026-09-03",
+    "url": "https://openai.com/index/atv-big-air-tour"
+  },
+  "u:https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber": {
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "first_seen": "2026-09-03",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+  },
+  "u:https://simonwillison.net/2026/Sep/2/llm-gemini": {
+    "title": "llm-gemini 0.34",
+    "first_seen": "2026-09-03",
+    "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/"
+  },
+  "u:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt": {
+    "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+    "first_seen": "2026-09-03",
+    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
+  },
+  "u:https://simonwillison.net/2026/Sep/1/datasette-mcp": {
+    "title": "datasette-mcp 0.2",
+    "first_seen": "2026-09-03",
+    "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/"
+  },
+  "u:https://wbznewsradio.iheart.com/content/2026-09-02-openai-claims-new-model-astra-is-massively-powerful": {
+    "title": "OpenAI Claims New Model Astra Is Massively Powerful",
+    "first_seen": "2026-09-03",
+    "url": "https://wbznewsradio.iheart.com/content/2026-09-02-openai-claims-new-model-astra-is-massively-powerful"
+  },
+  "u:https://wtvbam.com/2026/09/01/openai-says-upcoming-model-is-so-capable-it-requires-stronger-guardrails": {
+    "title": "OpenAI says upcoming model is so capable it requires stronger guardrails",
+    "first_seen": "2026-09-03",
+    "url": "https://wtvbam.com/2026/09/01/openai-says-upcoming-model-is-so-capable-it-requires-stronger-guardrails"
+  },
+  "u:https://finance.biggo.com/news/9dde2981-3ec4-44fb-a428-9d229b32f90f": {
+    "title": "OpenAI to End Model Supply to Cursor, the Coding Tool Now Under Musk's Control, as Contract Terminates in November — BigGo Finance",
+    "first_seen": "2026-09-03",
+    "url": "https://finance.biggo.com/news/9dde2981-3ec4-44fb-a428-9d229b32f90f"
+  },
+  "u:https://tech-insider.org/openai-astra-anthropic-mythos-access-restrictions-2026": {
+    "title": "OpenAI, Anthropic Gate New AI Models: 91.5% Refusal [2026]",
+    "first_seen": "2026-09-03",
+    "url": "https://tech-insider.org/openai-astra-anthropic-mythos-access-restrictions-2026"
+  },
+  "u:https://www.androidheadlines.com/2026/08/anthropic-claude-code-weekly-limits-update.html": {
+    "title": "Anthropic's Claude Code Usage Cap Update Actually Hides a Quiet Downgrade",
+    "first_seen": "2026-09-03",
+    "url": "https://www.androidheadlines.com/2026/08/anthropic-claude-code-weekly-limits-update.html"
+  },
+  "u:https://www.prnewswire.com/news-releases/trifecta-technologies-expands-ai-capabilities-with-anthropic-partnership-and-claude-services-302865962.html": {
+    "title": "Trifecta Technologies Expands AI Capabilities with Anthropic Partnership and Claude Services",
+    "first_seen": "2026-09-03",
+    "url": "https://www.prnewswire.com/news-releases/trifecta-technologies-expands-ai-capabilities-with-anthropic-partnership-and-claude-services-302865962.html"
+  },
+  "u:https://thenewstack.io/claude-automated-alignment-research": {
+    "title": "Anthropic’s Claude fixed all 10 alignment failures. Then it tried to cheat 2.4% of the time.",
+    "first_seen": "2026-09-03",
+    "url": "https://thenewstack.io/claude-automated-alignment-research"
+  },
+  "u:https://fortune.com/2026/09/02/whats-inside-anthropic-claude-fable-mythos-5-1-smarts-safeguards-anti-distillation-mechanisms": {
+    "title": "What’s inside Anthropic Claude Fable, Mythos 5.1: smarts, safeguards, and ‘anti-distillation mechanisms’",
+    "first_seen": "2026-09-03",
+    "url": "https://fortune.com/2026/09/02/whats-inside-anthropic-claude-fable-mythos-5-1-smarts-safeguards-anti-distillation-mechanisms"
+  },
+  "u:https://global.chinadaily.com.cn/a/202608/28/WS6a913876e4b06d4aa055b06d.html": {
+    "title": "Honor's humanoid robots break three world records - Chinadaily.com.cn",
+    "first_seen": "2026-09-03",
+    "url": "https://global.chinadaily.com.cn/a/202608/28/WS6a913876e4b06d4aa055b06d.html"
+  },
+  "u:https://www.bastillepost.com/global/article/6117195-serbia-launches-chinese-backed-humanoid-robot-production": {
+    "title": "Serbia launches Chinese-backed humanoid robot production",
+    "first_seen": "2026-09-03",
+    "url": "https://www.bastillepost.com/global/article/6117195-serbia-launches-chinese-backed-humanoid-robot-production"
+  },
+  "u:https://www.globaltimes.cn/page/202608/1369379.shtml": {
+    "title": "Europe's first humanoid robot mass-production base begins production in China-Serbia joint project",
+    "first_seen": "2026-09-03",
+    "url": "https://www.globaltimes.cn/page/202608/1369379.shtml"
+  },
+  "u:https://tech-insider.org/aws-nvidia-2-million-gpus-vera-cpu-2026": {
+    "title": "AWS Orders 2M More Nvidia GPUs, Stock Gains $440B [2026]",
+    "first_seen": "2026-09-03",
+    "url": "https://tech-insider.org/aws-nvidia-2-million-gpus-vera-cpu-2026"
+  },
+  "u:https://investingnews.com/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms": {
+    "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
+    "first_seen": "2026-09-03",
+    "url": "https://investingnews.com/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+  },
+  "u:https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-MediaTek-Deepen-Long-Standing-Partnership-to-Build-AI-Edge-to-Cloud-Computing-Platforms/default.aspx": {
+    "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
+    "first_seen": "2026-09-03",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-MediaTek-Deepen-Long-Standing-Partnership-to-Build-AI-Edge-to-Cloud-Computing-Platforms/default.aspx"
+  },
+  "u:https://qz.com/nvidia-mediatek-investment-35-billion-ai-chips-083126": {
+    "title": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership",
+    "first_seen": "2026-09-03",
+    "url": "https://qz.com/nvidia-mediatek-investment-35-billion-ai-chips-083126"
+  },
+  "u:https://hothardware.com/news/nvidia-nvlink-fusion-major-boost-mediatek-deal": {
+    "title": "NVIDIA’s $3.5B MediaTek Deal Supercharges NVLink Fusion For Custom AI Chips",
+    "first_seen": "2026-09-03",
+    "url": "https://hothardware.com/news/nvidia-nvlink-fusion-major-boost-mediatek-deal"
+  },
+  "u:https://www.citybiz.co/article/898233/coder-launches-agent-relay-with-spacexai-to-bring-cursor-agents-into-regulated-enterprises": {
+    "title": "Coder Launches Agent Relay With SpaceXAI to Bring Cursor Agents Into Regulated Enterprises",
+    "first_seen": "2026-09-03",
+    "url": "https://www.citybiz.co/article/898233/coder-launches-agent-relay-with-spacexai-to-bring-cursor-agents-into-regulated-enterprises"
+  },
+  "u:https://qa-financial.com/harness-socure-and-operant-ai-the-latest-vendor-and-product-news": {
+    "title": "Harness, Socure and Operant AI: the latest vendor and product news",
+    "first_seen": "2026-09-03",
+    "url": "https://qa-financial.com/harness-socure-and-operant-ai-the-latest-vendor-and-product-news"
+  },
+  "u:https://www.globenewswire.com/de/news-release/2026/08/27/3351884/0/en/operant-ai-launches-semantic-firewall-to-enforce-ai-agent-intent-in-real-time.html": {
+    "title": "Operant AI Launches Semantic Firewall to Enforce AI Agent",
+    "first_seen": "2026-09-03",
+    "url": "https://www.globenewswire.com/de/news-release/2026/08/27/3351884/0/en/operant-ai-launches-semantic-firewall-to-enforce-ai-agent-intent-in-real-time.html"
   }
 }
