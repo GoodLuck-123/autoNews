@@ -9718,5 +9718,290 @@
     "title": "Operant AI Launches Semantic Firewall to Enforce AI Agent",
     "first_seen": "2026-09-03",
     "url": "https://www.globenewswire.com/de/news-release/2026/08/27/3351884/0/en/operant-ai-launches-semantic-firewall-to-enforce-ai-agent-intent-in-real-time.html"
+  },
+  "u:https://doi.org/10.21203/rs.3.rs-10276328/v1": {
+    "title": "Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.21203/rs.3.rs-10276328/v1"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.00610": {
+    "title": "Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.48550/arxiv.2609.00610"
+  },
+  "u:https://doi.org/10.5281/zenodo.22252249": {
+    "title": "Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.5281/zenodo.22252249"
+  },
+  "u:https://doi.org/10.5281/zenodo.22252248": {
+    "title": "Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.5281/zenodo.22252248"
+  },
+  "u:https://doi.org/10.1007/s11263-026-02992-z": {
+    "title": "MotionStruct4D: Discovering Motion Structure of Gaussian Splatting for Video-to-4D Generation",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.1007/s11263-026-02992-z"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.01560": {
+    "title": "H3-World: Turning Language Understanding into World Control",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.48550/arxiv.2609.01560"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.01276": {
+    "title": "Seeing the World and the Self from Egocentric Video",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.48550/arxiv.2609.01276"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.00994": {
+    "title": "EvoGS: Modeling Deformation Evolution for Dynamic Gaussian Splatting",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.48550/arxiv.2609.00994"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.01516": {
+    "title": "DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.48550/arxiv.2609.01516"
+  },
+  "u:https://doi.org/10.1057/s41599-026-08832-2": {
+    "title": "Beyond static responses: multi-agent LLM systems as a new paradigm for social science research",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.1057/s41599-026-08832-2"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.01481": {
+    "title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.48550/arxiv.2609.01481"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.00857": {
+    "title": "LLM Inference on IMC-NoC Architecture with Balanced Dataflow and Fine-Grained Parallelism",
+    "first_seen": "2026-09-04",
+    "url": "https://doi.org/10.48550/arxiv.2609.00857"
+  },
+  "u:https://huggingface.co/papers/2609.01507": {
+    "title": "LatentPress: Context Compression Beyond Text and Vision",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.01507"
+  },
+  "u:https://huggingface.co/papers/2609.03796": {
+    "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.03796"
+  },
+  "u:https://huggingface.co/papers/2609.04098": {
+    "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.04098"
+  },
+  "u:https://huggingface.co/papers/2609.00834": {
+    "title": "Replacing Training with Memory: Listwise Selection for Text-to-SQL",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.00834"
+  },
+  "u:https://huggingface.co/papers/2609.01936": {
+    "title": "Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.01936"
+  },
+  "u:https://huggingface.co/papers/2609.02496": {
+    "title": "Debias-SparseGPT: Bias-Aware Pruning for Large Language Models",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.02496"
+  },
+  "u:https://huggingface.co/papers/2609.00474": {
+    "title": "Exploring Collaboration between a language and a non-language agent",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.00474"
+  },
+  "u:https://huggingface.co/papers/2608.30751": {
+    "title": "Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2608.30751"
+  },
+  "u:https://huggingface.co/papers/2609.02812": {
+    "title": "VibeVoice-ASR-Streaming Technical Report",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.02812"
+  },
+  "u:https://huggingface.co/papers/2609.00591": {
+    "title": "A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.00591"
+  },
+  "u:https://huggingface.co/papers/2609.01925": {
+    "title": "CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.01925"
+  },
+  "u:https://huggingface.co/papers/2609.01437": {
+    "title": "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.01437"
+  },
+  "u:https://huggingface.co/papers/2609.02749": {
+    "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.02749"
+  },
+  "u:https://huggingface.co/papers/2609.02783": {
+    "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.02783"
+  },
+  "u:https://huggingface.co/papers/2609.02737": {
+    "title": "Language Models Can Control Their Own Attention",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.02737"
+  },
+  "u:https://huggingface.co/papers/2609.01147": {
+    "title": "On the Design Fundamentals of Pixel Text Representation Learning",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.01147"
+  },
+  "u:https://huggingface.co/papers/2609.02849": {
+    "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.02849"
+  },
+  "u:https://huggingface.co/papers/2609.01823": {
+    "title": "Kirin: Animal Motion Generation from In-the-Wild Video",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.01823"
+  },
+  "u:https://huggingface.co/papers/2609.02817": {
+    "title": "Cliff: Learning Process Rewards from the First Mistake",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/papers/2609.02817"
+  },
+  "u:https://github.com/anthropics/skills": {
+    "title": "anthropics/skills",
+    "first_seen": "2026-09-04",
+    "url": "https://github.com/anthropics/skills"
+  },
+  "u:https://github.com/magnitudedev/magnitude": {
+    "title": "magnitudedev/magnitude",
+    "first_seen": "2026-09-04",
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  "u:https://github.com/f/prompts.chat": {
+    "title": "f/prompts.chat",
+    "first_seen": "2026-09-04",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  "u:https://openai.com/index/daybreak-for-frontline-defenders": {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "first_seen": "2026-09-04",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders"
+  },
+  "u:https://openai.com/index/legora-financial-statement-review-with-astra": {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "first_seen": "2026-09-04",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+  },
+  "u:https://openai.com/index/playco-game-prototyping-with-astra": {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "first_seen": "2026-09-04",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+  },
+  "u:https://openai.com/index/safety-overview-gpt-6-astra": {
+    "title": "Safety overview: GPT-6 Astra",
+    "first_seen": "2026-09-04",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra"
+  },
+  "u:https://huggingface.co/blog/grpo-with-trl-ifstruct": {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
+  },
+  "u:https://huggingface.co/blog/funes": {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "first_seen": "2026-09-04",
+    "url": "https://huggingface.co/blog/funes"
+  },
+  "u:https://simonwillison.net/2026/Sep/3/gpt6-astra": {
+    "title": "GPT‑6 Astra",
+    "first_seen": "2026-09-04",
+    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
+  },
+  "u:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html": {
+    "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+    "first_seen": "2026-09-04",
+    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
+  },
+  "u:https://cybermagazine.com/news/the-path-to-astra-openai-model-needs-stronger-guardrails": {
+    "title": "The Road to Astra: Illumio on OpenAI’s Security Guardrails",
+    "first_seen": "2026-09-04",
+    "url": "https://cybermagazine.com/news/the-path-to-astra-openai-model-needs-stronger-guardrails"
+  },
+  "u:https://www.axios.com/2026/09/03/openai-cyber-summit-greg-brockman": {
+    "title": "Exclusive: OpenAI convening security leaders ahead of cyber ...",
+    "first_seen": "2026-09-04",
+    "url": "https://www.axios.com/2026/09/03/openai-cyber-summit-greg-brockman"
+  },
+  "u:https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release": {
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’ | The Verge",
+    "first_seen": "2026-09-04",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+  },
+  "u:https://www.itpro.com/technology/artificial-intelligence/anthropic-says-claude-fable-5-1-sets-a-new-standard-for-coding-knowledge-work-and-long-running-problem-solving-tasks": {
+    "title": "Anthropic says Claude Fable 5.1 ‘sets a new standard for coding, knowledge work, and long-running problem-solving tasks’",
+    "first_seen": "2026-09-04",
+    "url": "https://www.itpro.com/technology/artificial-intelligence/anthropic-says-claude-fable-5-1-sets-a-new-standard-for-coding-knowledge-work-and-long-running-problem-solving-tasks"
+  },
+  "u:https://www.axios.com/2026/09/01/anthropic-releases-new-models-cost-structures-and-safeguards": {
+    "title": "Anthropic releases new models, cuts agent costs",
+    "first_seen": "2026-09-04",
+    "url": "https://www.axios.com/2026/09/01/anthropic-releases-new-models-cost-structures-and-safeguards"
+  },
+  "u:https://sdtimes.com/claude-fable-5-1/61089": {
+    "title": "Anthropic releases Claude Fable 5.1 and Mythos 5.1 - SD Times",
+    "first_seen": "2026-09-04",
+    "url": "https://sdtimes.com/claude-fable-5-1/61089"
+  },
+  "u:https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected": {
+    "title": "Anthropic confirms Claude is down, multiple models affected",
+    "first_seen": "2026-09-04",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected"
+  },
+  "u:https://www.tomsguide.com/ai/meet-the-mass-produced-humanoid-robot-that-wants-to-steal-your-face": {
+    "title": "Meet the mass-produced humanoid robot that wants to steal your face",
+    "first_seen": "2026-09-04",
+    "url": "https://www.tomsguide.com/ai/meet-the-mass-produced-humanoid-robot-that-wants-to-steal-your-face"
+  },
+  "u:https://finance.yahoo.com/technology/articles/h3c-delivers-high-performance-connectivity-081800814.html": {
+    "title": "H3C Delivers High-Performance Connectivity for the World ...",
+    "first_seen": "2026-09-04",
+    "url": "https://finance.yahoo.com/technology/articles/h3c-delivers-high-performance-connectivity-081800814.html"
+  },
+  "u:https://www.automotivemanufacturingsolutions.com/news/xpeng-takes-the-next-step-with-humanoid-robots/2729515": {
+    "title": "Xpeng takes the next step with humanoid robots",
+    "first_seen": "2026-09-04",
+    "url": "https://www.automotivemanufacturingsolutions.com/news/xpeng-takes-the-next-step-with-humanoid-robots/2729515"
+  },
+  "u:https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up": {
+    "title": "Why humanoid robots won’t catch up to human workers any time soon",
+    "first_seen": "2026-09-04",
+    "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up"
+  },
+  "u:https://247wallst.com/investing/2026/08/28/amazon-jumps-4-on-expanded-aws-chip-deal-why-is-nvidia-falling-4": {
+    "title": "Amazon Jumps 4% on Expanded AWS Chip Deal: Why Is NVIDIA Falling 4%?",
+    "first_seen": "2026-09-04",
+    "url": "https://247wallst.com/investing/2026/08/28/amazon-jumps-4-on-expanded-aws-chip-deal-why-is-nvidia-falling-4"
+  },
+  "u:https://www.techtimes.com/articles/326130/20260901/nvidia-moves-ai-chip-memory-controller-hbm-stack-nvhbm-memory-frees-25-more-compute.htm": {
+    "title": "NVIDIA Moves AI Chip Memory Controller Into HBM Stack",
+    "first_seen": "2026-09-04",
+    "url": "https://www.techtimes.com/articles/326130/20260901/nvidia-moves-ai-chip-memory-controller-hbm-stack-nvhbm-memory-frees-25-more-compute.htm"
+  },
+  "u:https://www.datacenterknowledge.com/data-center-hardware/nvidia-mediatek-bring-custom-chips-to-ai-racks": {
+    "title": "Nvidia Opens NVLink to Custom XPUs as AI Goes Heterogeneous",
+    "first_seen": "2026-09-04",
+    "url": "https://www.datacenterknowledge.com/data-center-hardware/nvidia-mediatek-bring-custom-chips-to-ai-racks"
+  },
+  "u:https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-muse-spark-1-105243877.html": {
+    "title": "Meta releases Muse Spark 1.3 for coding and AI agents",
+    "first_seen": "2026-09-04",
+    "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-muse-spark-1-105243877.html"
   }
 }
