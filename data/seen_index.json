@@ -10808,5 +10808,105 @@
     "title": "Coder and SpaceXAI Collaborate to Bring Agentic Coding Inside the World’s Most Regulated Enterprises",
     "first_seen": "2026-09-05",
     "url": "https://www.globenewswire.com/de/news-release/2026/09/02/3355399/0/en/coder-and-spacexai-collaborate-to-bring-agentic-coding-inside-the-world-s-most-regulated-enterprises.html"
+  },
+  "u:https://doi.org/10.3390/app16178822": {
+    "title": "Review of Key Technologies for Harvesting Embodied Intelligent Robots in Facility Horticulture: From Multimodal Active Sensing to Self-Evolving Closed Loops",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.3390/app16178822"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.03344": {
+    "title": "Large-Language Models as a Cognitive Virus",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.48550/arxiv.2609.03344"
+  },
+  "u:https://doi.org/10.3205/26gma224": {
+    "title": "Large Language Models in Lehr- und Prüfungsszenarien",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.3205/26gma224"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.03557": {
+    "title": "Building Pretraining Data for World Models: An Unreal Engine-Based Pipeline for Action-Conditioned Video Generation",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.48550/arxiv.2609.03557"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.03673": {
+    "title": "Do Video Generators Track the World Across Segments? A Benchmark and Method for World-State Reasoning in Video Continuation",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.48550/arxiv.2609.03673"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.04200": {
+    "title": "Principia: Relational Physics Tests for Video Models",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.48550/arxiv.2609.04200"
+  },
+  "u:https://doi.org/10.3758/s13428-026-03158-y": {
+    "title": "Ensemble clustering: A practical tutorial",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.3758/s13428-026-03158-y"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.03304": {
+    "title": "AnyGS2Mesh: Feed-Forward Mesh Reconstruction from 3D Gaussian Splatting with Arbitrary-Resolution Views",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.48550/arxiv.2609.03304"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.03534": {
+    "title": "TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.48550/arxiv.2609.03534"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.03334": {
+    "title": "Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.48550/arxiv.2609.03334"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.03447": {
+    "title": "STARS-GS: Structure-Aware Regularized Gaussian Splatting for Large-Scale Aerial Surface Reconstruction",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.48550/arxiv.2609.03447"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.04090": {
+    "title": "Conditioning Degenerate Diffusion Models",
+    "first_seen": "2026-09-06",
+    "url": "https://doi.org/10.48550/arxiv.2609.04090"
+  },
+  "u:https://github.com/BraveOPotato/FckSignups": {
+    "title": "BraveOPotato/FckSignups",
+    "first_seen": "2026-09-06",
+    "url": "https://github.com/BraveOPotato/FckSignups"
+  },
+  "u:https://github.com/WorldFlowAI/everything-claude-code": {
+    "title": "WorldFlowAI/everything-claude-code",
+    "first_seen": "2026-09-06",
+    "url": "https://github.com/WorldFlowAI/everything-claude-code"
+  },
+  "u:https://openai.com/index/gpt-6-astra": {
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "first_seen": "2026-09-06",
+    "url": "https://openai.com/index/gpt-6-astra"
+  },
+  "u:https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers": {
+    "title": "Introducing GPT-6 Astra for developers",
+    "first_seen": "2026-09-06",
+    "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"
+  },
+  "u:https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos": {
+    "title": "Using Blender with coding agents on macOS",
+    "first_seen": "2026-09-06",
+    "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/"
+  },
+  "u:https://www.anthropic.com/claude-fable-and-mythos-5-1": {
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic \\ Anthropic",
+    "first_seen": "2026-09-06",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+  },
+  "u:https://finance.biggo.com/news/f946b229-ffdf-4471-a637-bf8798dd9aec": {
+    "title": "Goldman Sachs sharply raises humanoid robot outlook; 2035 market size seen reaching $138 billion — BigGo Finance",
+    "first_seen": "2026-09-06",
+    "url": "https://finance.biggo.com/news/f946b229-ffdf-4471-a637-bf8798dd9aec"
+  },
+  "u:https://www.chinadaily.com.cn/a/202609/04/WS6a99ff04e4b06d4aa055c44d_2.html": {
+    "title": "One giant leap for humanoid kind",
+    "first_seen": "2026-09-06",
+    "url": "https://www.chinadaily.com.cn/a/202609/04/WS6a99ff04e4b06d4aa055c44d_2.html"
   }
 }
