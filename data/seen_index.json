@@ -11553,5 +11553,75 @@
     "title": "CrowdStrike and OpenAI Expand Partnership to Secure the ...",
     "first_seen": "2026-09-07",
     "url": "https://www.hpcwire.com/aiwire/2026/09/04/crowdstrike-and-openai-expand-partnership-to-secure-the-agentic-era"
+  },
+  "u:https://doi.org/10.1016/j.jhydrol.2026.136358": {
+    "title": "Grounding large language models in hydrologic modelling",
+    "first_seen": "2026-09-08",
+    "url": "https://doi.org/10.1016/j.jhydrol.2026.136358"
+  },
+  "u:https://github.com/mksglu/context-mode": {
+    "title": "mksglu/context-mode",
+    "first_seen": "2026-09-08",
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  "u:https://github.com/bytedance/deer-flow": {
+    "title": "bytedance/deer-flow",
+    "first_seen": "2026-09-08",
+    "url": "https://github.com/bytedance/deer-flow"
+  },
+  "u:https://openai.com/index/supporting-independent-journalism-in-ukraine": {
+    "title": "Supporting independent journalism in Ukraine",
+    "first_seen": "2026-09-08",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+  },
+  "u:https://simonwillison.net/2026/Sep/7/llm": {
+    "title": "llm 0.35",
+    "first_seen": "2026-09-08",
+    "url": "https://simonwillison.net/2026/Sep/7/llm/"
+  },
+  "u:https://simonwillison.net/2026/Sep/7/creepy-crawlies": {
+    "title": "Creepy crawlies",
+    "first_seen": "2026-09-08",
+    "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/"
+  },
+  "u:https://simonwillison.net/2026/Sep/7/jakub-pachocki": {
+    "title": "Quoting Jakub Pachocki",
+    "first_seen": "2026-09-08",
+    "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
+  },
+  "u:https://simonwillison.net/2026/Sep/7/video-compressor": {
+    "title": "Video compressor",
+    "first_seen": "2026-09-08",
+    "url": "https://simonwillison.net/2026/Sep/7/video-compressor/"
+  },
+  "u:https://simonwillison.net/2026/Sep/7/equal-earth": {
+    "title": "Mercator ↔ Equal Earth",
+    "first_seen": "2026-09-08",
+    "url": "https://simonwillison.net/2026/Sep/7/equal-earth/"
+  },
+  "u:https://interestingengineering.com/ai-robotics/video-chinese-firm-releases-11430-robot-trajectories-to-advance-research": {
+    "title": "Chinese firm releases 11,430 robot trajectories furthering research",
+    "first_seen": "2026-09-08",
+    "url": "https://interestingengineering.com/ai-robotics/video-chinese-firm-releases-11430-robot-trajectories-to-advance-research"
+  },
+  "u:https://www.britannica.com/money/NVIDIA-Corporation": {
+    "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+    "first_seen": "2026-09-08",
+    "url": "https://www.britannica.com/money/NVIDIA-Corporation"
+  },
+  "u:https://cryptonews.net/news/blockchain/33389007": {
+    "title": "Hedera Launches AI Coding Agent with Live Access",
+    "first_seen": "2026-09-08",
+    "url": "https://cryptonews.net/news/blockchain/33389007"
+  },
+  "u:https://capitalfm.africa/zoho-launches-agent-ready-paas-to-streamline-ai-generated-code-to-production": {
+    "title": "Zoho Launches Agent-Ready PaaS To Streamline AI-Generated Code To Production",
+    "first_seen": "2026-09-08",
+    "url": "https://capitalfm.africa/zoho-launches-agent-ready-paas-to-streamline-ai-generated-code-to-production"
+  },
+  "u:https://shattered.io/grok-4-5-launch-coding-agents-2026": {
+    "title": "Grok 4.5 Launches at $2/$6 to Chase OpenAI, Anthropic [2026]",
+    "first_seen": "2026-09-08",
+    "url": "https://shattered.io/grok-4-5-launch-coding-agents-2026"
   }
 }
