@@ -11623,5 +11623,130 @@
     "title": "Grok 4.5 Launches at $2/$6 to Chase OpenAI, Anthropic [2026]",
     "first_seen": "2026-09-08",
     "url": "https://shattered.io/grok-4-5-launch-coding-agents-2026"
+  },
+  "u:https://doi.org/10.1007/978-3-032-37664-0_10": {
+    "title": "The Effect of Quantization on Memorization in Large Language Models",
+    "first_seen": "2026-09-09",
+    "url": "https://doi.org/10.1007/978-3-032-37664-0_10"
+  },
+  "u:https://doi.org/10.1007/978-3-032-37667-1_15": {
+    "title": "Trainable Vector Quantization for Large Language Models",
+    "first_seen": "2026-09-09",
+    "url": "https://doi.org/10.1007/978-3-032-37667-1_15"
+  },
+  "u:https://doi.org/10.5281/zenodo.22646929": {
+    "title": "Semantic Drift in Iterated LLM Paraphrase Chains: Model Architecture, Scale, Quantization, Serving Infrastructure, and Prompt Engineering",
+    "first_seen": "2026-09-09",
+    "url": "https://doi.org/10.5281/zenodo.22646929"
+  },
+  "u:https://doi.org/10.5281/zenodo.22646928": {
+    "title": "Semantic Drift in Iterated LLM Paraphrase Chains: Model Architecture, Scale, Quantization, Serving Infrastructure, and Prompt Engineering",
+    "first_seen": "2026-09-09",
+    "url": "https://doi.org/10.5281/zenodo.22646928"
+  },
+  "u:https://doi.org/10.5281/zenodo.22646930": {
+    "title": "Semantic Drift Across Qwen Generations: Reproducibility, Thinking Mode, Serving Stack, and What Cosine Similarity Misses in Iterated Paraphrase Chains",
+    "first_seen": "2026-09-09",
+    "url": "https://doi.org/10.5281/zenodo.22646930"
+  },
+  "u:https://doi.org/10.5281/zenodo.22646931": {
+    "title": "Semantic Drift Across Qwen Generations: Reproducibility, Thinking Mode, Serving Stack, and What Cosine Similarity Misses in Iterated Paraphrase Chains",
+    "first_seen": "2026-09-09",
+    "url": "https://doi.org/10.5281/zenodo.22646931"
+  },
+  "u:https://github.com/ayghri/i-have-adhd": {
+    "title": "ayghri/i-have-adhd",
+    "first_seen": "2026-09-09",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  "u:https://github.com/openai/plugins": {
+    "title": "openai/plugins",
+    "first_seen": "2026-09-09",
+    "url": "https://github.com/openai/plugins"
+  },
+  "u:https://openai.com/index/codex-quantum-computing-experiments": {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "first_seen": "2026-09-09",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments"
+  },
+  "u:https://openai.com/index/introducing-chatgpt-images-2-5": {
+    "title": "Introducing ChatGPT Images 2.5",
+    "first_seen": "2026-09-09",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+  },
+  "u:https://openai.com/index/teen-development-research-grants": {
+    "title": "Funding grants for new research into AI and teen development",
+    "first_seen": "2026-09-09",
+    "url": "https://openai.com/index/teen-development-research-grants"
+  },
+  "u:https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "first_seen": "2026-09-09",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+  },
+  "u:https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom": {
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "first_seen": "2026-09-09",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
+  },
+  "u:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "first_seen": "2026-09-09",
+    "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/"
+  },
+  "u:https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25": {
+    "title": "Introducing ChatGPT Images 2.5",
+    "first_seen": "2026-09-09",
+    "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/"
+  },
+  "u:https://www.reuters.com/legal/litigation/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-2026-09-03": {
+    "title": "OpenAI launches new Astra model amid growing scrutiny ...",
+    "first_seen": "2026-09-09",
+    "url": "https://www.reuters.com/legal/litigation/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-2026-09-03"
+  },
+  "u:https://tech-insider.org/au/how-to-use-claude-fable-5-1-2026": {
+    "title": "How to Use Claude Fable 5.1: 12 Steps, $10/M Tokens [2026]",
+    "first_seen": "2026-09-09",
+    "url": "https://tech-insider.org/au/how-to-use-claude-fable-5-1-2026"
+  },
+  "u:https://www.pymnts.com/news/artificial-intelligence/2026/picpay-launches-anthropic-claude-integration-for-banking-inquiries": {
+    "title": "PicPay Launches Anthropic Claude Integration for Banking Inquiries",
+    "first_seen": "2026-09-09",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/picpay-launches-anthropic-claude-integration-for-banking-inquiries"
+  },
+  "u:https://www.xpeng.com/news/01a080371029a057bc8e8a02a2c6012b": {
+    "title": "XPENG IRON Humanoid Robot Now Walks Off the Production Line",
+    "first_seen": "2026-09-09",
+    "url": "https://www.xpeng.com/news/01a080371029a057bc8e8a02a2c6012b"
+  },
+  "u:https://en.prnasia.com/releases/global/iron-the-world-s-first-advanced-general-purpose-humanoid-robot-walks-off-the-production-lines-as-xpeng-s-humanoid-robot-manufacturing-facility-is-officially-commissioned-546885.shtml": {
+    "title": "IRON, the World's First Advanced General-Purpose Humanoid Robot, Walks off the Production Lines as XPENG's Humanoid Robot Manufacturing Facility Is Officially Commissioned - PR Newswire APAC",
+    "first_seen": "2026-09-09",
+    "url": "https://en.prnasia.com/releases/global/iron-the-world-s-first-advanced-general-purpose-humanoid-robot-walks-off-the-production-lines-as-xpeng-s-humanoid-robot-manufacturing-facility-is-officially-commissioned-546885.shtml"
+  },
+  "u:https://cnevpost.com/2026/09/08/xpeng-opens-iron-humanoid-robot-production-line": {
+    "title": "Xpeng opens Iron humanoid robot production line, paving ...",
+    "first_seen": "2026-09-09",
+    "url": "https://cnevpost.com/2026/09/08/xpeng-opens-iron-humanoid-robot-production-line"
+  },
+  "u:https://www.calcalistech.com/ctechnews/article/8p5z2xzcw": {
+    "title": "Nvidia is no longer just an AI chip company. It is financing the revolution it built",
+    "first_seen": "2026-09-09",
+    "url": "https://www.calcalistech.com/ctechnews/article/8p5z2xzcw"
+  },
+  "u:https://abc7ny.com/story/nvidia-is-buying-ai-startup-hugging-face-was-hacked-openai-models-13-billion/19784608": {
+    "title": "Nvidia is buying AI startup that was hacked by OpenAI models for ...",
+    "first_seen": "2026-09-09",
+    "url": "https://abc7ny.com/story/nvidia-is-buying-ai-startup-hugging-face-was-hacked-openai-models-13-billion/19784608"
+  },
+  "u:https://finance.yahoo.com/markets/article/nvidia-stock-moves-closer-to-all-time-high-193309793.html": {
+    "title": "Nvidia stock moves closer to all-time high",
+    "first_seen": "2026-09-09",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-stock-moves-closer-to-all-time-high-193309793.html"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/cloudflare-expands-support-ai-coding-200000938.html": {
+    "title": "Cloudflare Expands Support for AI Coding Agents ...",
+    "first_seen": "2026-09-09",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cloudflare-expands-support-ai-coding-200000938.html"
   }
 }
