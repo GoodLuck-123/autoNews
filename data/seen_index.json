@@ -11748,5 +11748,245 @@
     "title": "Cloudflare Expands Support for AI Coding Agents ...",
     "first_seen": "2026-09-09",
     "url": "https://finance.yahoo.com/technology/ai/articles/cloudflare-expands-support-ai-coding-200000938.html"
+  },
+  "u:https://doi.org/10.1038/s41467-026-77422-2": {
+    "title": "Harvesting environmental circadian oscillations for energy autonomy of soft robots",
+    "first_seen": "2026-09-10",
+    "url": "https://doi.org/10.1038/s41467-026-77422-2"
+  },
+  "u:https://doi.org/10.62201/78vjwx31": {
+    "title": "Algorithmic Communication and Digital Trance: A Moderated-Mediation Model of Conditional Autonomy and Attention Sovereignty Among Generation Z",
+    "first_seen": "2026-09-10",
+    "url": "https://doi.org/10.62201/78vjwx31"
+  },
+  "u:https://doi.org/10.1038/s41598-026-70755-4": {
+    "title": "An efficient large-scale scene reconstruction method based on 3D Gaussian splatting",
+    "first_seen": "2026-09-10",
+    "url": "https://doi.org/10.1038/s41598-026-70755-4"
+  },
+  "u:https://doi.org/10.1016/j.trip.2026.102244": {
+    "title": "Required simulated population ratios for valid assessment of shared autonomous vehicles’ impact using agent-based models",
+    "first_seen": "2026-09-10",
+    "url": "https://doi.org/10.1016/j.trip.2026.102244"
+  },
+  "u:https://huggingface.co/papers/2609.08650": {
+    "title": "Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning Coverage in RLVR",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.08650"
+  },
+  "u:https://huggingface.co/papers/2609.10226": {
+    "title": "Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.10226"
+  },
+  "u:https://huggingface.co/papers/2609.10522": {
+    "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.10522"
+  },
+  "u:https://huggingface.co/papers/2609.10540": {
+    "title": "Programmable World Model",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.10540"
+  },
+  "u:https://huggingface.co/papers/2609.07103": {
+    "title": "Revisiting Complete Reasoning Traces for Post-Training",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07103"
+  },
+  "u:https://huggingface.co/papers/2609.09140": {
+    "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.09140"
+  },
+  "u:https://huggingface.co/papers/2609.08108": {
+    "title": "SynthGait-19K: A Physically Grounded Synthetic Video Dataset for Gait Parameter Estimation",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.08108"
+  },
+  "u:https://huggingface.co/papers/2609.07398": {
+    "title": "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07398"
+  },
+  "u:https://huggingface.co/papers/2609.07821": {
+    "title": "A*-Thought-V2: Efficient Latent Reasoning via Geometric Dynamics of LLM",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07821"
+  },
+  "u:https://huggingface.co/papers/2609.08084": {
+    "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.08084"
+  },
+  "u:https://huggingface.co/papers/2609.07414": {
+    "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07414"
+  },
+  "u:https://huggingface.co/papers/2609.07670": {
+    "title": "Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07670"
+  },
+  "u:https://huggingface.co/papers/2609.07139": {
+    "title": "Encoded Early, Used Late: Where Transformers Begin to Act on an Inferred Partner's Expertise",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07139"
+  },
+  "u:https://huggingface.co/papers/2609.07470": {
+    "title": "Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07470"
+  },
+  "u:https://huggingface.co/papers/2510.08999": {
+    "title": "SQS: Bayesian DNN Compression through Sparse Quantized Sub-distributions",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2510.08999"
+  },
+  "u:https://huggingface.co/papers/2609.07941": {
+    "title": "ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07941"
+  },
+  "u:https://huggingface.co/papers/2609.08345": {
+    "title": "CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.08345"
+  },
+  "u:https://huggingface.co/papers/2609.08936": {
+    "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.08936"
+  },
+  "u:https://huggingface.co/papers/2609.09123": {
+    "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.09123"
+  },
+  "u:https://huggingface.co/papers/2609.08977": {
+    "title": "Omni Interaction Agent Technical Report",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.08977"
+  },
+  "u:https://huggingface.co/papers/2609.09158": {
+    "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.09158"
+  },
+  "u:https://huggingface.co/papers/2609.09153": {
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.09153"
+  },
+  "u:https://huggingface.co/papers/2609.07498": {
+    "title": "CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07498"
+  },
+  "u:https://huggingface.co/papers/2609.08798": {
+    "title": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.08798"
+  },
+  "u:https://huggingface.co/papers/2609.08368": {
+    "title": "Miles v0.1: Production-Level Post-Training",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.08368"
+  },
+  "u:https://huggingface.co/papers/2609.08404": {
+    "title": "Environments as Scaffold: Enriching Feedback to Bootstrap Self-Evolving Agents in Long-Horizon Tasks",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.08404"
+  },
+  "u:https://huggingface.co/papers/2609.07108": {
+    "title": "Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07108"
+  },
+  "u:https://huggingface.co/papers/2609.07816": {
+    "title": "Kalman Delta Networks: Uncertainty-aware Associative Memory",
+    "first_seen": "2026-09-10",
+    "url": "https://huggingface.co/papers/2609.07816"
+  },
+  "u:https://github.com/pascalorg/editor": {
+    "title": "pascalorg/editor",
+    "first_seen": "2026-09-10",
+    "url": "https://github.com/pascalorg/editor"
+  },
+  "u:https://github.com/earthtojake/text-to-cad": {
+    "title": "earthtojake/text-to-cad",
+    "first_seen": "2026-09-10",
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  "u:https://github.com/vastsa/PI-Desktop": {
+    "title": "vastsa/PI-Desktop",
+    "first_seen": "2026-09-10",
+    "url": "https://github.com/vastsa/PI-Desktop"
+  },
+  "u:https://openai.com/index/ai-policy-window": {
+    "title": "The AI policy window is open. We need to act.",
+    "first_seen": "2026-09-10",
+    "url": "https://openai.com/index/ai-policy-window"
+  },
+  "u:https://openai.com/index/gpt-6-astra-next-generation-work": {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "first_seen": "2026-09-10",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
+  },
+  "u:https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "first_seen": "2026-09-10",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+  },
+  "u:https://simonwillison.net/2026/Sep/9/blender-viewer": {
+    "title": ".blend URL Viewer",
+    "first_seen": "2026-09-10",
+    "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/"
+  },
+  "u:https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and": {
+    "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+    "first_seen": "2026-09-10",
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
+  },
+  "u:https://www.cbsnews.com/news/anthropic-ai-model-internet-hack-fourth-time": {
+    "title": "Another Anthropic model gained access to the open internet, company says",
+    "first_seen": "2026-09-10",
+    "url": "https://www.cbsnews.com/news/anthropic-ai-model-internet-hack-fourth-time"
+  },
+  "u:https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09": {
+    "title": "Anthropic reports fourth cybersecurity incident with early version of ...",
+    "first_seen": "2026-09-10",
+    "url": "https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09"
+  },
+  "u:https://fedscoop.com/anthropic-adds-fable-claude-for-government-carlson": {
+    "title": "Anthropic adds Fable 5.1 to Claude for Government",
+    "first_seen": "2026-09-10",
+    "url": "https://fedscoop.com/anthropic-adds-fable-claude-for-government-carlson"
+  },
+  "u:https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home": {
+    "title": "Eerily humanlike AI-powered robot enters mass production in China — its makers say it could soon be helping you out at home",
+    "first_seen": "2026-09-10",
+    "url": "https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home"
+  },
+  "u:https://eletric-vehicles.com/xpeng/dogotix/xpeng-starts-production-of-its-humanoid-robot-iron-in-china": {
+    "title": "XPeng Starts Production of Its Humanoid Robot IRON in China",
+    "first_seen": "2026-09-10",
+    "url": "https://eletric-vehicles.com/xpeng/dogotix/xpeng-starts-production-of-its-humanoid-robot-iron-in-china"
+  },
+  "u:https://www.citybiz.co/article/900373/coder-launches-fully-self-hosted-ai-coding-agents-for-regulated-enterprises": {
+    "title": "Coder Launches Fully Self-Hosted AI Coding Agents for Regulated Enterprises",
+    "first_seen": "2026-09-10",
+    "url": "https://www.citybiz.co/article/900373/coder-launches-fully-self-hosted-ai-coding-agents-for-regulated-enterprises"
+  },
+  "u:https://aithority.com/machine-learning/qodo-launches-the-first-agent-to-agent-code-review-and-governance": {
+    "title": "Qodo Launches the First Agent-to-Agent Code Review and Governance",
+    "first_seen": "2026-09-10",
+    "url": "https://aithority.com/machine-learning/qodo-launches-the-first-agent-to-agent-code-review-and-governance"
+  },
+  "u:https://tech-insider.org/meta-muse-personal-ai-agent-launch-2026": {
+    "title": "Meta Muse AI Agent Launch: $20 & $100 Tiers [2026]",
+    "first_seen": "2026-09-10",
+    "url": "https://tech-insider.org/meta-muse-personal-ai-agent-launch-2026"
   }
 }
