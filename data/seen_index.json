@@ -11988,5 +11988,200 @@
     "title": "Meta Muse AI Agent Launch: $20 & $100 Tiers [2026]",
     "first_seen": "2026-09-10",
     "url": "https://tech-insider.org/meta-muse-personal-ai-agent-launch-2026"
+  },
+  "u:https://doi.org/10.1145/3844947": {
+    "title": "A Survey on Foundation Models for Personalized Federated Intelligence",
+    "first_seen": "2026-09-11",
+    "url": "https://doi.org/10.1145/3844947"
+  },
+  "u:https://doi.org/10.38035/gijlss.v4i4.912": {
+    "title": "Criminal Liability for Technology-Based Digital Investment Fraud in Indonesia: Challenges of Evidence, Mens Rea, and Corporate Accountability",
+    "first_seen": "2026-09-11",
+    "url": "https://doi.org/10.38035/gijlss.v4i4.912"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.08965": {
+    "title": "PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving",
+    "first_seen": "2026-09-11",
+    "url": "https://doi.org/10.48550/arxiv.2609.08965"
+  },
+  "u:https://huggingface.co/papers/2609.11042": {
+    "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.11042"
+  },
+  "u:https://huggingface.co/papers/2609.08126": {
+    "title": "SchemeArena: Factorized Stress Testing of Scheming in LLM Agents",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.08126"
+  },
+  "u:https://huggingface.co/papers/2609.09264": {
+    "title": "StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.09264"
+  },
+  "u:https://huggingface.co/papers/2609.10296": {
+    "title": "The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.10296"
+  },
+  "u:https://huggingface.co/papers/2609.08572": {
+    "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.08572"
+  },
+  "u:https://huggingface.co/papers/2609.08965": {
+    "title": "PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.08965"
+  },
+  "u:https://huggingface.co/papers/2609.10355": {
+    "title": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.10355"
+  },
+  "u:https://huggingface.co/papers/2609.10060": {
+    "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.10060"
+  },
+  "u:https://huggingface.co/papers/2609.08149": {
+    "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.08149"
+  },
+  "u:https://huggingface.co/papers/2609.09155": {
+    "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.09155"
+  },
+  "u:https://huggingface.co/papers/2609.09113": {
+    "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.09113"
+  },
+  "u:https://huggingface.co/papers/2609.09134": {
+    "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.09134"
+  },
+  "u:https://huggingface.co/papers/2609.09657": {
+    "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
+    "first_seen": "2026-09-11",
+    "url": "https://huggingface.co/papers/2609.09657"
+  },
+  "u:https://github.com/alsk1992/CloddsBot": {
+    "title": "alsk1992/CloddsBot",
+    "first_seen": "2026-09-11",
+    "url": "https://github.com/alsk1992/CloddsBot"
+  },
+  "u:https://github.com/diegosouzapw/OmniRoute": {
+    "title": "diegosouzapw/OmniRoute",
+    "first_seen": "2026-09-11",
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  "u:https://github.com/nashsu/llm_wiki": {
+    "title": "nashsu/llm_wiki",
+    "first_seen": "2026-09-11",
+    "url": "https://github.com/nashsu/llm_wiki"
+  },
+  "u:https://github.com/vercel-labs/skills": {
+    "title": "vercel-labs/skills",
+    "first_seen": "2026-09-11",
+    "url": "https://github.com/vercel-labs/skills"
+  },
+  "u:https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "first_seen": "2026-09-11",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+  },
+  "u:https://openai.com/index/put-data-to-work": {
+    "title": "Now everyone can put data to work",
+    "first_seen": "2026-09-11",
+    "url": "https://openai.com/index/put-data-to-work"
+  },
+  "u:https://openai.com/index/introducing-chatgpt-financial-services": {
+    "title": "Introducing ChatGPT for Financial Services",
+    "first_seen": "2026-09-11",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services"
+  },
+  "u:https://openai.com/index/expanding-ai-access-us-government": {
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "first_seen": "2026-09-11",
+    "url": "https://openai.com/index/expanding-ai-access-us-government"
+  },
+  "u:https://openai.com/index/introducing-the-agents-api": {
+    "title": "Introducing the Agents API",
+    "first_seen": "2026-09-11",
+    "url": "https://openai.com/index/introducing-the-agents-api"
+  },
+  "u:https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "first_seen": "2026-09-11",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+  },
+  "u:https://www.turkiyetoday.com/business/openai-releases-gpt-6-its-most-powerful-ai-model-yet-3227420": {
+    "title": "OpenAI releases GPT-6, its most powerful AI model yet",
+    "first_seen": "2026-09-11",
+    "url": "https://www.turkiyetoday.com/business/openai-releases-gpt-6-its-most-powerful-ai-model-yet-3227420"
+  },
+  "u:https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908": {
+    "title": "AI Has Solved One of Math's $1 Million Millennium Prize ...",
+    "first_seen": "2026-09-11",
+    "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908"
+  },
+  "u:https://technode.global/2026/09/04/openai-gpt-6-astra-critical-cyber-capabilities": {
+    "title": "OpenAI releases GPT-6 Astra with critical cyber capabilities",
+    "first_seen": "2026-09-11",
+    "url": "https://technode.global/2026/09/04/openai-gpt-6-astra-critical-cyber-capabilities"
+  },
+  "u:https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html": {
+    "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude ...",
+    "first_seen": "2026-09-11",
+    "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html"
+  },
+  "u:https://www.reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10": {
+    "title": "Anthropic disrupts Russian, Chinese AI campaigns ...",
+    "first_seen": "2026-09-11",
+    "url": "https://www.reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10"
+  },
+  "u:https://ca.finance.yahoo.com/news/anthropic-reports-fourth-cybersecurity-incident-194842259.html": {
+    "title": "Anthropic reports fourth cybersecurity incident with early ...",
+    "first_seen": "2026-09-11",
+    "url": "https://ca.finance.yahoo.com/news/anthropic-reports-fourth-cybersecurity-incident-194842259.html"
+  },
+  "u:https://www.stocktitan.net/news/XPEV/iron-the-world-s-first-advanced-general-purpose-humanoid-robot-walks-lle1erh8gaz3.html": {
+    "title": "A humanoid robot walked off a production line on its own. XPENG made it.",
+    "first_seen": "2026-09-11",
+    "url": "https://www.stocktitan.net/news/XPEV/iron-the-world-s-first-advanced-general-purpose-humanoid-robot-walks-lle1erh8gaz3.html"
+  },
+  "u:https://english.news.cn/20260908/0289371fbffd41ce8bad73d91e5a62c6/c.html": {
+    "title": "Unitree humanoid robot achieves fully autonomous fighting for first time-Xinhua",
+    "first_seen": "2026-09-11",
+    "url": "https://english.news.cn/20260908/0289371fbffd41ce8bad73d91e5a62c6/c.html"
+  },
+  "u:https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem": {
+    "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership ...",
+    "first_seen": "2026-09-11",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem"
+  },
+  "u:https://semiengineering.com/can-gpus-continue-to-dominate-ai-compute": {
+    "title": "Can GPUs Continue To Dominate AI Compute?",
+    "first_seen": "2026-09-11",
+    "url": "https://semiengineering.com/can-gpus-continue-to-dominate-ai-compute"
+  },
+  "u:https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9": {
+    "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI",
+    "first_seen": "2026-09-11",
+    "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9"
+  },
+  "u:https://www.intelligentliving.co/what-is-herdr-terminal-multiplexer": {
+    "title": "What Is Herdr? The Open-Source Terminal That Herds AI Coding Agents",
+    "first_seen": "2026-09-11",
+    "url": "https://www.intelligentliving.co/what-is-herdr-terminal-multiplexer"
+  },
+  "u:https://siliconangle.com/2026/09/10/atlassian-upgrades-ai-coding-agents-for-always-on-software-development": {
+    "title": "Atlassian upgrades AI coding agents for always-on software development",
+    "first_seen": "2026-09-11",
+    "url": "https://siliconangle.com/2026/09/10/atlassian-upgrades-ai-coding-agents-for-always-on-software-development"
   }
 }
