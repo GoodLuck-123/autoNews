@@ -12183,5 +12183,240 @@
     "title": "Atlassian upgrades AI coding agents for always-on software development",
     "first_seen": "2026-09-11",
     "url": "https://siliconangle.com/2026/09/10/atlassian-upgrades-ai-coding-agents-for-always-on-software-development"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.09591": {
+    "title": "Modality-Decoupled Federated Learning for Privacy-Preserving Embodied Intelligence in 6G",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.48550/arxiv.2609.09591"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.10540": {
+    "title": "Programmable World Model",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.48550/arxiv.2609.10540"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.10050": {
+    "title": "Grounding Generated Video Plans in Simulation Towards Versatile Dexterous Controllers",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.48550/arxiv.2609.10050"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.10376": {
+    "title": "Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.48550/arxiv.2609.10376"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.09606": {
+    "title": "RouteBridge: Reliability-Routed Bidirectional Distillation Between Neural Radiance Fields and 3D Gaussian Splatting",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.48550/arxiv.2609.09606"
+  },
+  "u:https://doi.org/10.1186/s13321-026-01298-z": {
+    "title": "Pharmacophore model guided 3D molecular generation through diffusion model",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.1186/s13321-026-01298-z"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.09909": {
+    "title": "Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.48550/arxiv.2609.09909"
+  },
+  "u:https://doi.org/10.1145/3844499": {
+    "title": "AI-coupled HPC Workflow Applications, Middleware and Performance",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.1145/3844499"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.09800": {
+    "title": "HBFSim: Fast and Faithful Simulation of High-Bandwidth Flash Under Real GPU Execution",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.48550/arxiv.2609.09800"
+  },
+  "u:https://doi.org/10.21203/rs.3.rs-10952127/v1": {
+    "title": "Reasoning-Aware Error-Bounded KV-Cache Compression and Sparse Attention for Long-Context LLMs",
+    "first_seen": "2026-09-12",
+    "url": "https://doi.org/10.21203/rs.3.rs-10952127/v1"
+  },
+  "u:https://huggingface.co/papers/2609.10745": {
+    "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.10745"
+  },
+  "u:https://huggingface.co/papers/2609.10445": {
+    "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.10445"
+  },
+  "u:https://huggingface.co/papers/2609.11085": {
+    "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11085"
+  },
+  "u:https://huggingface.co/papers/2609.10539": {
+    "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.10539"
+  },
+  "u:https://huggingface.co/papers/2609.11561": {
+    "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11561"
+  },
+  "u:https://huggingface.co/papers/2609.11699": {
+    "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11699"
+  },
+  "u:https://huggingface.co/papers/2609.11486": {
+    "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11486"
+  },
+  "u:https://huggingface.co/papers/2609.11317": {
+    "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11317"
+  },
+  "u:https://huggingface.co/papers/2609.11155": {
+    "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11155"
+  },
+  "u:https://huggingface.co/papers/2609.10016": {
+    "title": "MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.10016"
+  },
+  "u:https://huggingface.co/papers/2609.11156": {
+    "title": "UniH^3: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11156"
+  },
+  "u:https://huggingface.co/papers/2609.11412": {
+    "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11412"
+  },
+  "u:https://huggingface.co/papers/2609.11808": {
+    "title": "Generative Late-Interaction Embeddings For Visual Document Retrieval",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11808"
+  },
+  "u:https://huggingface.co/papers/2609.10712": {
+    "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.10712"
+  },
+  "u:https://huggingface.co/papers/2609.10715": {
+    "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.10715"
+  },
+  "u:https://huggingface.co/papers/2609.11499": {
+    "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11499"
+  },
+  "u:https://huggingface.co/papers/2609.11548": {
+    "title": "World in World: Explore the World with World Models",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11548"
+  },
+  "u:https://huggingface.co/papers/2609.11929": {
+    "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+    "first_seen": "2026-09-12",
+    "url": "https://huggingface.co/papers/2609.11929"
+  },
+  "u:https://github.com/melgarafael/DeskcommCRM": {
+    "title": "melgarafael/DeskcommCRM",
+    "first_seen": "2026-09-12",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  "u:https://openai.com/index/perplexity-improving-accuracy-with-astra": {
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "first_seen": "2026-09-12",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+  },
+  "u:https://openai.com/index/scaling-storage-one-billion-users-part-one": {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "first_seen": "2026-09-12",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+  },
+  "u:https://openai.com/index/cognition-devin-testing-with-astra": {
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "first_seen": "2026-09-12",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra"
+  },
+  "u:https://simonwillison.net/2026/Sep/12/openai-agents-rubygems": {
+    "title": "OpenAI agents attacked RubyGems back in May",
+    "first_seen": "2026-09-12",
+    "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
+  },
+  "u:https://simonwillison.net/2026/Sep/11/boris-cherny": {
+    "title": "Quoting Boris Cherny",
+    "first_seen": "2026-09-12",
+    "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/"
+  },
+  "u:https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai": {
+    "title": "Feeling sad about AI",
+    "first_seen": "2026-09-12",
+    "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/"
+  },
+  "u:https://simonwillison.net/2026/Sep/11/hugging-face-security": {
+    "title": "Quoting huggingface.co/security.txt",
+    "first_seen": "2026-09-12",
+    "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/"
+  },
+  "u:https://www.facebook.com/yahoonews/posts/openai-announced-the-launch-of-gpt-6-astra-its-first-major-new-model-since-last-/1457499876235693": {
+    "title": "OpenAI announced the launch of GPT-6 Astra, its first major new ...",
+    "first_seen": "2026-09-12",
+    "url": "https://www.facebook.com/yahoonews/posts/openai-announced-the-launch-of-gpt-6-astra-its-first-major-new-model-since-last-/1457499876235693"
+  },
+  "u:https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy": {
+    "title": "OpenAI claims blockbuster math breakthrough amid swirl of controversy | Scientific American",
+    "first_seen": "2026-09-12",
+    "url": "https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy"
+  },
+  "u:https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html": {
+    "title": "OpenAI Says It Has Cracked One of Math's 'Millennium Problems'",
+    "first_seen": "2026-09-12",
+    "url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html"
+  },
+  "u:https://venturebeat.com/technology/openai-solves-longstanding-math-problem-with-10-000-agent-swarm-but-cant-rule-out-benefitting-from-a-researchers-private-codex-data": {
+    "title": "OpenAI solves longstanding math problem with 10000-agent swarm",
+    "first_seen": "2026-09-12",
+    "url": "https://venturebeat.com/technology/openai-solves-longstanding-math-problem-with-10-000-agent-swarm-but-cant-rule-out-benefitting-from-a-researchers-private-codex-data"
+  },
+  "u:https://www.cbsnews.com/news/anthropic-ai-claude-biological-weapons-development": {
+    "title": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development",
+    "first_seen": "2026-09-12",
+    "url": "https://www.cbsnews.com/news/anthropic-ai-claude-biological-weapons-development"
+  },
+  "u:https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage": {
+    "title": "Anthropic claims Claude AI used for missile projects, global espionage",
+    "first_seen": "2026-09-12",
+    "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage"
+  },
+  "u:https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html": {
+    "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+    "first_seen": "2026-09-12",
+    "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html"
+  },
+  "u:https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721": {
+    "title": "Robot \"IPO Wave\" Hits the Brakes: Whose Revenue Can Stand Up to Scrutiny?",
+    "first_seen": "2026-09-12",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721"
+  },
+  "u:https://www.nbcnews.com/video/chinese-company-releases-video-of-humanoid-robot-walking-off-assembly-line-269747269766": {
+    "title": "Chinese company releases video of humanoid robot walking off assembly line on its own",
+    "first_seen": "2026-09-12",
+    "url": "https://www.nbcnews.com/video/chinese-company-releases-video-of-humanoid-robot-walking-off-assembly-line-269747269766"
+  },
+  "u:https://blogs.nvidia.com/blog/ibc-news-2026": {
+    "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+    "first_seen": "2026-09-12",
+    "url": "https://blogs.nvidia.com/blog/ibc-news-2026"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html": {
+    "title": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI ...",
+    "first_seen": "2026-09-12",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html"
   }
 }
