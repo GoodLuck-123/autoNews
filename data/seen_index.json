@@ -12418,5 +12418,70 @@
     "title": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI ...",
     "first_seen": "2026-09-12",
     "url": "https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html"
+  },
+  "u:https://github.com/asgeirtj/system_prompts_leaks": {
+    "title": "asgeirtj/system_prompts_leaks",
+    "first_seen": "2026-09-13",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  "u:https://github.com/Sonarr/Sonarr": {
+    "title": "Sonarr/Sonarr",
+    "first_seen": "2026-09-13",
+    "url": "https://github.com/Sonarr/Sonarr"
+  },
+  "u:https://github.com/yuliskov/SmartTube": {
+    "title": "yuliskov/SmartTube",
+    "first_seen": "2026-09-13",
+    "url": "https://github.com/yuliskov/SmartTube"
+  },
+  "u:https://github.com/armory3d/armorpaint": {
+    "title": "armory3d/armorpaint",
+    "first_seen": "2026-09-13",
+    "url": "https://github.com/armory3d/armorpaint"
+  },
+  "u:https://github.com/SnailSploit/Claude-Red": {
+    "title": "SnailSploit/Claude-Red",
+    "first_seen": "2026-09-13",
+    "url": "https://github.com/SnailSploit/Claude-Red"
+  },
+  "u:https://simonwillison.net/2026/Sep/12/astra-running-routes": {
+    "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+    "first_seen": "2026-09-13",
+    "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
+  },
+  "u:https://simonwillison.net/2026/Sep/12/paul-ford": {
+    "title": "Quoting Paul Ford",
+    "first_seen": "2026-09-13",
+    "url": "https://simonwillison.net/2026/Sep/12/paul-ford/"
+  },
+  "u:https://www.foxbusiness.com/technology/nvidia-ceo-jensen-huang-declares-agi-has-arrived-after-openai-unveils-gpt-6-astra": {
+    "title": "Jensen Huang declares AGI era has arrived after OpenAI ...",
+    "first_seen": "2026-09-13",
+    "url": "https://www.foxbusiness.com/technology/nvidia-ceo-jensen-huang-declares-agi-has-arrived-after-openai-unveils-gpt-6-astra"
+  },
+  "u:https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html": {
+    "title": "OpenAI, Anthropic researchers ramp up calls for slowdown amid AI ...",
+    "first_seen": "2026-09-13",
+    "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html"
+  },
+  "u:https://youtu.be/_2hL9iabiEM": {
+    "title": "Chinese company releases video of humanoid robot walking off assembly line",
+    "first_seen": "2026-09-13",
+    "url": "https://youtu.be/_2hL9iabiEM?is=W7jUqF2CaCAExGGN"
+  },
+  "u:https://247wallst.com/investing/2026/09/07/nvidia-is-no-longer-just-a-chip-company-its-the-infrastructure-platform-for-all-of-ai": {
+    "title": "Nvidia Is No Longer Just a Chip Company. It’s the Infrastructure Platform for All of AI",
+    "first_seen": "2026-09-13",
+    "url": "https://247wallst.com/investing/2026/09/07/nvidia-is-no-longer-just-a-chip-company-its-the-infrastructure-platform-for-all-of-ai"
+  },
+  "u:https://www.globenewswire.com/news-release/2026/09/09/3358726/0/en/qodo-launches-the-first-agent-to-agent-code-review-and-governance.html": {
+    "title": "Qodo Launches the First Agent-to-Agent Code Review and Governance",
+    "first_seen": "2026-09-13",
+    "url": "https://www.globenewswire.com/news-release/2026/09/09/3358726/0/en/qodo-launches-the-first-agent-to-agent-code-review-and-governance.html"
+  },
+  "u:https://www.augmentcode.com/blog/beyond-ai-coding-agents-how-we-built-augments-software-factory": {
+    "title": "Beyond AI Coding Agents: How We Built Augment's Software Factory",
+    "first_seen": "2026-09-13",
+    "url": "https://www.augmentcode.com/blog/beyond-ai-coding-agents-how-we-built-augments-software-factory"
   }
 }
