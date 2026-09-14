@@ -12483,5 +12483,90 @@
     "title": "Beyond AI Coding Agents: How We Built Augment's Software Factory",
     "first_seen": "2026-09-13",
     "url": "https://www.augmentcode.com/blog/beyond-ai-coding-agents-how-we-built-augments-software-factory"
+  },
+  "u:https://doi.org/10.1145/3832810.3832925": {
+    "title": "MOPAR: A Model Partitioning Framework for Deep Learning Inference Services on Serverless Platforms",
+    "first_seen": "2026-09-14",
+    "url": "https://doi.org/10.1145/3832810.3832925"
+  },
+  "u:https://doi.org/10.5281/zenodo.22708711": {
+    "title": "Decentralised Adapter-Based LLM Inference: A Systematic Literature Review — manuscript, curated corpus and PRISMA evidence",
+    "first_seen": "2026-09-14",
+    "url": "https://doi.org/10.5281/zenodo.22708711"
+  },
+  "u:https://doi.org/10.5281/zenodo.22702264": {
+    "title": "Decentralised Adapter-Based LLM Inference: A Systematic Literature Review — manuscript, curated corpus and PRISMA evidence",
+    "first_seen": "2026-09-14",
+    "url": "https://doi.org/10.5281/zenodo.22702264"
+  },
+  "u:https://doi.org/10.5281/zenodo.22704750": {
+    "title": "Decentralised Adapter-Based LLM Inference: A Systematic Literature Review — manuscript, curated corpus and PRISMA evidence",
+    "first_seen": "2026-09-14",
+    "url": "https://doi.org/10.5281/zenodo.22704750"
+  },
+  "u:https://doi.org/10.5281/zenodo.22703573": {
+    "title": "Decentralised Adapter-Based LLM Inference: A Systematic Literature Review — manuscript, curated corpus and PRISMA evidence",
+    "first_seen": "2026-09-14",
+    "url": "https://doi.org/10.5281/zenodo.22703573"
+  },
+  "u:https://doi.org/10.5281/zenodo.22703364": {
+    "title": "Decentralised Adapter-Based LLM Inference: A Systematic Literature Review — manuscript, curated corpus and PRISMA evidence",
+    "first_seen": "2026-09-14",
+    "url": "https://doi.org/10.5281/zenodo.22703364"
+  },
+  "u:https://huggingface.co/papers/2609.12641": {
+    "title": "Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models",
+    "first_seen": "2026-09-14",
+    "url": "https://huggingface.co/papers/2609.12641"
+  },
+  "u:https://huggingface.co/papers/2609.13146": {
+    "title": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image",
+    "first_seen": "2026-09-14",
+    "url": "https://huggingface.co/papers/2609.13146"
+  },
+  "u:https://huggingface.co/papers/2609.13141": {
+    "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
+    "first_seen": "2026-09-14",
+    "url": "https://huggingface.co/papers/2609.13141"
+  },
+  "u:https://github.com/tech-leads-club/agent-skills": {
+    "title": "tech-leads-club/agent-skills",
+    "first_seen": "2026-09-14",
+    "url": "https://github.com/tech-leads-club/agent-skills"
+  },
+  "u:https://github.com/multimodal-art-projection/YuE": {
+    "title": "multimodal-art-projection/YuE",
+    "first_seen": "2026-09-14",
+    "url": "https://github.com/multimodal-art-projection/YuE"
+  },
+  "u:https://github.com/alibaba/open-code-review": {
+    "title": "alibaba/open-code-review",
+    "first_seen": "2026-09-14",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  "u:https://simonwillison.net/2026/Sep/14/commit-rewriter": {
+    "title": "commit-rewriter 0.1",
+    "first_seen": "2026-09-14",
+    "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/"
+  },
+  "u:https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china": {
+    "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression",
+    "first_seen": "2026-09-14",
+    "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china"
+  },
+  "u:https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/ai-chips-today-rackspace-innovates-ai-strategy-with-nvidia-p": {
+    "title": "AI Chips Today - Rackspace Innovates AI Strategy With NVIDIA Partnership",
+    "first_seen": "2026-09-14",
+    "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/ai-chips-today-rackspace-innovates-ai-strategy-with-nvidia-p"
+  },
+  "u:https://www.forbes.com/sites/karlfreund/2026/09/10/nvidia-and-d-matrix-announce-collaboration-roadmap-for-fast-inference": {
+    "title": "Nvidia And d-Matrix Announce Collaboration Roadmap For Fast Inference",
+    "first_seen": "2026-09-14",
+    "url": "https://www.forbes.com/sites/karlfreund/2026/09/10/nvidia-and-d-matrix-announce-collaboration-roadmap-for-fast-inference"
+  },
+  "u:https://finance.biggo.com/news/5b457ff7-cf39-491c-b885-1a7f6a68236e": {
+    "title": "Logitech Debuts $99.99 MX Keypad to Streamline Multi-Agent AI Coding",
+    "first_seen": "2026-09-14",
+    "url": "https://finance.biggo.com/news/5b457ff7-cf39-491c-b885-1a7f6a68236e"
   }
 }
