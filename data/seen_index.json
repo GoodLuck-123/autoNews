@@ -12568,5 +12568,75 @@
     "title": "Logitech Debuts $99.99 MX Keypad to Streamline Multi-Agent AI Coding",
     "first_seen": "2026-09-14",
     "url": "https://finance.biggo.com/news/5b457ff7-cf39-491c-b885-1a7f6a68236e"
+  },
+  "u:https://doi.org/10.1145/3832810.3832840": {
+    "title": "RPSC: Robust LLM Scheduling by Tolerating Prediction Inaccuracy and Mitigating Tail Latency",
+    "first_seen": "2026-09-15",
+    "url": "https://doi.org/10.1145/3832810.3832840"
+  },
+  "u:https://huggingface.co/papers/2609.15973": {
+    "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
+    "first_seen": "2026-09-15",
+    "url": "https://huggingface.co/papers/2609.15973"
+  },
+  "u:https://huggingface.co/papers/2609.15478": {
+    "title": "BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
+    "first_seen": "2026-09-15",
+    "url": "https://huggingface.co/papers/2609.15478"
+  },
+  "u:https://huggingface.co/papers/2609.14858": {
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "first_seen": "2026-09-15",
+    "url": "https://huggingface.co/papers/2609.14858"
+  },
+  "u:https://huggingface.co/papers/2609.15128": {
+    "title": "Omni-Streaming Thinking",
+    "first_seen": "2026-09-15",
+    "url": "https://huggingface.co/papers/2609.15128"
+  },
+  "u:https://github.com/rlaope/oh-my-hermes": {
+    "title": "rlaope/oh-my-hermes",
+    "first_seen": "2026-09-15",
+    "url": "https://github.com/rlaope/oh-my-hermes"
+  },
+  "u:https://github.com/ruvnet/RuView": {
+    "title": "ruvnet/RuView",
+    "first_seen": "2026-09-15",
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  "u:https://openai.com/index/fyxer": {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "first_seen": "2026-09-15",
+    "url": "https://openai.com/index/fyxer"
+  },
+  "u:https://simonwillison.net/2026/Sep/14/the-contagion-of-fear": {
+    "title": "The contagion of fear",
+    "first_seen": "2026-09-15",
+    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
+  },
+  "u:https://simonwillison.net/2026/Sep/14/influences": {
+    "title": "What blog posts influenced your thinking the most?",
+    "first_seen": "2026-09-15",
+    "url": "https://simonwillison.net/2026/Sep/14/influences/"
+  },
+  "u:https://mobidevices.com/en/openai-humanoid-robot-plan": {
+    "title": "OpenAI develops humanoid robot",
+    "first_seen": "2026-09-15",
+    "url": "https://mobidevices.com/en/openai-humanoid-robot-plan"
+  },
+  "u:https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance": {
+    "title": "AI infrastructure company Cornelis raises $205M to chip away at ...",
+    "first_seen": "2026-09-15",
+    "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance"
+  },
+  "u:https://www.mycarrollcountynews.com/online_features/press_releases/article_ec49bbea-3ea1-5847-b94e-d6242f41e310.html": {
+    "title": "ReleasePad Launches MCP Server So AI Agents Can Draft, Publish and Measure Product Changelogs",
+    "first_seen": "2026-09-15",
+    "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_ec49bbea-3ea1-5847-b94e-d6242f41e310.html"
+  },
+  "u:https://www.hpcwire.com/bigdatawire/this-just-in/databricks-launches-genie-code-bringing-agentic-engineering-to-data-work": {
+    "title": "BigDATAwire: Databricks Launches Genie Code - HPC Wire",
+    "first_seen": "2026-09-15",
+    "url": "https://www.hpcwire.com/bigdatawire/this-just-in/databricks-launches-genie-code-bringing-agentic-engineering-to-data-work"
   }
 }
