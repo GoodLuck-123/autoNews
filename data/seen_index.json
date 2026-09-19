@@ -15038,5 +15038,245 @@
     "title": "Agentic.ai - Find AI That Actually Does Things",
     "first_seen": "2026-09-18",
     "url": "https://agentic.ai"
+  },
+  "u:https://doi.org/10.1093/nsr/nwag601": {
+    "title": "The evolution of anti-visual perception: biomimetics, spectral physics, and artificial intelligence",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.1093/nsr/nwag601"
+  },
+  "u:https://doi.org/10.3389/fcomp.2026.1878274": {
+    "title": "Knowledge- and memory-based interactive task learning for human robot collaboration",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.3389/fcomp.2026.1878274"
+  },
+  "u:https://doi.org/10.1515/jdis-2026-0048": {
+    "title": "Can Large Language Models Evaluate Grant Proposal Quality? Revisiting the Wennerås and Wold Peer Review Data",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.1515/jdis-2026-0048"
+  },
+  "u:https://doi.org/10.1038/s43588-026-01060-3": {
+    "title": "Large language models as human proxies",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.1038/s43588-026-01060-3"
+  },
+  "u:https://doi.org/10.1162/coli.a.652": {
+    "title": "What is the Role of Small Models in the LLM Era: A Survey",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.1162/coli.a.652"
+  },
+  "u:https://doi.org/10.1038/s41746-026-03262-5": {
+    "title": "The evidence challenge facing large language models in medicine",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.1038/s41746-026-03262-5"
+  },
+  "u:https://openalex.org/W7213563843": {
+    "title": "vidax: A Unified JAX Framework for Video Generative Models on Accelerator Meshes",
+    "first_seen": "2026-09-19",
+    "url": "https://openalex.org/W7213563843"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.18473": {
+    "title": "CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.48550/arxiv.2609.18473"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.18737": {
+    "title": "Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.48550/arxiv.2609.18737"
+  },
+  "u:https://doi.org/10.1145/3842389": {
+    "title": "Model Inversion Attacks Through Target-Specific Conditional Diffusion Models",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.1145/3842389"
+  },
+  "u:https://doi.org/10.1142/s0218202527500035": {
+    "title": "Multiphase Cross-diffusion models for tissue structures: modeling, analysis, numerics",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.1142/s0218202527500035"
+  },
+  "u:https://doi.org/10.5281/zenodo.22790014": {
+    "title": "A diffusion model of viral evolution predicts mutation fitness and evolutionary trajectories",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.5281/zenodo.22790014"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.18526": {
+    "title": "The Illusion of Local Privacy: Confidentiality Boundary Failures in Consumer LLM Serving Systems",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.48550/arxiv.2609.18526"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.18148": {
+    "title": "LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era",
+    "first_seen": "2026-09-19",
+    "url": "https://doi.org/10.48550/arxiv.2609.18148"
+  },
+  "u:https://huggingface.co/papers/2609.19656": {
+    "title": "Self-Evolving Search Index",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.19656"
+  },
+  "u:https://huggingface.co/papers/2609.19499": {
+    "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.19499"
+  },
+  "u:https://huggingface.co/papers/2609.19879": {
+    "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.19879"
+  },
+  "u:https://huggingface.co/papers/2609.20715": {
+    "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.20715"
+  },
+  "u:https://huggingface.co/papers/2609.18323": {
+    "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.18323"
+  },
+  "u:https://huggingface.co/papers/2609.20817": {
+    "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.20817"
+  },
+  "u:https://huggingface.co/papers/2609.20511": {
+    "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.20511"
+  },
+  "u:https://huggingface.co/papers/2609.18605": {
+    "title": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.18605"
+  },
+  "u:https://huggingface.co/papers/2609.20423": {
+    "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.20423"
+  },
+  "u:https://huggingface.co/papers/2609.20784": {
+    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.20784"
+  },
+  "u:https://huggingface.co/papers/2609.19671": {
+    "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.19671"
+  },
+  "u:https://huggingface.co/papers/2609.20612": {
+    "title": "What Does Privileged Information Add to On-Policy Self-Distillation?",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.20612"
+  },
+  "u:https://huggingface.co/papers/2609.19969": {
+    "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.19969"
+  },
+  "u:https://huggingface.co/papers/2609.12397": {
+    "title": "UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.12397"
+  },
+  "u:https://huggingface.co/papers/2609.20744": {
+    "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.20744"
+  },
+  "u:https://huggingface.co/papers/2609.20800": {
+    "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+    "first_seen": "2026-09-19",
+    "url": "https://huggingface.co/papers/2609.20800"
+  },
+  "u:https://github.com/supermemoryai/supermemory": {
+    "title": "supermemoryai/supermemory",
+    "first_seen": "2026-09-19",
+    "url": "https://github.com/supermemoryai/supermemory"
+  },
+  "u:https://github.com/tradesdontlie/tradingview-mcp": {
+    "title": "tradesdontlie/tradingview-mcp",
+    "first_seen": "2026-09-19",
+    "url": "https://github.com/tradesdontlie/tradingview-mcp"
+  },
+  "u:https://github.com/rustfs/rustfs": {
+    "title": "rustfs/rustfs",
+    "first_seen": "2026-09-19",
+    "url": "https://github.com/rustfs/rustfs"
+  },
+  "u:https://openai.com/index/hex-gpt-6-astra": {
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "first_seen": "2026-09-19",
+    "url": "https://openai.com/index/hex-gpt-6-astra"
+  },
+  "u:https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies": {
+    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+    "first_seen": "2026-09-19",
+    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"
+  },
+  "u:https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you": {
+    "title": "Note on 18th September 2026",
+    "first_seen": "2026-09-19",
+    "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/"
+  },
+  "u:https://simonwillison.net/2026/Sep/18/thariq-shihipar": {
+    "title": "Quoting Thariq Shihipar",
+    "first_seen": "2026-09-19",
+    "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/"
+  },
+  "u:https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior": {
+    "title": "OpenAI flags new concerning AI behavior, to track model ...",
+    "first_seen": "2026-09-19",
+    "url": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior"
+  },
+  "u:https://abcnews.com/US/wireStory/anthropic-model-claude-helping-build-version-136547096": {
+    "title": "Anthropic says its model Claude is helping to build the next version of itself",
+    "first_seen": "2026-09-19",
+    "url": "https://abcnews.com/US/wireStory/anthropic-model-claude-helping-build-version-136547096"
+  },
+  "u:https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14": {
+    "title": "Anthropic targets financial advisers with new Claude tool - Reuters",
+    "first_seen": "2026-09-19",
+    "url": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14"
+  },
+  "u:https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides": {
+    "title": "Claude comes for Gemini with its own take on Docs and Slides",
+    "first_seen": "2026-09-19",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
+  },
+  "u:https://siliconflorist.com/2026/09/15/agility-releases-new-version-of-their-humanoid-robot": {
+    "title": "Agility releases new version of their humanoid robot - Silicon Florist",
+    "first_seen": "2026-09-19",
+    "url": "https://siliconflorist.com/2026/09/15/agility-releases-new-version-of-their-humanoid-robot"
+  },
+  "u:https://www.stocktitan.net/sec-filings/CCXI/425-churchill-capital-corp-xi-business-combination-communication-165065ced12c.html": {
+    "title": "Humanoid robot powers Churchill XI (NASDAQ: CCXI) merger pitch",
+    "first_seen": "2026-09-19",
+    "url": "https://www.stocktitan.net/sec-filings/CCXI/425-churchill-capital-corp-xi-business-combination-communication-165065ced12c.html"
+  },
+  "u:https://www.storagenewsletter.com/2026/09/17/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai": {
+    "title": "AWS and Nvidia to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
+    "first_seen": "2026-09-19",
+    "url": "https://www.storagenewsletter.com/2026/09/17/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai"
+  },
+  "u:https://tech-insider.org/nvidia-cuda-13-4-windows-on-arm-2026": {
+    "title": "NVIDIA Extends CUDA 13.4 to Windows on Arm Laptops [2026]",
+    "first_seen": "2026-09-19",
+    "url": "https://tech-insider.org/nvidia-cuda-13-4-windows-on-arm-2026"
+  },
+  "u:https://www.einnews.com/pr_news/942479573/termsquad-launches-an-always-on-cloud-computer-for-ai-coding-agents": {
+    "title": "TermSquad Launches an Always-On Cloud Computer for AI Coding Agents",
+    "first_seen": "2026-09-19",
+    "url": "https://www.einnews.com/pr_news/942479573/termsquad-launches-an-always-on-cloud-computer-for-ai-coding-agents"
+  },
+  "u:https://sg.finance.yahoo.com/news/r-ga-launches-brdna-sequencer-152400346.html": {
+    "title": "R/GA Launches BRDNA Sequencer™, an AI System That Teaches Coding Agents to Build On-Brand",
+    "first_seen": "2026-09-19",
+    "url": "https://sg.finance.yahoo.com/news/r-ga-launches-brdna-sequencer-152400346.html"
+  },
+  "u:https://bitcoinfoundation.org/news/ai/circle-launches-arc-studio-ai-agent-to-build-full-stack-onchain-apps-from-simple-prompts": {
+    "title": "Circle Launches Arc Studio AI Agent to Build Full-Stack Onchain Apps From Simple Prompts",
+    "first_seen": "2026-09-19",
+    "url": "https://bitcoinfoundation.org/news/ai/circle-launches-arc-studio-ai-agent-to-build-full-stack-onchain-apps-from-simple-prompts"
   }
 }
