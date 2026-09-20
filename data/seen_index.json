@@ -15278,5 +15278,95 @@
     "title": "Circle Launches Arc Studio AI Agent to Build Full-Stack Onchain Apps From Simple Prompts",
     "first_seen": "2026-09-19",
     "url": "https://bitcoinfoundation.org/news/ai/circle-launches-arc-studio-ai-agent-to-build-full-stack-onchain-apps-from-simple-prompts"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.20457": {
+    "title": "Fingerprinting Multimodal Large Language Models",
+    "first_seen": "2026-09-20",
+    "url": "https://doi.org/10.48550/arxiv.2609.20457"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.20034": {
+    "title": "Astronex-World 1.0: Real-Time Interactive World Model Foundation",
+    "first_seen": "2026-09-20",
+    "url": "https://doi.org/10.48550/arxiv.2609.20034"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.20709": {
+    "title": "MoWAM: Explicit Future Motion Prediction for Efficient World Action Models",
+    "first_seen": "2026-09-20",
+    "url": "https://doi.org/10.48550/arxiv.2609.20709"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.20348": {
+    "title": "EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute",
+    "first_seen": "2026-09-20",
+    "url": "https://doi.org/10.48550/arxiv.2609.20348"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.19657": {
+    "title": "PrefixBench-H100: Characterizing Prefix Reuse and Time-to-First-Token in H100 LLM Serving",
+    "first_seen": "2026-09-20",
+    "url": "https://doi.org/10.48550/arxiv.2609.19657"
+  },
+  "u:https://github.com/trycua/cua": {
+    "title": "trycua/cua",
+    "first_seen": "2026-09-20",
+    "url": "https://github.com/trycua/cua"
+  },
+  "u:https://github.com/Open-Dev-Society/OpenStock": {
+    "title": "Open-Dev-Society/OpenStock",
+    "first_seen": "2026-09-20",
+    "url": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  "u:https://github.com/higgsfield-ai/higgsfield": {
+    "title": "higgsfield-ai/higgsfield",
+    "first_seen": "2026-09-20",
+    "url": "https://github.com/higgsfield-ai/higgsfield"
+  },
+  "u:https://github.com/yynxxxxx/Codex-X": {
+    "title": "yynxxxxx/Codex-X",
+    "first_seen": "2026-09-20",
+    "url": "https://github.com/yynxxxxx/Codex-X"
+  },
+  "u:https://openai.com/index/australian-youth-safety-blueprint": {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "first_seen": "2026-09-20",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint"
+  },
+  "u:https://simonwillison.net/2026/Sep/19/datasette-auth-github": {
+    "title": "datasette-auth-github 1.0",
+    "first_seen": "2026-09-20",
+    "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/"
+  },
+  "u:https://releasebot.io/updates/anthropic/claude": {
+    "title": "Claude Updates by Anthropic - September 2026 - Releasebot",
+    "first_seen": "2026-09-20",
+    "url": "https://releasebot.io/updates/anthropic/claude"
+  },
+  "u:https://www.reuters.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-2026-09-17": {
+    "title": "Anthropic says Claude now leads a quarter of work building its next ...",
+    "first_seen": "2026-09-20",
+    "url": "https://www.reuters.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-2026-09-17"
+  },
+  "u:https://thenewstack.io/claude-code-parallel-projects": {
+    "title": "Anthropic's new Claude Code feature could drain your plan before ...",
+    "first_seen": "2026-09-20",
+    "url": "https://thenewstack.io/claude-code-parallel-projects"
+  },
+  "u:https://thehill.com/policy/technology/6098297-anthropic-claude-leads-ai-development": {
+    "title": "Anthropic: AI model Claude helping build next version of it",
+    "first_seen": "2026-09-20",
+    "url": "https://thehill.com/policy/technology/6098297-anthropic-claude-leads-ai-development"
+  },
+  "u:https://gizmodo.com/new-humanoid-worker-bot-seems-to-cower-when-it-encounters-humans-2000812120": {
+    "title": "New Humanoid Worker Bot Seems to Cower When It Encounters Humans",
+    "first_seen": "2026-09-20",
+    "url": "https://gizmodo.com/new-humanoid-worker-bot-seems-to-cower-when-it-encounters-humans-2000812120"
+  },
+  "u:https://startupfortune.com/amd-warns-partners-of-a-10-price-hike-on-ai-chips-sparing-ryzen": {
+    "title": "AMD Warns Partners Of A 10% Price Hike On AI Chips, Sparing Ryzen - Startup Fortune",
+    "first_seen": "2026-09-20",
+    "url": "https://startupfortune.com/amd-warns-partners-of-a-10-price-hike-on-ai-chips-sparing-ryzen"
+  },
+  "u:https://medium.com/@neonmaxima/ransomware-operators-are-using-ai-coding-agents-now-fd5ad5236876": {
+    "title": "Ransomware Operators Are Using AI Coding Agents Now - Medium",
+    "first_seen": "2026-09-20",
+    "url": "https://medium.com/@neonmaxima/ransomware-operators-are-using-ai-coding-agents-now-fd5ad5236876"
   }
 }
