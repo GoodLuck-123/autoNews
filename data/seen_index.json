@@ -19138,5 +19138,200 @@
     "title": "StackHawk launches Wingman to fix flaws in AI coding",
     "first_seen": "2026-09-25",
     "url": "https://itbrief.asia/story/stackhawk-launches-wingman-to-fix-flaws-in-ai-coding"
+  },
+  "u:https://doi.org/10.1111/tops.70081": {
+    "title": "Goal‐Directed Latent Variable Inference: A Unified Active Inference Framework for Embodied Intelligence in Continuous Spatiotemporal Domains",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.1111/tops.70081"
+  },
+  "u:https://doi.org/10.1007/978-3-032-38470-6_30": {
+    "title": "SurgVLA-Bench: Towards Evaluating Vision-Language-Action Models for Laparoscopic Surgical Robotics",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.1007/978-3-032-38470-6_30"
+  },
+  "u:https://openalex.org/W7169638532": {
+    "title": "Philosophy of Artificial Intelligence: From Turing to Large Language Models",
+    "first_seen": "2026-09-26",
+    "url": "https://openalex.org/W7169638532"
+  },
+  "u:https://doi.org/10.1007/978-3-032-38236-8_43": {
+    "title": "SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.1007/978-3-032-38236-8_43"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.28466": {
+    "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.48550/arxiv.2609.28466"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.27455": {
+    "title": "Latent evolving World Action Model",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.48550/arxiv.2609.27455"
+  },
+  "u:https://doi.org/10.1007/978-3-032-38236-8_50": {
+    "title": "SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.1007/978-3-032-38236-8_50"
+  },
+  "u:https://doi.org/10.3389/fcomp.2026.1966725": {
+    "title": "Cryptographically verifiable authorization for autonomous AI agents: a falsifiable hypothesis and proof of concept",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.3389/fcomp.2026.1966725"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.27306": {
+    "title": "Discrete Diffusion Models via Evolving Variational Autoregressive Networks",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.48550/arxiv.2609.27306"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.28371": {
+    "title": "Memory-Conditioned Diffusion Model for Generalized Langevin Dynamics",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.48550/arxiv.2609.28371"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.27746": {
+    "title": "The KV Cache Working Set: Online Capacity Planning for LLM Inference Systems",
+    "first_seen": "2026-09-26",
+    "url": "https://doi.org/10.48550/arxiv.2609.27746"
+  },
+  "u:https://huggingface.co/papers/2609.28603": {
+    "title": "Learning to Discover Interesting Mathematics",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.28603"
+  },
+  "u:https://huggingface.co/papers/2609.29028": {
+    "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.29028"
+  },
+  "u:https://huggingface.co/papers/2609.29816": {
+    "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.29816"
+  },
+  "u:https://huggingface.co/papers/2609.29845": {
+    "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.29845"
+  },
+  "u:https://huggingface.co/papers/2609.29429": {
+    "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.29429"
+  },
+  "u:https://huggingface.co/papers/2609.30233": {
+    "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.30233"
+  },
+  "u:https://huggingface.co/papers/2609.28811": {
+    "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.28811"
+  },
+  "u:https://huggingface.co/papers/2609.29421": {
+    "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.29421"
+  },
+  "u:https://huggingface.co/papers/2609.29444": {
+    "title": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.29444"
+  },
+  "u:https://huggingface.co/papers/2609.28923": {
+    "title": "ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.28923"
+  },
+  "u:https://huggingface.co/papers/2609.29837": {
+    "title": "PUBG Ally: A Conversational Embodied Agent as an AI Teammate",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.29837"
+  },
+  "u:https://huggingface.co/papers/2609.29964": {
+    "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+    "first_seen": "2026-09-26",
+    "url": "https://huggingface.co/papers/2609.29964"
+  },
+  "u:https://github.com/shy3130/tick-stock-panel": {
+    "title": "shy3130/tick-stock-panel",
+    "first_seen": "2026-09-26",
+    "url": "https://github.com/shy3130/tick-stock-panel"
+  },
+  "u:https://openai.com/index/proaction": {
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "first_seen": "2026-09-26",
+    "url": "https://openai.com/index/proaction"
+  },
+  "u:https://simonwillison.net/2026/Sep/25/john-gruber": {
+    "title": "Quoting John Gruber",
+    "first_seen": "2026-09-26",
+    "url": "https://simonwillison.net/2026/Sep/25/john-gruber/"
+  },
+  "u:https://simonwillison.net/2026/Sep/24/harder": {
+    "title": "Note on 24th September 2026",
+    "first_seen": "2026-09-26",
+    "url": "https://simonwillison.net/2026/Sep/24/harder/"
+  },
+  "u:https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143": {
+    "title": "OpenAI May Announce New Security Model, GPT-6 Cyber, Within Days",
+    "first_seen": "2026-09-26",
+    "url": "https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143"
+  },
+  "u:https://tech.co/news/openai-anthropic-cheaper-ai-models": {
+    "title": "OpenAI and Anthropic Release Cheaper AI Models",
+    "first_seen": "2026-09-26",
+    "url": "https://tech.co/news/openai-anthropic-cheaper-ai-models"
+  },
+  "u:https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks": {
+    "title": "Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks",
+    "first_seen": "2026-09-26",
+    "url": "https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks"
+  },
+  "u:https://eu.36kr.com/en/p/3990939461630984": {
+    "title": "Barclays Unveils 3 Major Controversies of Humanoid Robots: Large-Scale Deployment Timeline, Sharp Computing Power Surge & Whether Humanoid Form Is a Necessary Design",
+    "first_seen": "2026-09-26",
+    "url": "https://eu.36kr.com/en/p/3990939461630984"
+  },
+  "u:https://english.kyodonews.net/articles/-/85873": {
+    "title": "JAPAN BIZ: Labor-scarce Japan counts on AI-powered robots in broad industries",
+    "first_seen": "2026-09-26",
+    "url": "https://english.kyodonews.net/articles/-/85873"
+  },
+  "u:https://www.sdcexec.com/warehousing/robotics/news/22974601/tutor-tutor-launches-automated-humanoid-robots-for-warehouses": {
+    "title": "Tutor Launches Automated Humanoid Robots for Warehouses",
+    "first_seen": "2026-09-26",
+    "url": "https://www.sdcexec.com/warehousing/robotics/news/22974601/tutor-tutor-launches-automated-humanoid-robots-for-warehouses"
+  },
+  "u:https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/ai-chips-today-einride-nvidia-team-up-for-autonomous-truck-e": {
+    "title": "AI Chips Today - Einride NVIDIA Team Up for Autonomous Truck Expansion - Simply Wall St News",
+    "first_seen": "2026-09-26",
+    "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/ai-chips-today-einride-nvidia-team-up-for-autonomous-truck-e"
+  },
+  "u:https://www.techrepublic.com/article/news-nvidia-vera-rubin-nvl72-agentic-ai-throughput": {
+    "title": "Nvidia Vera Rubin NVL72 Boosts Agentic AI Throughput by 30x",
+    "first_seen": "2026-09-26",
+    "url": "https://www.techrepublic.com/article/news-nvidia-vera-rubin-nvl72-agentic-ai-throughput"
+  },
+  "u:https://www.ans.org/news/article-7774/inl-teams-with-nvidia-in-prometheus-project-to-accelerate-nuclear-deployment": {
+    "title": "INL teams with Nvidia in Prometheus project to accelerate ...",
+    "first_seen": "2026-09-26",
+    "url": "https://www.ans.org/news/article-7774/inl-teams-with-nvidia-in-prometheus-project-to-accelerate-nuclear-deployment"
+  },
+  "u:https://cybermagazine.com/news/how-z-ais-coding-agent-uploaded-user-data-without-consent": {
+    "title": "How Z.ai's Coding Agent Uploaded User Data Without Consent",
+    "first_seen": "2026-09-26",
+    "url": "https://cybermagazine.com/news/how-z-ais-coding-agent-uploaded-user-data-without-consent"
+  },
+  "u:https://thenewstack.io/ai-agent-context-boundary": {
+    "title": "AI coding agents need a secrets-safe context boundary",
+    "first_seen": "2026-09-26",
+    "url": "https://thenewstack.io/ai-agent-context-boundary"
+  },
+  "u:https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock": {
+    "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+    "first_seen": "2026-09-26",
+    "url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock"
   }
 }
