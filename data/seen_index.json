@@ -19333,5 +19333,80 @@
     "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
     "first_seen": "2026-09-26",
     "url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock"
+  },
+  "u:https://github.com/tensorflow/tensorflow": {
+    "title": "tensorflow/tensorflow",
+    "first_seen": "2026-09-27",
+    "url": "https://github.com/tensorflow/tensorflow"
+  },
+  "u:https://github.com/anthropics/claude-code-action": {
+    "title": "anthropics/claude-code-action",
+    "first_seen": "2026-09-27",
+    "url": "https://github.com/anthropics/claude-code-action"
+  },
+  "u:https://github.com/actions/runner-images": {
+    "title": "actions/runner-images",
+    "first_seen": "2026-09-27",
+    "url": "https://github.com/actions/runner-images"
+  },
+  "u:https://github.com/mobile-next/mobile-mcp": {
+    "title": "mobile-next/mobile-mcp",
+    "first_seen": "2026-09-27",
+    "url": "https://github.com/mobile-next/mobile-mcp"
+  },
+  "u:https://simonwillison.net/2026/Sep/26/kakapo-party": {
+    "title": "Kākāpō Party",
+    "first_seen": "2026-09-27",
+    "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/"
+  },
+  "u:https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html": {
+    "title": "Anthropic and OpenAI Models Still Attempt Restricted ...",
+    "first_seen": "2026-09-27",
+    "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html"
+  },
+  "u:https://shattered.io/anthropic-claude-code-quality-drop-explained-2026": {
+    "title": "Anthropic Explains Claude Code's Quality Drop: 3% Hit [2026]",
+    "first_seen": "2026-09-27",
+    "url": "https://shattered.io/anthropic-claude-code-quality-drop-explained-2026"
+  },
+  "u:https://eu.36kr.com/en/p/3997025697175429": {
+    "title": "Tesla Gen 3 Robot Accidental Leak: What We Know About the Suspected Third-Generation Tesla Humanoid Robot",
+    "first_seen": "2026-09-27",
+    "url": "https://eu.36kr.com/en/p/3997025697175429"
+  },
+  "u:https://www.forbes.com/sites/johnkoetsier/2026/09/25/feather-launches-29990-humanoid-robot-small-teams-are-rewriting-the-economics-of-humanoids": {
+    "title": "Feather Launches $29,990 Humanoid Robot. Small Teams Are Rewriting The Economics Of Humanoids",
+    "first_seen": "2026-09-27",
+    "url": "https://www.forbes.com/sites/johnkoetsier/2026/09/25/feather-launches-29990-humanoid-robot-small-teams-are-rewriting-the-economics-of-humanoids"
+  },
+  "u:https://www.businesswire.com/news/home/20260922610528/en/Mitsubishi-Electric-Introduces-Chip-to-Grid-Blueprint-for-AI-Factories-Powered-by-NVIDIA": {
+    "title": "Mitsubishi Electric Introduces Chip-to-Grid Blueprint for AI Factories Powered by NVIDIA",
+    "first_seen": "2026-09-27",
+    "url": "https://www.businesswire.com/news/home/20260922610528/en/Mitsubishi-Electric-Introduces-Chip-to-Grid-Blueprint-for-AI-Factories-Powered-by-NVIDIA"
+  },
+  "u:https://shattered.io/nvidia-rtx-spark-n1x-6144-cuda-cores-2026": {
+    "title": "Nvidia RTX Spark N1X Ships With 6144 CUDA Cores [2026]",
+    "first_seen": "2026-09-27",
+    "url": "https://shattered.io/nvidia-rtx-spark-n1x-6144-cuda-cores-2026"
+  },
+  "u:https://www.linkedin.com/posts/igormihaljko_anthropic-just-moved-the-coding-agent-race-activity-7508212424328798209-2PUF": {
+    "title": "Anthropic's Opus 5.5: Cost-Effective AI Agent for Enterprise ...",
+    "first_seen": "2026-09-27",
+    "url": "https://www.linkedin.com/posts/igormihaljko_anthropic-just-moved-the-coding-agent-race-activity-7508212424328798209-2PUF"
+  },
+  "u:https://docs.warp.dev/guides/agent-workflows/how-to-run-multiple-ai-coding-agents": {
+    "title": "Run multiple AI coding agents | Warp",
+    "first_seen": "2026-09-27",
+    "url": "https://docs.warp.dev/guides/agent-workflows/how-to-run-multiple-ai-coding-agents"
+  },
+  "u:https://northflank.com/blog/best-code-execution-apis-for-ai-agents": {
+    "title": "Best code execution APIs for AI agents in 2026 | Blog",
+    "first_seen": "2026-09-27",
+    "url": "https://northflank.com/blog/best-code-execution-apis-for-ai-agents"
+  },
+  "u:https://help.salesforce.com/apex/HTViewHelpDoc": {
+    "title": "Set Up Key Account Management Faster with an AI Coding Agent | Salesforce Help",
+    "first_seen": "2026-09-27",
+    "url": "https://help.salesforce.com/apex/HTViewHelpDoc?id=release-notes.rn_lsc_customer_engagement_key_account_management_with_ai.htm"
   }
 }
