@@ -21063,5 +21063,410 @@
     "title": "Your AI coding agent can ship 500 lines while you're still ...",
     "first_seen": "2026-09-30",
     "url": "https://www.linkedin.com/posts/javascript-notes_your-ai-coding-agent-can-ship-500-lines-while-activity-7510271059665805312-XNA0"
+  },
+  "u:https://doi.org/10.1177/02783649261488980": {
+    "title": "World model for robot learning: A comprehensive survey",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.1177/02783649261488980"
+  },
+  "u:https://doi.org/10.3389/frobt.2026.1905499": {
+    "title": "Diffusion models in robotics: a comprehensive review",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.3389/frobt.2026.1905499"
+  },
+  "u:https://doi.org/10.5281/zenodo.19494453": {
+    "title": "The Continuity Anchoring Method: A Structured Methodology for Sustained Human-AI Interaction",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.5281/zenodo.19494453"
+  },
+  "u:https://doi.org/10.1175/aies-d-26-0017.1": {
+    "title": "Climate Knowledge in Large Language Models",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.1175/aies-d-26-0017.1"
+  },
+  "u:https://doi.org/10.17605/osf.io/ub7vz": {
+    "title": "Causal inference for enhancing trustworthiness in Large Language Models",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.17605/osf.io/ub7vz"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.34221": {
+    "title": "WorldWeave: Growing Persistent Geometric Worlds for Video Generation",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.34221"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.34606": {
+    "title": "WorldAttention: An Efficient Attention Architecture for Interactive Video World Models",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.34606"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.34749": {
+    "title": "CoDrive: Cross-Vehicle World-Consistent Video Generation with Precise Trajectory Control for Cooperative Driving",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.34749"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.35704": {
+    "title": "DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.35704"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.35612": {
+    "title": "Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.35612"
+  },
+  "u:https://doi.org/10.1007/s11263-026-03022-8": {
+    "title": "G2S2-IR: Glocal Gaussian Splatting with Surface Awareness for Inverse Rendering",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.1007/s11263-026-03022-8"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.35427": {
+    "title": "LLMs are General Asynchronous Agents",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.35427"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.34686": {
+    "title": "Jailbreak Context Lingers: Divergent Safety Routing and Its Cross-Task Predictability in Tool Agents",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.34686"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.35553": {
+    "title": "Simplex Diffusion Models",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.35553"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.35377": {
+    "title": "First Learn, Then Memorize: The Spectral Bias of Diffusion Models",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.35377"
+  },
+  "u:https://doi.org/10.1145/3830418.3843877": {
+    "title": "Batched in Back: Characterizing and Optimizing Offline LLM Inference in Production with ACDC",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.1145/3830418.3843877"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.34370": {
+    "title": "Spexis: Speculative Lookahead Scheduling for LLM Inference",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.34370"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.34683": {
+    "title": "AgentPerfBench: A Benchmarking and Evaluation Suite for Inference Performance of Agentic LLMs",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.34683"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.34727": {
+    "title": "Dynamic Flow, Static Graph: KV Cache Reuse for Efficient LLM Serving on Mobile NPUs",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.34727"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.34663": {
+    "title": "Tool Waiting and Re-arrival in Compile-Time-Static LLM Serving: Cost Mechanisms and Configuration Selection",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.34663"
+  },
+  "u:https://doi.org/10.1145/3830418.3843860": {
+    "title": "Scalable Context Orchestration for Serving LLMs Over Voice",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.1145/3830418.3843860"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.34432": {
+    "title": "Semantics, Workflows, and Infrastructure: Understanding Agent Serving at Production Scale",
+    "first_seen": "2026-10-01",
+    "url": "https://doi.org/10.48550/arxiv.2609.34432"
+  },
+  "u:https://huggingface.co/papers/2609.38827": {
+    "title": "More Choices, Fewer Decisions: Ordinal-Scale Bias in JEV-like Direct-Decision Models",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.38827"
+  },
+  "u:https://huggingface.co/papers/2609.40340": {
+    "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.40340"
+  },
+  "u:https://huggingface.co/papers/2609.40137": {
+    "title": "Game-Guided Skill Discovery through Self-Play for Playable Agent Control",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.40137"
+  },
+  "u:https://huggingface.co/papers/2609.38537": {
+    "title": "Systematically Exploring the Capabilities of GPT-6 Astra as Embodied Policies",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.38537"
+  },
+  "u:https://huggingface.co/papers/2609.40230": {
+    "title": "EviRover: Reinforcing Agentic Perception Beyond a Glance",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.40230"
+  },
+  "u:https://huggingface.co/papers/2609.40358": {
+    "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.40358"
+  },
+  "u:https://huggingface.co/papers/2609.39222": {
+    "title": "DC-SAE: Deep Compression Semantic Autoencoder for Faster Diffusion Convergence",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.39222"
+  },
+  "u:https://huggingface.co/papers/2609.36484": {
+    "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.36484"
+  },
+  "u:https://huggingface.co/papers/2609.38121": {
+    "title": "WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.38121"
+  },
+  "u:https://huggingface.co/papers/2609.39564": {
+    "title": "A2Z GameSpec-Bench: How Faithfully Can Coding Agents Generate Games from Game Design Specifications?",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.39564"
+  },
+  "u:https://huggingface.co/papers/2605.22493": {
+    "title": "Understanding Multimodality in Generative Behavioral Cloning",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2605.22493"
+  },
+  "u:https://huggingface.co/papers/2609.40325": {
+    "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.40325"
+  },
+  "u:https://huggingface.co/papers/2609.34970": {
+    "title": "See it, Say it, Sorted: Mechanistic Diagnosis and Parameter-Space Mitigation of Emergent Misalignment in LLMs",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.34970"
+  },
+  "u:https://huggingface.co/papers/2609.38541": {
+    "title": "ThinkV2V: Unleashing the Reasoning Capability of MLLMs for Instruction-Guided Video Editing",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.38541"
+  },
+  "u:https://huggingface.co/papers/2609.38177": {
+    "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.38177"
+  },
+  "u:https://huggingface.co/papers/2609.37569": {
+    "title": "Decompose Radicals, Then Reward: Fine-Grained Inspection for Accurate Chinese Text Rendering",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.37569"
+  },
+  "u:https://huggingface.co/papers/2609.36130": {
+    "title": "Memory Is a Derivation: The Distributed-Evidence Paradox in Long-Term Agents",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.36130"
+  },
+  "u:https://huggingface.co/papers/2609.38172": {
+    "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.38172"
+  },
+  "u:https://huggingface.co/papers/2609.36199": {
+    "title": "PreviewDiff: Multimodal Critic-Guided Search over Diffusion Latents",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.36199"
+  },
+  "u:https://huggingface.co/papers/2609.36636": {
+    "title": "What Makes Recurrence Effective in Looped Language Models?",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.36636"
+  },
+  "u:https://huggingface.co/papers/2609.36314": {
+    "title": "Fractional State Space Transition for Long Sequence Modeling",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.36314"
+  },
+  "u:https://huggingface.co/papers/2609.36322": {
+    "title": "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.36322"
+  },
+  "u:https://huggingface.co/papers/2609.34392": {
+    "title": "Org-Agent: Beyond Personal Assistants Towards Organizational Agents",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.34392"
+  },
+  "u:https://huggingface.co/papers/2609.36730": {
+    "title": "Can Agents Design Libraries for Agents?",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.36730"
+  },
+  "u:https://huggingface.co/papers/2609.36653": {
+    "title": "Scheduling Recursive Reasoning in Looped Transformers",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.36653"
+  },
+  "u:https://huggingface.co/papers/2609.34962": {
+    "title": "ALICE: In-context, Zero-shot, Mutual Information Estimation",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.34962"
+  },
+  "u:https://huggingface.co/papers/2609.36651": {
+    "title": "FocusVTC: Efficient and High-Performance Visual Text Compression with Adaptive Resolution",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.36651"
+  },
+  "u:https://huggingface.co/papers/2609.37402": {
+    "title": "Routing Should Pay for Itself: Sparse Supervision for Economical LLM Routing",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.37402"
+  },
+  "u:https://huggingface.co/papers/2609.34605": {
+    "title": "PMOPD: Task Ordering, Cycling, and Parameter-Update Subspace Protection in Multi-Teacher On-Policy Distillation",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.34605"
+  },
+  "u:https://huggingface.co/papers/2609.35530": {
+    "title": "AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.35530"
+  },
+  "u:https://huggingface.co/papers/2608.19669": {
+    "title": "Scaffolding Minds: Optimizing Latent Visual Target Representations for Multimodal Reasoning",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2608.19669"
+  },
+  "u:https://huggingface.co/papers/2609.37559": {
+    "title": "APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.37559"
+  },
+  "u:https://huggingface.co/papers/2609.37687": {
+    "title": "WISE-ATTA: When to Ask for Labels in Budgeted Active Test-Time Adaptation",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.37687"
+  },
+  "u:https://huggingface.co/papers/2609.35427": {
+    "title": "LLMs are General Asynchronous Agents",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.35427"
+  },
+  "u:https://huggingface.co/papers/2609.37236": {
+    "title": "Asking for What Was Never Requested: Horizontal and Vertical Proactivity in Agents",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.37236"
+  },
+  "u:https://huggingface.co/papers/2609.34518": {
+    "title": "SEAD: A State-Based Perspective on Attack and Defense in Tool-Using Agents",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.34518"
+  },
+  "u:https://huggingface.co/papers/2609.37040": {
+    "title": "Selecting The Most Informative Tokens in Natural Language Autoencoders",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/papers/2609.37040"
+  },
+  "u:https://github.com/modelcontextprotocol/servers": {
+    "title": "modelcontextprotocol/servers",
+    "first_seen": "2026-10-01",
+    "url": "https://github.com/modelcontextprotocol/servers"
+  },
+  "u:https://github.com/colbymchenry/codegraph": {
+    "title": "colbymchenry/codegraph",
+    "first_seen": "2026-10-01",
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  "u:https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "first_seen": "2026-10-01",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+  },
+  "u:https://openai.com/index/helping-small-businesses-put-ai-to-work": {
+    "title": "Helping small businesses put AI to work",
+    "first_seen": "2026-10-01",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+  },
+  "u:https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence": {
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "first_seen": "2026-10-01",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+  },
+  "u:https://deepmind.google/blog/introducing-synthid-bio": {
+    "title": "Introducing SynthID Bio",
+    "first_seen": "2026-10-01",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/"
+  },
+  "u:https://huggingface.co/blog/open-tts-leaderboard": {
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "first_seen": "2026-10-01",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard"
+  },
+  "u:https://simonwillison.net/2026/Sep/30/he-built-this-city": {
+    "title": "He Built This City",
+    "first_seen": "2026-10-01",
+    "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
+  },
+  "u:https://simonwillison.net/2026/Sep/29/photo-scrubber": {
+    "title": "Photo Scrubber — local face blur & metadata removal",
+    "first_seen": "2026-10-01",
+    "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/"
+  },
+  "u:https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model": {
+    "title": "OpenAI's latest features take direct aim at the app store model | TechCrunch",
+    "first_seen": "2026-10-01",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model"
+  },
+  "u:https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns": {
+    "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns",
+    "first_seen": "2026-10-01",
+    "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns"
+  },
+  "u:https://www.cbsnews.com/news/openai-halts-gpt-astra-safety-concerns": {
+    "title": "OpenAI holds off on releasing new model over safety concerns, saying it \"didn't quite meet the bar\" - CBS News",
+    "first_seen": "2026-10-01",
+    "url": "https://www.cbsnews.com/news/openai-halts-gpt-astra-safety-concerns"
+  },
+  "u:https://breakingthenews.net/Article/Anthropic-fixes-bug-affecting-Claude/67199068": {
+    "title": "Anthropic fixes bug affecting Claude",
+    "first_seen": "2026-10-01",
+    "url": "https://breakingthenews.net/Article/Anthropic-fixes-bug-affecting-Claude/67199068"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/xpeng-xpev-puts-humanoid-robots-070718829.html": {
+    "title": "XPeng (XPEV) Puts Humanoid Robots And G9L SUV At The Center Of Global Plans",
+    "first_seen": "2026-10-01",
+    "url": "https://finance.yahoo.com/technology/ai/articles/xpeng-xpev-puts-humanoid-robots-070718829.html"
+  },
+  "u:https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent": {
+    "title": "Global Sales of Professional Service Robots Surge 24% - International Federation of Robotics",
+    "first_seen": "2026-10-01",
+    "url": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent"
+  },
+  "u:https://www.morningstar.com/news/business-wire/20260929718472/agility-robotics-announces-new-directors-for-planned-public-company-board": {
+    "title": "Agility Robotics Announces New Directors for Planned Public-Company Board | Morningstar",
+    "first_seen": "2026-10-01",
+    "url": "https://www.morningstar.com/news/business-wire/20260929718472/agility-robotics-announces-new-directors-for-planned-public-company-board"
+  },
+  "u:https://tech-insider.org/coreweave-nvidia-vera-ai-agent-cpu-2026": {
+    "title": "CoreWeave to Offer NVIDIA Vera CPU for AI Agents [2026]",
+    "first_seen": "2026-10-01",
+    "url": "https://tech-insider.org/coreweave-nvidia-vera-ai-agent-cpu-2026"
+  },
+  "u:https://www.fool.com/investing/2026/09/28/this-could-be-nvidia-s-biggest-challenger-in-the-ai-chip-market-hint-it-s-not-amd": {
+    "title": "This Could Be Nvidia’s Biggest Challenger in the AI Chip Market. Hint: It’s Not AMD | The Motley Fool",
+    "first_seen": "2026-10-01",
+    "url": "https://www.fool.com/investing/2026/09/28/this-could-be-nvidia-s-biggest-challenger-in-the-ai-chip-market-hint-it-s-not-amd"
+  },
+  "u:https://www.networkworld.com/article/4226760/can-nvidias-geforce-gaming-gpu-really-be-repurposed-for-ai-computing.html": {
+    "title": "Can Nvidia’s GeForce gaming GPU really be repurposed for AI computing? | Network World",
+    "first_seen": "2026-10-01",
+    "url": "https://www.networkworld.com/article/4226760/can-nvidias-geforce-gaming-gpu-really-be-repurposed-for-ai-computing.html"
+  },
+  "u:https://www.prnewswire.com/news-releases/querit-search-api-launches-code-search-for-ai-coding-agents-302894012.html": {
+    "title": "Querit Search API Launches Code Search for AI Coding Agents",
+    "first_seen": "2026-10-01",
+    "url": "https://www.prnewswire.com/news-releases/querit-search-api-launches-code-search-for-ai-coding-agents-302894012.html"
+  },
+  "u:https://www.facebook.com/groups/claudecommunity/posts/1132353305972000": {
+    "title": "OpenAI Launches Always-On AI Agents Called Dots",
+    "first_seen": "2026-10-01",
+    "url": "https://www.facebook.com/groups/claudecommunity/posts/1132353305972000"
+  },
+  "u:https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/amp": {
+    "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared - MarkTechPost",
+    "first_seen": "2026-10-01",
+    "url": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/amp"
   }
 }
