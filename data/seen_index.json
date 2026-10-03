@@ -22368,5 +22368,280 @@
     "title": "Autoheal wants to manage the work AI coding agents leave behind, claiming cost reductions of up to 30% per task | VentureBeat",
     "first_seen": "2026-10-02",
     "url": "https://venturebeat.com/orchestration/autoheal-wants-to-manage-the-work-ai-coding-agents-leave-behind-claiming-cost-reductions-of-up-to-30-per-task"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.39514": {
+    "title": "Spike-driven Vision-Language-Action Model",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.39514"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.40358": {
+    "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.40358"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.39147": {
+    "title": "MindWorldBench: Evaluating Mental-State-to-Behavior Reasoning in Image-to-Video Generation",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.39147"
+  },
+  "u:https://doi.org/10.1145/3832167": {
+    "title": "Seeing Is Coding: On the Effectiveness of Vision Language Models in Code Understanding",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.1145/3832167"
+  },
+  "u:https://doi.org/10.1016/j.compag.2026.112467": {
+    "title": "GC-3DGS-pheno: geometry-constrained 3d Gaussian splatting for affordable plant point cloud reconstruction and high-precision phenotyping",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.1016/j.compag.2026.112467"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.39553": {
+    "title": "EffGS: Efficient and High-Fidelity Gaussian Splatting",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.39553"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.39089": {
+    "title": "UGOD: Uncertainty-Guided Opacity and Dropout for Sparse-View 3D Gaussian Splatting",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.39089"
+  },
+  "u:https://doi.org/10.1145/3832298": {
+    "title": "Towards Iterative End-to-End Software Development: A Feature-Driven Multi-agent Framework",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.1145/3832298"
+  },
+  "u:https://doi.org/10.64898/2026.09.30.750244": {
+    "title": "An AI-powered cloud biofoundry for autonomous biological research",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.64898/2026.09.30.750244"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.38853": {
+    "title": "Visualizing Distribution Coverage in Generative Diffusion Models",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.38853"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.39334": {
+    "title": "Taming Speculative Search for Test-Time Scaling in LLM Serving",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.39334"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.38830": {
+    "title": "SparLeak: Privacy Leakage from Sparse Attention in LLM Inference on Shared GPUs",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.38830"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.38706": {
+    "title": "Preserving Provenance in Shared KV Caches for LLM Serving",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.38706"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.40247": {
+    "title": "Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.40247"
+  },
+  "u:https://doi.org/10.48550/arxiv.2609.40070": {
+    "title": "Inference Auctions",
+    "first_seen": "2026-10-03",
+    "url": "https://doi.org/10.48550/arxiv.2609.40070"
+  },
+  "u:https://huggingface.co/papers/2610.01092": {
+    "title": "Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.01092"
+  },
+  "u:https://huggingface.co/papers/2610.00812": {
+    "title": "Video Generation Models: A Survey of Post-Training and Alignment",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.00812"
+  },
+  "u:https://huggingface.co/papers/2609.37690": {
+    "title": "Honeycomb: Constant-Size Scene Memory Representation for Video World Models",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2609.37690"
+  },
+  "u:https://huggingface.co/papers/2610.02142": {
+    "title": "Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.02142"
+  },
+  "u:https://huggingface.co/papers/2610.02202": {
+    "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.02202"
+  },
+  "u:https://huggingface.co/papers/2610.00686": {
+    "title": "SemanTok: Predictable Semantic Tokens for Efficient Autoregressive Video Generation",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.00686"
+  },
+  "u:https://huggingface.co/papers/2610.02117": {
+    "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.02117"
+  },
+  "u:https://huggingface.co/papers/2610.02185": {
+    "title": "Decoding Looped Transformers Better for (Almost) Free",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.02185"
+  },
+  "u:https://huggingface.co/papers/2610.00437": {
+    "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.00437"
+  },
+  "u:https://huggingface.co/papers/2606.10953": {
+    "title": "Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2606.10953"
+  },
+  "u:https://huggingface.co/papers/2609.40222": {
+    "title": "LOCI: Spatial Linear Memory for Streaming World Models",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2609.40222"
+  },
+  "u:https://huggingface.co/papers/2610.00559": {
+    "title": "PhysVista: Benchmarking Physical Intelligence in VLMs via a Perception-Reasoning-Assessment Loop",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.00559"
+  },
+  "u:https://huggingface.co/papers/2610.01942": {
+    "title": "Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.01942"
+  },
+  "u:https://huggingface.co/papers/2610.01428": {
+    "title": "Generalization Is Stability, Not Accuracy: Multi-Axis Evaluation of LLMs",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.01428"
+  },
+  "u:https://huggingface.co/papers/2610.01595": {
+    "title": "Before It Fades: Reinforcing Temporal Representations at Inference Time in VideoLLMs",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.01595"
+  },
+  "u:https://huggingface.co/papers/2610.01939": {
+    "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.01939"
+  },
+  "u:https://huggingface.co/papers/2610.01762": {
+    "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.01762"
+  },
+  "u:https://huggingface.co/papers/2610.01499": {
+    "title": "VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.01499"
+  },
+  "u:https://huggingface.co/papers/2609.39378": {
+    "title": "EgoTools: Towards Tool-Centric Reasoning in Real-World Egocentric Videos",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2609.39378"
+  },
+  "u:https://huggingface.co/papers/2610.02148": {
+    "title": "Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.02148"
+  },
+  "u:https://huggingface.co/papers/2610.01108": {
+    "title": "AgSpec: Pushing the Limits of Retrieval-Based Speculative Decoding in Coding Agent Pipelines",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.01108"
+  },
+  "u:https://huggingface.co/papers/2609.39687": {
+    "title": "Better Supervision Is Nearby: Neighborhood On-Policy Self-Distillation",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2609.39687"
+  },
+  "u:https://huggingface.co/papers/2610.02206": {
+    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.02206"
+  },
+  "u:https://huggingface.co/papers/2610.00544": {
+    "title": "Memorizon: Training World Models Beyond Their Context Window",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.00544"
+  },
+  "u:https://huggingface.co/papers/2609.38886": {
+    "title": "Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2609.38886"
+  },
+  "u:https://huggingface.co/papers/2610.02196": {
+    "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.02196"
+  },
+  "u:https://huggingface.co/papers/2609.40362": {
+    "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2609.40362"
+  },
+  "u:https://huggingface.co/papers/2610.02201": {
+    "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.02201"
+  },
+  "u:https://huggingface.co/papers/2610.00574": {
+    "title": "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.00574"
+  },
+  "u:https://huggingface.co/papers/2610.02122": {
+    "title": "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
+    "first_seen": "2026-10-03",
+    "url": "https://huggingface.co/papers/2610.02122"
+  },
+  "u:https://github.com/google/skills": {
+    "title": "google/skills",
+    "first_seen": "2026-10-03",
+    "url": "https://github.com/google/skills"
+  },
+  "u:https://openai.com/index/practical-guide-building-gpt-6": {
+    "title": "A model guide for the GPT-6 family",
+    "first_seen": "2026-10-03",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6"
+  },
+  "u:https://openai.com/index/chatham-financial": {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "first_seen": "2026-10-03",
+    "url": "https://openai.com/index/chatham-financial"
+  },
+  "u:https://www.reuters.com/business/synopsys-openai-strike-deal-develop-ai-model-chip-design-work-2026-09-30": {
+    "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work | Reuters",
+    "first_seen": "2026-10-03",
+    "url": "https://www.reuters.com/business/synopsys-openai-strike-deal-develop-ai-model-chip-design-work-2026-09-30"
+  },
+  "u:https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html": {
+    "title": "Anthropic to invest $100 million to train AI engineer talent",
+    "first_seen": "2026-10-03",
+    "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html"
+  },
+  "u:https://tech-insider.org/au/how-to-use-claude-sonnet-5-5-2026": {
+    "title": "How to Use Claude Sonnet 5.5: Setup Guide [2026]",
+    "first_seen": "2026-10-03",
+    "url": "https://tech-insider.org/au/how-to-use-claude-sonnet-5-5-2026"
+  },
+  "u:https://www.facebook.com/100083241103501/posts/tesla-is-developing-optimus-as-a-general-purpose-humanoid-robot-designed-to-even/1087993687318658": {
+    "title": "Tesla is developing Optimus as a general-purpose ...",
+    "first_seen": "2026-10-03",
+    "url": "https://www.facebook.com/100083241103501/posts/tesla-is-developing-optimus-as-a-general-purpose-humanoid-robot-designed-to-even/1087993687318658"
+  },
+  "u:https://www.knoxlabs.com/blogs/articles/xr-robotics-news-september-2026": {
+    "title": "XR & Robotics News | September 2026 — Knoxlabs",
+    "first_seen": "2026-10-03",
+    "url": "https://www.knoxlabs.com/blogs/articles/xr-robotics-news-september-2026"
+  },
+  "u:https://www.chosun.com/english/industry-en/2026/09/29/LHQPIZVHYJEPXCMXWK2LH4DF4I": {
+    "title": "China's 'Hide Strength' Strategy Embraces U.S. AI Chips",
+    "first_seen": "2026-10-03",
+    "url": "https://www.chosun.com/english/industry-en/2026/09/29/LHQPIZVHYJEPXCMXWK2LH4DF4I"
+  },
+  "u:https://ffnews.com/news/godaddy-launches-node-js-hosting-with-api-support-for-ai-coding-tools-c4d4da4c": {
+    "title": "GoDaddy Launches API-First Node.js Hosting for AI Coding Agents and Developers",
+    "first_seen": "2026-10-03",
+    "url": "https://ffnews.com/news/godaddy-launches-node-js-hosting-with-api-support-for-ai-coding-tools-c4d4da4c"
   }
 }
