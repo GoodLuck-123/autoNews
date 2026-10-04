@@ -22643,5 +22643,110 @@
     "title": "GoDaddy Launches API-First Node.js Hosting for AI Coding Agents and Developers",
     "first_seen": "2026-10-03",
     "url": "https://ffnews.com/news/godaddy-launches-node-js-hosting-with-api-support-for-ai-coding-tools-c4d4da4c"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.01614": {
+    "title": "Oneira: From Open-Ended Generation to Open-World Interaction in Video World Models",
+    "first_seen": "2026-10-04",
+    "url": "https://doi.org/10.48550/arxiv.2610.01614"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.01162": {
+    "title": "PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models",
+    "first_seen": "2026-10-04",
+    "url": "https://doi.org/10.48550/arxiv.2610.01162"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.01092": {
+    "title": "Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation",
+    "first_seen": "2026-10-04",
+    "url": "https://doi.org/10.48550/arxiv.2610.01092"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.01876": {
+    "title": "EvenSplat: Coupled 2D-3D Decomposition for Gaussian Splatting under Exposure and Illumination Variation",
+    "first_seen": "2026-10-04",
+    "url": "https://doi.org/10.48550/arxiv.2610.01876"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.01707": {
+    "title": "MEGA: Object-Level Mesh Extraction from 3D Gaussian Splatting via Spatial Visual Distillation",
+    "first_seen": "2026-10-04",
+    "url": "https://doi.org/10.48550/arxiv.2610.01707"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.01097": {
+    "title": "YouRA: A Persistent-State Architecture for Evidence-Traceable Autonomous Research Agents",
+    "first_seen": "2026-10-04",
+    "url": "https://doi.org/10.48550/arxiv.2610.01097"
+  },
+  "u:https://doi.org/10.1007/978-3-032-40774-0_28": {
+    "title": "LLM Inference on NVIDIA GB200 NVL72: A Cross-Architecture Experimental Analysis",
+    "first_seen": "2026-10-04",
+    "url": "https://doi.org/10.1007/978-3-032-40774-0_28"
+  },
+  "u:https://github.com/pingdotgg/t3code": {
+    "title": "pingdotgg/t3code",
+    "first_seen": "2026-10-04",
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  "u:https://github.com/cloudflare/cloudflare-os": {
+    "title": "cloudflare/cloudflare-os",
+    "first_seen": "2026-10-04",
+    "url": "https://github.com/cloudflare/cloudflare-os"
+  },
+  "u:https://github.com/mattpocock/skills": {
+    "title": "mattpocock/skills",
+    "first_seen": "2026-10-04",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  "u:https://github.com/getsentry/sentry": {
+    "title": "getsentry/sentry",
+    "first_seen": "2026-10-04",
+    "url": "https://github.com/getsentry/sentry"
+  },
+  "u:https://github.com/jamwithai/production-agentic-rag-course": {
+    "title": "jamwithai/production-agentic-rag-course",
+    "first_seen": "2026-10-04",
+    "url": "https://github.com/jamwithai/production-agentic-rag-course"
+  },
+  "u:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps": {
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "first_seen": "2026-10-04",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+  },
+  "u:https://simonwillison.net/2026/Oct/3/newsletter": {
+    "title": "September sponsors-only newsletter",
+    "first_seen": "2026-10-04",
+    "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
+  },
+  "u:https://thenewstack.io/claude-answer-to-dots-muse": {
+    "title": "Anthropic’s answer to Dots and Muse is already inside Claude - The New Stack",
+    "first_seen": "2026-10-04",
+    "url": "https://thenewstack.io/claude-answer-to-dots-muse"
+  },
+  "u:https://www.techradar.com/pro/anthropic-wants-to-get-claude-working-across-all-government-arms": {
+    "title": "Anthropic wants to get Claude working across all Government arms | TechRadar",
+    "first_seen": "2026-10-04",
+    "url": "https://www.techradar.com/pro/anthropic-wants-to-get-claude-working-across-all-government-arms"
+  },
+  "u:https://finance.yahoo.com/technology/articles/china-may-permit-alibaba-bytedance-173017962.html": {
+    "title": "China may permit Alibaba, ByteDance to buy new Nvidia chips – The Information",
+    "first_seen": "2026-10-04",
+    "url": "https://finance.yahoo.com/technology/articles/china-may-permit-alibaba-bytedance-173017962.html"
+  },
+  "u:https://www.thestreet.com/investing/ai-chip-equipment-stocks-asml-amat-lrcx-klac": {
+    "title": "Chip stocks set for $229 billion payday before Nvidia ships a GPU",
+    "first_seen": "2026-10-04",
+    "url": "https://www.thestreet.com/investing/ai-chip-equipment-stocks-asml-amat-lrcx-klac"
+  },
+  "u:https://www.instagram.com/reel/Dd2mykLTTc9": {
+    "title": "Instagram",
+    "first_seen": "2026-10-04",
+    "url": "https://www.instagram.com/reel/Dd2mykLTTc9"
+  },
+  "u:https://www.linkedin.com/posts/savannahfeder_today-were-launching-something-new-an-ai-activity-7511124195880390656-YyMY": {
+    "title": "an AI agent that makes a launch video every time you ship ...",
+    "first_seen": "2026-10-04",
+    "url": "https://www.linkedin.com/posts/savannahfeder_today-were-launching-something-new-an-ai-activity-7511124195880390656-YyMY"
+  },
+  "u:https://agentic.ai/best/free-coding-agents": {
+    "title": "10 Best Free AI Coding Agents in 2026 | Agentic.ai",
+    "first_seen": "2026-10-04",
+    "url": "https://agentic.ai/best/free-coding-agents"
   }
 }
