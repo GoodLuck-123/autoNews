@@ -22838,5 +22838,140 @@
     "title": "OpenAI Codex: AI Coding Agent for Developers and ...",
     "first_seen": "2026-10-05",
     "url": "https://www.facebook.com/mindlyftaiofficial/videos/ai-is-no-longer-just-answering-questions-its-helping-you-code-meet-openai-codex-/1775960150274071"
+  },
+  "u:https://doi.org/10.1145/3849809": {
+    "title": "LLM See, LLM Do: Enhancing Repository-Aware Code Generation in LLMs Through Logical Context and Usage Knowledge",
+    "first_seen": "2026-10-06",
+    "url": "https://doi.org/10.1145/3849809"
+  },
+  "u:https://huggingface.co/papers/2610.04198": {
+    "title": "ALoDLM: Adaptively Looped Diffusion Language Models",
+    "first_seen": "2026-10-06",
+    "url": "https://huggingface.co/papers/2610.04198"
+  },
+  "u:https://huggingface.co/papers/2610.06833": {
+    "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+    "first_seen": "2026-10-06",
+    "url": "https://huggingface.co/papers/2610.06833"
+  },
+  "u:https://huggingface.co/papers/2610.05608": {
+    "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
+    "first_seen": "2026-10-06",
+    "url": "https://huggingface.co/papers/2610.05608"
+  },
+  "u:https://huggingface.co/papers/2610.06850": {
+    "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+    "first_seen": "2026-10-06",
+    "url": "https://huggingface.co/papers/2610.06850"
+  },
+  "u:https://huggingface.co/papers/2610.05303": {
+    "title": "ASCENT: Online Test-Time Training of Long-Horizon Agents via Self-Distillation of Verified Experience",
+    "first_seen": "2026-10-06",
+    "url": "https://huggingface.co/papers/2610.05303"
+  },
+  "u:https://huggingface.co/papers/2610.04226": {
+    "title": "PaLoRA: Paced Low-Rank Adaptation for Continual Learning",
+    "first_seen": "2026-10-06",
+    "url": "https://huggingface.co/papers/2610.04226"
+  },
+  "u:https://huggingface.co/papers/2610.05416": {
+    "title": "Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training",
+    "first_seen": "2026-10-06",
+    "url": "https://huggingface.co/papers/2610.05416"
+  },
+  "u:https://huggingface.co/papers/2610.04318": {
+    "title": "Rethinking Long-Video Efficiency: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency",
+    "first_seen": "2026-10-06",
+    "url": "https://huggingface.co/papers/2610.04318"
+  },
+  "u:https://github.com/Panniantong/Agent-Reach": {
+    "title": "Panniantong/Agent-Reach",
+    "first_seen": "2026-10-06",
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  "u:https://github.com/Stremio/stremio-web": {
+    "title": "Stremio/stremio-web",
+    "first_seen": "2026-10-06",
+    "url": "https://github.com/Stremio/stremio-web"
+  },
+  "u:https://openai.com/index/eu-text-provenance": {
+    "title": "Our approach to EU text provenance rules",
+    "first_seen": "2026-10-06",
+    "url": "https://openai.com/index/eu-text-provenance"
+  },
+  "u:https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+    "title": "Building advertising for the way people use AI",
+    "first_seen": "2026-10-06",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+  },
+  "u:https://simonwillison.net/2026/Oct/5/felix-rieseberg": {
+    "title": "Quoting Felix Rieseberg",
+    "first_seen": "2026-10-06",
+    "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/"
+  },
+  "u:https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": {
+    "title": "Qwen3.8 27B addition in words",
+    "first_seen": "2026-10-06",
+    "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/"
+  },
+  "u:https://www.citizensvoice.com/2026/09/29/openai-delays-latest-model-security-concerns": {
+    "title": "OpenAI delays latest model over security concerns from researchers",
+    "first_seen": "2026-10-06",
+    "url": "https://www.citizensvoice.com/2026/09/29/openai-delays-latest-model-security-concerns"
+  },
+  "u:https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design": {
+    "title": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "first_seen": "2026-10-06",
+    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+  },
+  "u:https://www.itpro.com/business/careers-and-training/anthropic-is-investing-usd100-million-to-train-ai-engineers-and-you-can-nominate-your-top-devs-to-learn-claude-skills": {
+    "title": "Anthropic is investing $100 million to train AI engineers – and you can nominate your top devs to learn Claude skills | IT Pro",
+    "first_seen": "2026-10-06",
+    "url": "https://www.itpro.com/business/careers-and-training/anthropic-is-investing-usd100-million-to-train-ai-engineers-and-you-can-nominate-your-top-devs-to-learn-claude-skills"
+  },
+  "u:https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-reports-florida-womans-claude-diary-threat-to-shoot-up-sheriffs-office-felony-charge-follows-its-at-least-the-third-such-conversation-to-reach-police-since-august": {
+    "title": "Anthropic reports Florida woman’s Claude ‘diary’ threat to shoot up sheriff’s office, felony charge follows — it’s at least the third such conversation to reach police since August | Tom's Hardware",
+    "first_seen": "2026-10-06",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-reports-florida-womans-claude-diary-threat-to-shoot-up-sheriffs-office-felony-charge-follows-its-at-least-the-third-such-conversation-to-reach-police-since-august"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/anthropic-training-10-000-engineers-232515047.html": {
+    "title": "Anthropic Is Training 10,000 Engineers to Install Claude Inside the World’s Largest Enterprises",
+    "first_seen": "2026-10-06",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-training-10-000-engineers-232515047.html"
+  },
+  "u:https://www.htx.gov.sg/whats-happening/all-news---events/all-news/2026/seizing-the-initiative-htx-launches-h2rc-to-train-humanoid-robots-for-public-safety": {
+    "title": "Seizing the initiative: HTX launches H2RC to train humanoid robots for public safety",
+    "first_seen": "2026-10-06",
+    "url": "https://www.htx.gov.sg/whats-happening/all-news---events/all-news/2026/seizing-the-initiative-htx-launches-h2rc-to-train-humanoid-robots-for-public-safety"
+  },
+  "u:https://tech-insider.org/nvidia-pair-idle-pcs-local-ai-2026": {
+    "title": "NVIDIA PAIR: Idle PCs Get 1.9x Faster Local AI [2026]",
+    "first_seen": "2026-10-06",
+    "url": "https://tech-insider.org/nvidia-pair-idle-pcs-local-ai-2026"
+  },
+  "u:https://www.indmoney.com/blog/us-stocks/amazon-8-billion-nvidia-chip-deal-ai-infrastructure-financing": {
+    "title": "Amazon’s $8B Nvidia Chip Deal: AI Infrastructure Financing",
+    "first_seen": "2026-10-06",
+    "url": "https://www.indmoney.com/blog/us-stocks/amazon-8-billion-nvidia-chip-deal-ai-infrastructure-financing"
+  },
+  "u:https://www.geopolitechs.org/p/deepseek-builds-for-huawei-ascend": {
+    "title": "DeepSeek Builds for Huawei Ascend - Geopolitechs",
+    "first_seen": "2026-10-06",
+    "url": "https://www.geopolitechs.org/p/deepseek-builds-for-huawei-ascend"
+  },
+  "u:https://aws.amazon.com/blogs/training-and-certification/build-deploy-and-harden-ai-agents-three-new-aws-jam-experiences-now-available": {
+    "title": "Build, deploy, and harden AI agents: Three new AWS Jam experiences now available  | AWS Training and Certification Blog",
+    "first_seen": "2026-10-06",
+    "url": "https://aws.amazon.com/blogs/training-and-certification/build-deploy-and-harden-ai-agents-three-new-aws-jam-experiences-now-available"
+  },
+  "u:https://startupfortune.com/general-compute-adds-cerebras-chips-to-its-nvidia-fleet-to-chase-faster-ai-coding-agents": {
+    "title": "General Compute adds Cerebras chips to its Nvidia fleet to chase faster AI coding agents - Startup Fortune",
+    "first_seen": "2026-10-06",
+    "url": "https://startupfortune.com/general-compute-adds-cerebras-chips-to-its-nvidia-fleet-to-chase-faster-ai-coding-agents"
+  },
+  "u:https://thenewstack.io/coding-agents-leaked-screenshots": {
+    "title": "AI coding agents leaked 13,000 screenshots, and nobody hacked them. - The New Stack",
+    "first_seen": "2026-10-06",
+    "url": "https://thenewstack.io/coding-agents-leaked-screenshots"
   }
 }
