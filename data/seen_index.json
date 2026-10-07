@@ -22973,5 +22973,285 @@
     "title": "AI coding agents leaked 13,000 screenshots, and nobody hacked them. - The New Stack",
     "first_seen": "2026-10-06",
     "url": "https://thenewstack.io/coding-agents-leaked-screenshots"
+  },
+  "u:https://doi.org/10.1049/cit2.70185": {
+    "title": "Robotic Hand‐Arm Coordinated Skill Learning for Tool Manipulation Tasks",
+    "first_seen": "2026-10-07",
+    "url": "https://doi.org/10.1049/cit2.70185"
+  },
+  "u:https://doi.org/10.64898/2026.10.02.756250": {
+    "title": "Generating Structural Ensembles of Disordered Proteins with Diffusion Models",
+    "first_seen": "2026-10-07",
+    "url": "https://doi.org/10.64898/2026.10.02.756250"
+  },
+  "u:https://huggingface.co/papers/2610.05966": {
+    "title": "HuatuoGPT-3: RL-Only Domain Adaptation from Base Models",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.05966"
+  },
+  "u:https://huggingface.co/papers/2610.07588": {
+    "title": "Personal-Agent Mediated Recommendation with Cross-Platform User History",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.07588"
+  },
+  "u:https://huggingface.co/papers/2610.06191": {
+    "title": "Judged Useless, Queried Anyway: Tool-Using Agents Rarely Turn Their Own Evidence Judgments into Stopping Decisions",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.06191"
+  },
+  "u:https://huggingface.co/papers/2610.07969": {
+    "title": "EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.07969"
+  },
+  "u:https://huggingface.co/papers/2610.08761": {
+    "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.08761"
+  },
+  "u:https://huggingface.co/papers/2610.08791": {
+    "title": "World Models' Last Exam in Physics",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.08791"
+  },
+  "u:https://huggingface.co/papers/2610.05140": {
+    "title": "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.05140"
+  },
+  "u:https://huggingface.co/papers/2610.05030": {
+    "title": "EVISKILL: Grounding Skill Evolution in Replayable Evidence",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.05030"
+  },
+  "u:https://huggingface.co/papers/2610.07641": {
+    "title": "Hiding Tool Latency in On-Device Cascaded Voice Agent through Speculative Execution",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.07641"
+  },
+  "u:https://huggingface.co/papers/2610.04933": {
+    "title": "DiVeR: Decision-Critical Verifier Learning for VLA Test-Time Scaling",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.04933"
+  },
+  "u:https://huggingface.co/papers/2610.08779": {
+    "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.08779"
+  },
+  "u:https://huggingface.co/papers/2610.07832": {
+    "title": "Harness Engineering for Software Engineering via Modular Executable Dev-Primitives",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.07832"
+  },
+  "u:https://huggingface.co/papers/2610.07727": {
+    "title": "HiPLEX: Hierarchical Policy Factorization for Full Duplex Speech Language Models",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.07727"
+  },
+  "u:https://huggingface.co/papers/2610.06647": {
+    "title": "LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.06647"
+  },
+  "u:https://huggingface.co/papers/2610.06361": {
+    "title": "Capability-Driven Self-Evolution of Agent Memory",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.06361"
+  },
+  "u:https://huggingface.co/papers/2610.04749": {
+    "title": "Agentic discovery of blood biomarker from distilled private health records",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.04749"
+  },
+  "u:https://huggingface.co/papers/2610.06679": {
+    "title": "Closing the Context Gap: Activation Alignment for Tabular In-Context Learning",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.06679"
+  },
+  "u:https://huggingface.co/papers/2610.06804": {
+    "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.06804"
+  },
+  "u:https://huggingface.co/papers/2610.02076": {
+    "title": "LLM-as-Jev: LLMs Are Already Jev-Style Decision Models -- When and How to Fine-Tune Them",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.02076"
+  },
+  "u:https://huggingface.co/papers/2610.05898": {
+    "title": "Collaborative Personalized Preference Alignment for LLMs under Data Deficiency",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.05898"
+  },
+  "u:https://huggingface.co/papers/2610.05750": {
+    "title": "Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.05750"
+  },
+  "u:https://huggingface.co/papers/2610.05790": {
+    "title": "FairRSFM: A Biome-Aware Benchmark and Debiasing Framework for Remote Sensing Foundation Models",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.05790"
+  },
+  "u:https://huggingface.co/papers/2610.06693": {
+    "title": "Adapting prior-data fitted networks for tabular anomaly detection",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.06693"
+  },
+  "u:https://huggingface.co/papers/2610.06545": {
+    "title": "Empirical Variational Autoencoder",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/papers/2610.06545"
+  },
+  "u:https://github.com/deepseek-ai/DeepGEMM": {
+    "title": "deepseek-ai/DeepGEMM",
+    "first_seen": "2026-10-07",
+    "url": "https://github.com/deepseek-ai/DeepGEMM"
+  },
+  "u:https://github.com/msitarzewski/agency-agents": {
+    "title": "msitarzewski/agency-agents",
+    "first_seen": "2026-10-07",
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  "u:https://openai.com/index/jump-trading": {
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "first_seen": "2026-10-07",
+    "url": "https://openai.com/index/jump-trading"
+  },
+  "u:https://openai.com/index/sharing-ai-progress-in-mathematics": {
+    "title": "Sharing AI progress in mathematics",
+    "first_seen": "2026-10-07",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+  },
+  "u:https://openai.com/index/advancing-computer-use-with-ironclad": {
+    "title": "Advancing computer use with Ironclad",
+    "first_seen": "2026-10-07",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
+  },
+  "u:https://openai.com/index/atlassian-partnership": {
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "first_seen": "2026-10-07",
+    "url": "https://openai.com/index/atlassian-partnership"
+  },
+  "u:https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "first_seen": "2026-10-07",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+  },
+  "u:https://huggingface.co/blog/tiiuae/falcon-emirati": {
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "first_seen": "2026-10-07",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
+  },
+  "u:https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia": {
+    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "first_seen": "2026-10-07",
+    "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"
+  },
+  "u:https://simonwillison.net/2026/Oct/6/victoria-kim": {
+    "title": "Quoting Victoria Kim",
+    "first_seen": "2026-10-07",
+    "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/"
+  },
+  "u:https://simonwillison.net/2026/Oct/6/llm-openai-decisions": {
+    "title": "llm-openai-decisions 0.1a0",
+    "first_seen": "2026-10-07",
+    "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+  },
+  "u:https://simonwillison.net/2026/Oct/6/llm-mistral": {
+    "title": "llm-mistral 0.16",
+    "first_seen": "2026-10-07",
+    "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
+  },
+  "u:https://simonwillison.net/2026/Oct/6/hn-49983751": {
+    "title": "EmbeddingGemma 2",
+    "first_seen": "2026-10-07",
+    "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/"
+  },
+  "u:https://simonwillison.net/2026/Oct/6/le-chonk": {
+    "title": "Introducing Mistral Large 4: Le chonk",
+    "first_seen": "2026-10-07",
+    "url": "https://simonwillison.net/2026/Oct/6/le-chonk/"
+  },
+  "u:https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry": {
+    "title": "Using Parseable with Datasette for OpenTelemetry traces",
+    "first_seen": "2026-10-07",
+    "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"
+  },
+  "u:https://simonwillison.net/2026/Oct/6/hn-49982139": {
+    "title": "Mistral Large 4",
+    "first_seen": "2026-10-07",
+    "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/"
+  },
+  "u:https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": {
+    "title": "Scrimshaw Jukebox",
+    "first_seen": "2026-10-07",
+    "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/"
+  },
+  "u:https://taekim.substack.com/p/openais-undeniable-resurgence-and": {
+    "title": "OpenAI's Undeniable Resurgence and the Coming Liftoff of Personal AI Agents",
+    "first_seen": "2026-10-07",
+    "url": "https://taekim.substack.com/p/openais-undeniable-resurgence-and"
+  },
+  "u:https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model": {
+    "title": "OpenAI Releases 722 Math Manuscripts From an Unreleased AI Model – Unite.AI",
+    "first_seen": "2026-10-07",
+    "url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model"
+  },
+  "u:https://www.fastcompany.com/91615778/openai-reveals-slew-launches-annual-conference-after-shelving-new-model-over-safety-concerns": {
+    "title": "OpenAI conference announces launches including new agent Dots - Fast Company",
+    "first_seen": "2026-10-07",
+    "url": "https://www.fastcompany.com/91615778/openai-reveals-slew-launches-annual-conference-after-shelving-new-model-over-safety-concerns"
+  },
+  "u:https://www.nytimes.com/2026/10/06/science/openai-math-problems.html": {
+    "title": "OpenAI Releases Findings on 377 Math Problems, Further Roiling Field - The New York Times",
+    "first_seen": "2026-10-07",
+    "url": "https://www.nytimes.com/2026/10/06/science/openai-math-problems.html"
+  },
+  "u:https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html": {
+    "title": "Anthropic expands Claude Startups program for founders",
+    "first_seen": "2026-10-07",
+    "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
+  },
+  "u:https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits": {
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits | TechCrunch",
+    "first_seen": "2026-10-07",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits"
+  },
+  "u:https://news.fiu.edu/2026/analysis-why-removing-claudes-watermark-is-harder-than-you-think": {
+    "title": "Will Claude's new AI \"watermark\" keep us all honest? | FIU News - Florida International University",
+    "first_seen": "2026-10-07",
+    "url": "https://news.fiu.edu/2026/analysis-why-removing-claudes-watermark-is-harder-than-you-think"
+  },
+  "u:https://www.inc.com/aaron-mok/anthropic-is-offering-more-than-50000-in-claude-perks-for-entrepreneurs-heres-how-to-get-them/91415278": {
+    "title": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them",
+    "first_seen": "2026-10-07",
+    "url": "https://www.inc.com/aaron-mok/anthropic-is-offering-more-than-50000-in-claude-perks-for-entrepreneurs-heres-how-to-get-them/91415278"
+  },
+  "u:https://www.times-herald.com/online_features/press_releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros/article_ab4bd8a4-a3c5-5665-8930-d9c354b2a35e.html": {
+    "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS | Press Releases | times-herald.com",
+    "first_seen": "2026-10-07",
+    "url": "https://www.times-herald.com/online_features/press_releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros/article_ab4bd8a4-a3c5-5665-8930-d9c354b2a35e.html"
+  },
+  "u:https://www.agilityrobotics.com/content/agility-robotics-to-livestream-analyst-investor-day-today": {
+    "title": "Agility Robotics to Livestream Analyst & Investor Day Today | Agility",
+    "first_seen": "2026-10-07",
+    "url": "https://www.agilityrobotics.com/content/agility-robotics-to-livestream-analyst-investor-day-today"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/la-rosa-holdings-acquires-next-130000868.html": {
+    "title": "La Rosa Holdings Acquires Next-Generation NVIDIA GPUs, Advancing AI Infrastructure Strategy",
+    "first_seen": "2026-10-07",
+    "url": "https://finance.yahoo.com/technology/ai/articles/la-rosa-holdings-acquires-next-130000868.html"
+  },
+  "u:https://www.unite.ai/deepkeep-adds-runtime-guardrails-for-ai-coding-agents-with-ai-lens-for-developers": {
+    "title": "DeepKeep Adds Runtime Guardrails for AI Coding Agents With AI Lens for Developers – Unite.AI",
+    "first_seen": "2026-10-07",
+    "url": "https://www.unite.ai/deepkeep-adds-runtime-guardrails-for-ai-coding-agents-with-ai-lens-for-developers"
+  },
+  "u:https://www.saasrise.com/news/aws-marketplace-launches-ai-agent-to-automate-usagebased-metering-for-saas-sellers-dd0dd8b7-3f79-4a5e-9647-ec8a73fe5225": {
+    "title": "AWS Marketplace AI Metering Tool | SaaS News",
+    "first_seen": "2026-10-07",
+    "url": "https://www.saasrise.com/news/aws-marketplace-launches-ai-agent-to-automate-usagebased-metering-for-saas-sellers-dd0dd8b7-3f79-4a5e-9647-ec8a73fe5225"
   }
 }
