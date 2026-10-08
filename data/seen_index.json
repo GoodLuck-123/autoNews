@@ -23253,5 +23253,310 @@
     "title": "AWS Marketplace AI Metering Tool | SaaS News",
     "first_seen": "2026-10-07",
     "url": "https://www.saasrise.com/news/aws-marketplace-launches-ai-agent-to-automate-usagebased-metering-for-saas-sellers-dd0dd8b7-3f79-4a5e-9647-ec8a73fe5225"
+  },
+  "u:https://doi.org/10.21203/rs.3.rs-10840993/v1": {
+    "title": "Beyond Task Intelligence: Artificial Intelligence, Embodied Robotics, and the Epistemic Limits of Machine Cultural Understanding",
+    "first_seen": "2026-10-08",
+    "url": "https://doi.org/10.21203/rs.3.rs-10840993/v1"
+  },
+  "u:https://doi.org/10.17605/osf.io/3nm85": {
+    "title": "Self-enhancement bias in large language models (Study 4).",
+    "first_seen": "2026-10-08",
+    "url": "https://doi.org/10.17605/osf.io/3nm85"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.05739": {
+    "title": "HLA-WM: Hybrid Linear Attention for Long-Horizon Video World Models",
+    "first_seen": "2026-10-08",
+    "url": "https://doi.org/10.48550/arxiv.2610.05739"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.06688": {
+    "title": "GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting",
+    "first_seen": "2026-10-08",
+    "url": "https://doi.org/10.48550/arxiv.2610.06688"
+  },
+  "u:https://doi.org/10.22214/ijraset.2026.85029": {
+    "title": "Agentic AI Systems: A Review of Multi-Agent Reasoning, Trust, Orchestration, and Autonomous Data Science",
+    "first_seen": "2026-10-08",
+    "url": "https://doi.org/10.22214/ijraset.2026.85029"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.06597": {
+    "title": "Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving",
+    "first_seen": "2026-10-08",
+    "url": "https://doi.org/10.48550/arxiv.2610.06597"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.05748": {
+    "title": "MOLT: A Fine-Grained GPU Memory Sharing System for LLM Serving with Opportunistic Fine-Tuning",
+    "first_seen": "2026-10-08",
+    "url": "https://doi.org/10.48550/arxiv.2610.05748"
+  },
+  "u:https://huggingface.co/papers/2609.33678": {
+    "title": "SWE-Game: Can Coding Agents Build the Games We Want?",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2609.33678"
+  },
+  "u:https://huggingface.co/papers/2610.07659": {
+    "title": "DLoop: Looped Speculative Decoding",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07659"
+  },
+  "u:https://huggingface.co/papers/2610.10444": {
+    "title": "RunningTab: Direct Workspace Interaction with Environment-Side Tabs",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.10444"
+  },
+  "u:https://huggingface.co/papers/2610.10409": {
+    "title": "RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.10409"
+  },
+  "u:https://huggingface.co/papers/2610.06293": {
+    "title": "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.06293"
+  },
+  "u:https://huggingface.co/papers/2610.10388": {
+    "title": "RoboQuest: Generalist Physical Agents that Search, Inspect and Test",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.10388"
+  },
+  "u:https://huggingface.co/papers/2610.06505": {
+    "title": "Improving Proactive AI Assistance with Hierarchical Procedural Understanding",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.06505"
+  },
+  "u:https://huggingface.co/papers/2610.09823": {
+    "title": "UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.09823"
+  },
+  "u:https://huggingface.co/papers/2610.07874": {
+    "title": "On-Policy Distillation with Negative-Policy Rollouts",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07874"
+  },
+  "u:https://huggingface.co/papers/2610.10528": {
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.10528"
+  },
+  "u:https://huggingface.co/papers/2610.09920": {
+    "title": "Inverting Multi-Vector Visual Document Indices",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.09920"
+  },
+  "u:https://huggingface.co/papers/2610.08621": {
+    "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.08621"
+  },
+  "u:https://huggingface.co/papers/2610.07226": {
+    "title": "Minimal Witness Reinforcement Learning",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07226"
+  },
+  "u:https://huggingface.co/papers/2610.10429": {
+    "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.10429"
+  },
+  "u:https://huggingface.co/papers/2610.08760": {
+    "title": "WorldSonus: Bringing Sound to Worlds",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.08760"
+  },
+  "u:https://huggingface.co/papers/2610.10047": {
+    "title": "AdSpark: A Large-Scale Dataset and Benchmark for Product-Centric Advertisement Video Generation",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.10047"
+  },
+  "u:https://huggingface.co/papers/2610.07967": {
+    "title": "DecepEval: A Benchmark for Evaluating Deception in LLM Agents",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07967"
+  },
+  "u:https://huggingface.co/papers/2610.07591": {
+    "title": "Recurrent Looped Transformer",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07591"
+  },
+  "u:https://huggingface.co/papers/2610.08963": {
+    "title": "On KL-Regularized Policy Optimization",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.08963"
+  },
+  "u:https://huggingface.co/papers/2610.10114": {
+    "title": "Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.10114"
+  },
+  "u:https://huggingface.co/papers/2610.08699": {
+    "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.08699"
+  },
+  "u:https://huggingface.co/papers/2610.03036": {
+    "title": "WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.03036"
+  },
+  "u:https://huggingface.co/papers/2610.09455": {
+    "title": "RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.09455"
+  },
+  "u:https://huggingface.co/papers/2610.09243": {
+    "title": "We Query, Therefore We Compute: On Oracle Computation beyond the Machine, with an Application to Agents",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.09243"
+  },
+  "u:https://huggingface.co/papers/2610.07332": {
+    "title": "Structuring MoE Expert Selection for Agentic Reinforcement Learning",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07332"
+  },
+  "u:https://huggingface.co/papers/2610.07043": {
+    "title": "TRIAGE: Direction-Aware Mismatch Stabilization of Native NVFP4 Reinforcement Learning",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07043"
+  },
+  "u:https://huggingface.co/papers/2610.05949": {
+    "title": "Technical Report on the Turba Fertilizer Machine Learning Stack in Morocco",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.05949"
+  },
+  "u:https://huggingface.co/papers/2609.39096": {
+    "title": "DeCoPrune: Efficient KV-Cache Pruning for Autoregressive Video Diffusion via Denoising Consistency",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2609.39096"
+  },
+  "u:https://huggingface.co/papers/2610.08244": {
+    "title": "Sensor-Language-Action Models",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.08244"
+  },
+  "u:https://huggingface.co/papers/2610.07557": {
+    "title": "CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07557"
+  },
+  "u:https://huggingface.co/papers/2610.08778": {
+    "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.08778"
+  },
+  "u:https://huggingface.co/papers/2610.07348": {
+    "title": "Stepped MoE: Segment-Level Routing with Configurable Inference Complexity",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07348"
+  },
+  "u:https://huggingface.co/papers/2610.07342": {
+    "title": "Rationale-Guided Policy Optimization: Learning to Reason with Adaptive Rationale Scaffolding",
+    "first_seen": "2026-10-08",
+    "url": "https://huggingface.co/papers/2610.07342"
+  },
+  "u:https://github.com/EpicGames/raddebugger": {
+    "title": "EpicGames/raddebugger",
+    "first_seen": "2026-10-08",
+    "url": "https://github.com/EpicGames/raddebugger"
+  },
+  "u:https://github.com/manaflow-ai/cmux": {
+    "title": "manaflow-ai/cmux",
+    "first_seen": "2026-10-08",
+    "url": "https://github.com/manaflow-ai/cmux"
+  },
+  "u:https://openai.com/index/teens-learn-and-plan": {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "first_seen": "2026-10-08",
+    "url": "https://openai.com/index/teens-learn-and-plan"
+  },
+  "u:https://openai.com/index/radisson": {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "first_seen": "2026-10-08",
+    "url": "https://openai.com/index/radisson"
+  },
+  "u:https://openai.com/index/gpt-6-for-everyone": {
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "first_seen": "2026-10-08",
+    "url": "https://openai.com/index/gpt-6-for-everyone"
+  },
+  "u:https://simonwillison.net/2026/Oct/7/ben-affleck": {
+    "title": "Quoting Ben Affleck",
+    "first_seen": "2026-10-08",
+    "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
+  },
+  "u:https://simonwillison.net/2026/Oct/7/claude-haiku-5-5": {
+    "title": "Claude Haiku 5.5",
+    "first_seen": "2026-10-08",
+    "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
+  },
+  "u:https://www.geeky-gadgets.com/openai-dev-day-2026-announcements": {
+    "title": "ChatGPT Pro 500 Plan and GPT-6.1 Sol Pricing Updates - Geeky Gadgets",
+    "first_seen": "2026-10-08",
+    "url": "https://www.geeky-gadgets.com/openai-dev-day-2026-announcements"
+  },
+  "u:https://www.rdworldonline.com/openai-and-synopsys-plan-a-specialized-model-for-chip-design": {
+    "title": "OpenAI and Synopsys plan a specialized model for chip design",
+    "first_seen": "2026-10-08",
+    "url": "https://www.rdworldonline.com/openai-and-synopsys-plan-a-specialized-model-for-chip-design"
+  },
+  "u:https://shattered.io/openai-722-math-manuscripts-hidden-model-2026": {
+    "title": "OpenAI Releases 722 Math Manuscripts From Hidden Model",
+    "first_seen": "2026-10-08",
+    "url": "https://shattered.io/openai-722-math-manuscripts-hidden-model-2026"
+  },
+  "u:https://tech-insider.org/anthropic-claude-riemann-hypothesis-breakthrough-2026": {
+    "title": "Anthropic Claude Hits 67.2% Riemann Zeta Bound [2026]",
+    "first_seen": "2026-10-08",
+    "url": "https://tech-insider.org/anthropic-claude-riemann-hypothesis-breakthrough-2026"
+  },
+  "u:https://www.reuters.com/business/anthropic-launches-third-claude-55-model-expanding-ai-lineup-before-planned-ipo-2026-10-07": {
+    "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO | Reuters",
+    "first_seen": "2026-10-08",
+    "url": "https://www.reuters.com/business/anthropic-launches-third-claude-55-model-expanding-ai-lineup-before-planned-ipo-2026-10-07"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/roboparty-unveils-rp1-high-performance-165300570.html": {
+    "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+    "first_seen": "2026-10-08",
+    "url": "https://finance.yahoo.com/technology/ai/articles/roboparty-unveils-rp1-high-performance-165300570.html"
+  },
+  "u:https://www.yourgv.com/online_features/press_releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros/article_d63751a7-9c14-5e5c-ae71-d0624eadde15.html": {
+    "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS | Press Releases | yourgv.com",
+    "first_seen": "2026-10-08",
+    "url": "https://www.yourgv.com/online_features/press_releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros/article_d63751a7-9c14-5e5c-ae71-d0624eadde15.html"
+  },
+  "u:https://www.wataugademocrat.com/online_features/press_releases/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment/article_e7fc2026-199f-5d7b-87c6-07e7be710ce1.html": {
+    "title": "YYForce Opens Singapore Robotics Center to Advance Humanoid Training and Service Robot Deployment | Press Releases | wataugademocrat.com",
+    "first_seen": "2026-10-08",
+    "url": "https://www.wataugademocrat.com/online_features/press_releases/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment/article_e7fc2026-199f-5d7b-87c6-07e7be710ce1.html"
+  },
+  "u:https://www.morningstar.com/news/pr-newswire/20261001la61384/agility-and-fort-robotics-announce-strategic-partnership-to-advance-humanoid-robot-safety": {
+    "title": "Agility and FORT Robotics Announce Strategic Partnership to Advance Humanoid Robot Safety | Morningstar",
+    "first_seen": "2026-10-08",
+    "url": "https://www.morningstar.com/news/pr-newswire/20261001la61384/agility-and-fort-robotics-announce-strategic-partnership-to-advance-humanoid-robot-safety"
+  },
+  "u:https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": {
+    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents | NVIDIA Blog",
+    "first_seen": "2026-10-08",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event"
+  },
+  "u:https://www.techbuzz.ai/articles/spacex-secures-40b-financing-for-massive-nvidia-gpu-buy": {
+    "title": "SpaceX Secures $40B Financing for Massive Nvidia GPU Buy | The Tech Buzz",
+    "first_seen": "2026-10-08",
+    "url": "https://www.techbuzz.ai/articles/spacex-secures-40b-financing-for-massive-nvidia-gpu-buy"
+  },
+  "u:https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11": {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 | TechCrunch",
+    "first_seen": "2026-10-08",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11"
+  },
+  "u:https://www.voiceofalexandria.com/news/national_business_news/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent/article_d0e7063a-b771-510c-98f5-a10be3cc6909.html": {
+    "title": "OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent | News | voiceofalexandria.com",
+    "first_seen": "2026-10-08",
+    "url": "https://www.voiceofalexandria.com/news/national_business_news/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent/article_d0e7063a-b771-510c-98f5-a10be3cc6909.html"
+  },
+  "u:https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent": {
+    "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent | Artificial Intelligence",
+    "first_seen": "2026-10-08",
+    "url": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent"
   }
 }
