@@ -23558,5 +23558,270 @@
     "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent | Artificial Intelligence",
     "first_seen": "2026-10-08",
     "url": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent"
+  },
+  "u:https://doi.org/10.1002/adrr.70173": {
+    "title": "Toward Mechanical Intelligence in Robotics",
+    "first_seen": "2026-10-09",
+    "url": "https://doi.org/10.1002/adrr.70173"
+  },
+  "u:https://doi.org/10.1002/adrr.70152": {
+    "title": "Continuum Robots in Surgery: From Engineering Design to Clinical Practice",
+    "first_seen": "2026-10-09",
+    "url": "https://doi.org/10.1002/adrr.70152"
+  },
+  "u:https://doi.org/10.3389/fdgth.2026.1747543": {
+    "title": "Potential and limitations of socially assistive robots to support malnutrition care: a critical reflection by dietitians",
+    "first_seen": "2026-10-09",
+    "url": "https://doi.org/10.3389/fdgth.2026.1747543"
+  },
+  "u:https://doi.org/10.1016/j.aei.2026.105345": {
+    "title": "Structure-preserving Gaussian Splatting with dual-domain constraints for limited-angle industrial CT",
+    "first_seen": "2026-10-09",
+    "url": "https://doi.org/10.1016/j.aei.2026.105345"
+  },
+  "u:https://doi.org/10.61796/ijblps.v3i9.558": {
+    "title": "THE SHIFT OF CRIMINAL LIABILITY IN THE DIGITAL SPACE: AN ANALYTICAL STUDY OF THE 'AUTONOMOUS AGENT' DILEMMA IN LIGHT OF IRAQ'S CYBERCRIME LEGISLATION",
+    "first_seen": "2026-10-09",
+    "url": "https://doi.org/10.61796/ijblps.v3i9.558"
+  },
+  "u:https://huggingface.co/papers/2610.12299": {
+    "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12299"
+  },
+  "u:https://huggingface.co/papers/2610.12419": {
+    "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12419"
+  },
+  "u:https://huggingface.co/papers/2610.12355": {
+    "title": "Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12355"
+  },
+  "u:https://huggingface.co/papers/2610.12289": {
+    "title": "TestPrism: Rethinking Test Evaluation Beyond a Single Reference",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12289"
+  },
+  "u:https://huggingface.co/papers/2610.12402": {
+    "title": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12402"
+  },
+  "u:https://huggingface.co/papers/2610.12403": {
+    "title": "ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12403"
+  },
+  "u:https://huggingface.co/papers/2610.08215": {
+    "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.08215"
+  },
+  "u:https://huggingface.co/papers/2610.12468": {
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12468"
+  },
+  "u:https://huggingface.co/papers/2610.11366": {
+    "title": "SpatialOPSD: Self-Distilling Spatial Intelligence from Verified Coding Agent Traces",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.11366"
+  },
+  "u:https://huggingface.co/papers/2610.12442": {
+    "title": "LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12442"
+  },
+  "u:https://huggingface.co/papers/2610.12242": {
+    "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12242"
+  },
+  "u:https://huggingface.co/papers/2610.11570": {
+    "title": "Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.11570"
+  },
+  "u:https://huggingface.co/papers/2610.12343": {
+    "title": "Reasoning-Informed Visual Editing",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12343"
+  },
+  "u:https://huggingface.co/papers/2610.12229": {
+    "title": "VibeEdit: Image Editing with Canvas Instructions",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12229"
+  },
+  "u:https://huggingface.co/papers/2610.12230": {
+    "title": "From Prompting to Composing: A Spatial Canvas Interface for Poster Generation",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12230"
+  },
+  "u:https://huggingface.co/papers/2610.12126": {
+    "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12126"
+  },
+  "u:https://huggingface.co/papers/2610.11816": {
+    "title": "Chaos in the Text: Revealing the Modality Preference in Mixed-Modality Retrievers",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.11816"
+  },
+  "u:https://huggingface.co/papers/2610.12327": {
+    "title": "SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12327"
+  },
+  "u:https://huggingface.co/papers/2610.11322": {
+    "title": "USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.11322"
+  },
+  "u:https://huggingface.co/papers/2610.12374": {
+    "title": "AgentGarten: Code Worlds for Evolving Agents",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.12374"
+  },
+  "u:https://huggingface.co/papers/2610.11251": {
+    "title": "V-CoLA: Vision Token Compression with Linear Attention",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.11251"
+  },
+  "u:https://huggingface.co/papers/2610.08077": {
+    "title": "Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.08077"
+  },
+  "u:https://huggingface.co/papers/2610.10845": {
+    "title": "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.10845"
+  },
+  "u:https://huggingface.co/papers/2610.08902": {
+    "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.08902"
+  },
+  "u:https://huggingface.co/papers/2610.10515": {
+    "title": "RoboJEPA: Scaling Robotic Latent World Models",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.10515"
+  },
+  "u:https://huggingface.co/papers/2610.09457": {
+    "title": "DSReg: Provably Recovering Individual World Latents without Reconstruction",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.09457"
+  },
+  "u:https://huggingface.co/papers/2610.09484": {
+    "title": "MIMESIS: Learning User Simulators as Training Environments for Interactive Agents",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.09484"
+  },
+  "u:https://huggingface.co/papers/2610.09450": {
+    "title": "Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.09450"
+  },
+  "u:https://huggingface.co/papers/2610.10460": {
+    "title": "Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.10460"
+  },
+  "u:https://huggingface.co/papers/2610.09683": {
+    "title": "System Switch: When Should a Fast Decision Model Stop and Think?",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.09683"
+  },
+  "u:https://huggingface.co/papers/2610.10437": {
+    "title": "Q-Learning with Scalar Adjoint Matching",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.10437"
+  },
+  "u:https://huggingface.co/papers/2610.07862": {
+    "title": "A self-learning scientific agent for X-ray diffraction",
+    "first_seen": "2026-10-09",
+    "url": "https://huggingface.co/papers/2610.07862"
+  },
+  "u:https://openai.com/index/oracle": {
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "first_seen": "2026-10-09",
+    "url": "https://openai.com/index/oracle"
+  },
+  "u:https://openai.com/index/pollo-ai": {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "first_seen": "2026-10-09",
+    "url": "https://openai.com/index/pollo-ai"
+  },
+  "u:https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+    "title": "Disrupting AI-enabled “false front” operations",
+    "first_seen": "2026-10-09",
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+  },
+  "u:https://simonwillison.net/2026/Oct/8/ttok": {
+    "title": "ttok 0.4",
+    "first_seen": "2026-10-09",
+    "url": "https://simonwillison.net/2026/Oct/8/ttok/"
+  },
+  "u:https://www.theatlantic.com/technology/2026/10/openai-math-proofs-future/688940": {
+    "title": "OpenAI Just Carpet-Bombed Mathematics",
+    "first_seen": "2026-10-09",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-math-proofs-future/688940"
+  },
+  "u:https://www.economist.com/science-and-technology/2026/10/07/openai-claims-to-have-solved-hundreds-of-long-standing-maths-problems": {
+    "title": "OpenAI claims to have solved hundreds of long-standing maths problems",
+    "first_seen": "2026-10-09",
+    "url": "https://www.economist.com/science-and-technology/2026/10/07/openai-claims-to-have-solved-hundreds-of-long-standing-maths-problems"
+  },
+  "u:https://9to5mac.com/2026/10/07/openai-brings-gpt-6-to-chatgpt-and-debuts-intelligent-ui": {
+    "title": "OpenAI brings GPT-6 to ChatGPT and debuts Intelligent UI - 9to5Mac",
+    "first_seen": "2026-10-09",
+    "url": "https://9to5mac.com/2026/10/07/openai-brings-gpt-6-to-chatgpt-and-debuts-intelligent-ui"
+  },
+  "u:https://qz.com/anthropic-usage-policy-update-claude-abuse-election-weapons-100826": {
+    "title": "Anthropic bans abusive behavior toward Claude in usage policy update",
+    "first_seen": "2026-10-09",
+    "url": "https://qz.com/anthropic-usage-policy-update-claude-abuse-election-weapons-100826"
+  },
+  "u:https://www.reuters.com/technology/anthropic-launches-dashboard-animation-tools-claude-2026-10-08": {
+    "title": "Anthropic launches dashboard, animation tools for Claude | Reuters",
+    "first_seen": "2026-10-09",
+    "url": "https://www.reuters.com/technology/anthropic-launches-dashboard-animation-tools-claude-2026-10-08"
+  },
+  "u:https://www.prnewswire.com/news-releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros-302897662.html": {
+    "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+    "first_seen": "2026-10-09",
+    "url": "https://www.prnewswire.com/news-releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros-302897662.html"
+  },
+  "u:https://www.timesargus.com/online_features/press_releases/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment/article_75e756ff-a2dc-56c6-bbcf-fbaebb4701ec.html": {
+    "title": "YYForce Opens Singapore Robotics Center to Advance Humanoid Training and Service Robot Deployment | Press Releases | timesargus.com",
+    "first_seen": "2026-10-09",
+    "url": "https://www.timesargus.com/online_features/press_releases/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment/article_75e756ff-a2dc-56c6-bbcf-fbaebb4701ec.html"
+  },
+  "u:https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics": {
+    "title": "RoboParty debuts RP1 humanoid for open-source robotics research",
+    "first_seen": "2026-10-09",
+    "url": "https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics"
+  },
+  "u:https://aimagazine.com/news/meet-the-rtx-spark-microsoft-and-nvidias-ai-superchip": {
+    "title": "Meet the RTX Spark, Microsoft and NVIDIA's AI Superchip | AI Magazine",
+    "first_seen": "2026-10-09",
+    "url": "https://aimagazine.com/news/meet-the-rtx-spark-microsoft-and-nvidias-ai-superchip"
+  },
+  "u:https://www.cbsnews.com/news/google-gemini-ai-workplace-agent": {
+    "title": "Google launches Gemini AI workplace agent that can write code and run tasks, company says - CBS News",
+    "first_seen": "2026-10-09",
+    "url": "https://www.cbsnews.com/news/google-gemini-ai-workplace-agent"
+  },
+  "u:https://www.aol.com/articles/outsystems-agent-experience-now-generally-170000000.html": {
+    "title": "OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent - AOL",
+    "first_seen": "2026-10-09",
+    "url": "https://www.aol.com/articles/outsystems-agent-experience-now-generally-170000000.html"
+  },
+  "u:https://www.techzine.eu/news/devops/144856/outsystems-agent-experience-opens-platform-to-claude-code-and-cursor": {
+    "title": "OutSystems Agent Experience opens platform to Claude Code and Cursor",
+    "first_seen": "2026-10-09",
+    "url": "https://www.techzine.eu/news/devops/144856/outsystems-agent-experience-opens-platform-to-claude-code-and-cursor"
   }
 }
