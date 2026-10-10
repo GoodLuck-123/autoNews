@@ -23823,5 +23823,270 @@
     "title": "OutSystems Agent Experience opens platform to Claude Code and Cursor",
     "first_seen": "2026-10-09",
     "url": "https://www.techzine.eu/news/devops/144856/outsystems-agent-experience-opens-platform-to-claude-code-and-cursor"
+  },
+  "u:https://doi.org/10.1002/adrr.202500194": {
+    "title": "Mutual Adaptation and Influence: Review of Latent Dynamics Models in Human–Robot Interaction",
+    "first_seen": "2026-10-10",
+    "url": "https://doi.org/10.1002/adrr.202500194"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.09438": {
+    "title": "Controllable Crowd Generation through World-Model Planning",
+    "first_seen": "2026-10-10",
+    "url": "https://doi.org/10.48550/arxiv.2610.09438"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.09254": {
+    "title": "RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer",
+    "first_seen": "2026-10-10",
+    "url": "https://doi.org/10.48550/arxiv.2610.09254"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.10047": {
+    "title": "AdSpark: A Large-Scale Dataset and Benchmark for Product-Centric Advertisement Video Generation",
+    "first_seen": "2026-10-10",
+    "url": "https://doi.org/10.48550/arxiv.2610.10047"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.09514": {
+    "title": "STRIKE: Learning Visual State Transitions for Physical World Modeling",
+    "first_seen": "2026-10-10",
+    "url": "https://doi.org/10.48550/arxiv.2610.09514"
+  },
+  "u:https://doi.org/10.54254/2754-1169/2026.37499": {
+    "title": "Autonomous Agents in Enterprise Digital Transformation: Strategic Positioning, Technical Architecture, and Industrial Applications",
+    "first_seen": "2026-10-10",
+    "url": "https://doi.org/10.54254/2754-1169/2026.37499"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.09780": {
+    "title": "Relational Abstractions for Spatial Reasoning with Diffusion Models",
+    "first_seen": "2026-10-10",
+    "url": "https://doi.org/10.48550/arxiv.2610.09780"
+  },
+  "u:https://huggingface.co/papers/2610.11216": {
+    "title": "The Lattice of Transition Laws",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.11216"
+  },
+  "u:https://huggingface.co/papers/2610.09280": {
+    "title": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.09280"
+  },
+  "u:https://huggingface.co/papers/2609.33987": {
+    "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2609.33987"
+  },
+  "u:https://huggingface.co/papers/2610.11169": {
+    "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.11169"
+  },
+  "u:https://huggingface.co/papers/2610.10355": {
+    "title": "MIRA: A Musical Intent Refinement Agent for Aligning Text-to-Music Generation with User Intent",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.10355"
+  },
+  "u:https://huggingface.co/papers/2610.12423": {
+    "title": "Pumpire: Unified Benchmark for Metric Distance Estimation",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12423"
+  },
+  "u:https://huggingface.co/papers/2610.11566": {
+    "title": "Incremental Open-Ended Deep Research with Structured Harness",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.11566"
+  },
+  "u:https://huggingface.co/papers/2610.12448": {
+    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12448"
+  },
+  "u:https://huggingface.co/papers/2610.12183": {
+    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12183"
+  },
+  "u:https://huggingface.co/papers/2610.11794": {
+    "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.11794"
+  },
+  "u:https://huggingface.co/papers/2610.12399": {
+    "title": "SpaceFlow: Locally Controllable 3D Generation",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12399"
+  },
+  "u:https://huggingface.co/papers/2610.11287": {
+    "title": "REMORY: Learning Residual Memory for Context Compaction",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.11287"
+  },
+  "u:https://huggingface.co/papers/2610.12459": {
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12459"
+  },
+  "u:https://huggingface.co/papers/2610.12421": {
+    "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12421"
+  },
+  "u:https://huggingface.co/papers/2605.22949": {
+    "title": "MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2605.22949"
+  },
+  "u:https://huggingface.co/papers/2610.11959": {
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.11959"
+  },
+  "u:https://huggingface.co/papers/2501.09223": {
+    "title": "Foundations of Large Language Models",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2501.09223"
+  },
+  "u:https://huggingface.co/papers/2610.12461": {
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12461"
+  },
+  "u:https://huggingface.co/papers/2610.09639": {
+    "title": "On-Policy Distillation Teaches New Skills but Not New Knowledge",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.09639"
+  },
+  "u:https://huggingface.co/papers/2610.12452": {
+    "title": "BrickBench: Evaluating Agentic Brick Design",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12452"
+  },
+  "u:https://huggingface.co/papers/2610.12458": {
+    "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12458"
+  },
+  "u:https://huggingface.co/papers/2610.12360": {
+    "title": "Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12360"
+  },
+  "u:https://huggingface.co/papers/2610.12369": {
+    "title": "Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/papers/2610.12369"
+  },
+  "u:https://github.com/BerriAI/litellm": {
+    "title": "BerriAI/litellm",
+    "first_seen": "2026-10-10",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  "u:https://github.com/Robbyant/lingbot-map": {
+    "title": "Robbyant/lingbot-map",
+    "first_seen": "2026-10-10",
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  "u:https://github.com/twostraws/SwiftUI-Agent-Skill": {
+    "title": "twostraws/SwiftUI-Agent-Skill",
+    "first_seen": "2026-10-10",
+    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+  },
+  "u:https://openai.com/index/sophos": {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "first_seen": "2026-10-10",
+    "url": "https://openai.com/index/sophos"
+  },
+  "u:https://openai.com/index/asana-browser-agent": {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "first_seen": "2026-10-10",
+    "url": "https://openai.com/index/asana-browser-agent"
+  },
+  "u:https://huggingface.co/blog/allenai/impactful-scheduling": {
+    "title": "Impactful scheduling for GPU clusters",
+    "first_seen": "2026-10-10",
+    "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+  },
+  "u:https://simonwillison.net/2026/Oct/10/the-new-york-times": {
+    "title": "Quoting The New York Times",
+    "first_seen": "2026-10-10",
+    "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
+  },
+  "u:https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": {
+    "title": "Deno is joining Cloudflare",
+    "first_seen": "2026-10-10",
+    "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
+  },
+  "u:https://simonwillison.net/2026/Oct/9/built-using-my-voice": {
+    "title": "A new feature for my blog, built using my voice",
+    "first_seen": "2026-10-10",
+    "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
+  },
+  "u:https://simonwillison.net/2026/Oct/9/ttok": {
+    "title": "ttok 1.0",
+    "first_seen": "2026-10-10",
+    "url": "https://simonwillison.net/2026/Oct/9/ttok/"
+  },
+  "u:https://www.livescience.com/technology/artificial-intelligence/openai-claims-weve-entered-the-agi-era-has-gpt-6-astra-really-demonstrated-general-intelligence": {
+    "title": "OpenAI claims we've entered the AGI era — has GPT-6 Astra really demonstrated general intelligence? | Live Science",
+    "first_seen": "2026-10-10",
+    "url": "https://www.livescience.com/technology/artificial-intelligence/openai-claims-weve-entered-the-agi-era-has-gpt-6-astra-really-demonstrated-general-intelligence"
+  },
+  "u:https://www.cbsnews.com/news/anthropic-bans-abusive-behavior-claude": {
+    "title": "Anthropic bars \"abusive or cruel\" behavior toward its Claude AI model - CBS News",
+    "first_seen": "2026-10-10",
+    "url": "https://www.cbsnews.com/news/anthropic-bans-abusive-behavior-claude"
+  },
+  "u:https://shattered.io/claude-5-5-family-2-models-6-days-haiku-next-2026": {
+    "title": "Claude 5.5 Family: 2 Models in 6 Days, Haiku Next",
+    "first_seen": "2026-10-10",
+    "url": "https://shattered.io/claude-5-5-family-2-models-6-days-haiku-next-2026"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/deep-robotics-humanoid-robot-debuts-081500000.html": {
+    "title": "DEEP Robotics' Humanoid Robot Debuts in Xihu District, Exploring New Approaches to Smart Transportation",
+    "first_seen": "2026-10-10",
+    "url": "https://finance.yahoo.com/technology/ai/articles/deep-robotics-humanoid-robot-debuts-081500000.html"
+  },
+  "u:https://english.kyodonews.net/articles/-/87184": {
+    "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+    "first_seen": "2026-10-10",
+    "url": "https://english.kyodonews.net/articles/-/87184"
+  },
+  "u:https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/ai-chips-update-nvidias-1b-boost-for-us-scientific-innovatio": {
+    "title": "AI Chips Update - NVIDIA's $1B Boost for US Scientific Innovation - Simply Wall St News",
+    "first_seen": "2026-10-10",
+    "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/ai-chips-update-nvidias-1b-boost-for-us-scientific-innovatio"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/ai-chips-nvidias-1b-boost-113729244.html": {
+    "title": "AI Chips Update - NVIDIA's $1B Boost for US Scientific Innovation",
+    "first_seen": "2026-10-10",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-nvidias-1b-boost-113729244.html"
+  },
+  "u:https://www.hpcwire.com/bigdatawire/2026/10/09/nvidia-backed-upscale-wants-to-make-rival-ai-chips-work-together": {
+    "title": "BigDATAwire - Data Science • AI • Advanced Analytics",
+    "first_seen": "2026-10-10",
+    "url": "https://www.hpcwire.com/bigdatawire/2026/10/09/nvidia-backed-upscale-wants-to-make-rival-ai-chips-work-together"
+  },
+  "u:https://tech-insider.org/what-nvidia-just-announced": {
+    "title": "What Nvidia Just Announced - Tech Insider",
+    "first_seen": "2026-10-10",
+    "url": "https://tech-insider.org/what-nvidia-just-announced"
+  },
+  "u:https://www.beaconjournal.com/press-release/story/245591/scanosss-earnie-catches-the-license-violations-ai-coding-agents-dont-know-theyre-creating": {
+    "title": "SCANOSS's Earnie catches the license violations AI coding agents don't know they're creating - Akron Beacon Journal - Press Releases",
+    "first_seen": "2026-10-10",
+    "url": "https://www.beaconjournal.com/press-release/story/245591/scanosss-earnie-catches-the-license-violations-ai-coding-agents-dont-know-theyre-creating"
+  },
+  "u:https://finance.biggo.com/news/77ca186991a8221a": {
+    "title": "Dan Adler Warns AI Coding Agents Are Flooding Legacy Codebases With Code No One Understands — BigGo Finance",
+    "first_seen": "2026-10-10",
+    "url": "https://finance.biggo.com/news/77ca186991a8221a"
+  },
+  "u:https://www.producthunt.com/categories/ai-coding-agents": {
+    "title": "The best AI coding agents in 2026 | Product Hunt",
+    "first_seen": "2026-10-10",
+    "url": "https://www.producthunt.com/categories/ai-coding-agents"
+  },
+  "u:https://www.legalreader.com/casepoint-expands-casepoint-iq-with-first-purpose-built-ai-agents": {
+    "title": "Casepoint Expands Casepoint IQ with First Purpose-Built AI Agents - Legal Reader",
+    "first_seen": "2026-10-10",
+    "url": "https://www.legalreader.com/casepoint-expands-casepoint-iq-with-first-purpose-built-ai-agents"
   }
 }
