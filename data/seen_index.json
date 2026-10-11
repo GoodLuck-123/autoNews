@@ -24088,5 +24088,85 @@
     "title": "Casepoint Expands Casepoint IQ with First Purpose-Built AI Agents - Legal Reader",
     "first_seen": "2026-10-10",
     "url": "https://www.legalreader.com/casepoint-expands-casepoint-iq-with-first-purpose-built-ai-agents"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.12069": {
+    "title": "LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes",
+    "first_seen": "2026-10-11",
+    "url": "https://doi.org/10.48550/arxiv.2610.12069"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.11444": {
+    "title": "Learning to Retrieve: Internalizing Memory Retrieval for Video World Models",
+    "first_seen": "2026-10-11",
+    "url": "https://doi.org/10.48550/arxiv.2610.11444"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.12459": {
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "first_seen": "2026-10-11",
+    "url": "https://doi.org/10.48550/arxiv.2610.12459"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.12382": {
+    "title": "WorldAlign: Decoupled 4D Reward for World-Consistent Video Generation",
+    "first_seen": "2026-10-11",
+    "url": "https://doi.org/10.48550/arxiv.2610.12382"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.12412": {
+    "title": "WorldCast: Distributed Multiplayer World Models",
+    "first_seen": "2026-10-11",
+    "url": "https://doi.org/10.48550/arxiv.2610.12412"
+  },
+  "u:https://doi.org/10.1007/978-3-032-39388-3_11": {
+    "title": "An Evolutionary Boost to Gaussian Splatting Optimization",
+    "first_seen": "2026-10-11",
+    "url": "https://doi.org/10.1007/978-3-032-39388-3_11"
+  },
+  "u:https://doi.org/10.1007/978-3-032-39388-3_18": {
+    "title": "Evaluating Attention Reuse in Dynamic 3D Gaussian Reconstruction",
+    "first_seen": "2026-10-11",
+    "url": "https://doi.org/10.1007/978-3-032-39388-3_18"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.12242": {
+    "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+    "first_seen": "2026-10-11",
+    "url": "https://doi.org/10.48550/arxiv.2610.12242"
+  },
+  "u:https://github.com/pytorch/pytorch": {
+    "title": "pytorch/pytorch",
+    "first_seen": "2026-10-11",
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  "u:https://simonwillison.net/2026/Oct/10/python-actions": {
+    "title": "Python 3.15.0 added to actions/python-versions",
+    "first_seen": "2026-10-11",
+    "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
+  },
+  "u:https://www.prnewswire.com/news-releases/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment-302899922.html": {
+    "title": "YYForce Opens Singapore Robotics Center to Advance Humanoid Training and Service Robot Deployment",
+    "first_seen": "2026-10-11",
+    "url": "https://www.prnewswire.com/news-releases/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment-302899922.html"
+  },
+  "u:https://www.engineering.com/roboparty-unveils-rp1-open-source-humanoid-robot": {
+    "title": "RoboParty unveils RP1 open-source humanoid robot - Engineering.com",
+    "first_seen": "2026-10-11",
+    "url": "https://www.engineering.com/roboparty-unveils-rp1-open-source-humanoid-robot"
+  },
+  "u:https://eu.36kr.com/en/p/4018439974817669": {
+    "title": "Humanoid Robots Are Becoming Increasingly Similar to Mobile Phones – With the Only Exception of Not Being Able to Make Phone Calls",
+    "first_seen": "2026-10-11",
+    "url": "https://eu.36kr.com/en/p/4018439974817669"
+  },
+  "u:https://agentsroom.dev/features/scheduled-tasks": {
+    "title": "Scheduled Tasks: cron-style scheduling for AI coding agents | AgentsRoom",
+    "first_seen": "2026-10-11",
+    "url": "https://agentsroom.dev/features/scheduled-tasks"
+  },
+  "u:https://www.prnewswire.com/apac/news-releases/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent-302901923.html": {
+    "title": "OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent",
+    "first_seen": "2026-10-11",
+    "url": "https://www.prnewswire.com/apac/news-releases/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent-302901923.html"
+  },
+  "u:https://cellcog.ai/blog/one-app-coding-agents": {
+    "title": "One App for Coding Agents: Pricing and the $2M ARR Claim | CellCog",
+    "first_seen": "2026-10-11",
+    "url": "https://cellcog.ai/blog/one-app-coding-agents"
   }
 }
