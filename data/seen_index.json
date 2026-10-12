@@ -24168,5 +24168,90 @@
     "title": "One App for Coding Agents: Pricing and the $2M ARR Claim | CellCog",
     "first_seen": "2026-10-11",
     "url": "https://cellcog.ai/blog/one-app-coding-agents"
+  },
+  "u:https://doi.org/10.11648/j.scif.20260205.21": {
+    "title": "Integrating Theory of Mind into Embodied Agents for Human-Aware Interaction",
+    "first_seen": "2026-10-12",
+    "url": "https://doi.org/10.11648/j.scif.20260205.21"
+  },
+  "u:https://huggingface.co/papers/2610.13944": {
+    "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+    "first_seen": "2026-10-12",
+    "url": "https://huggingface.co/papers/2610.13944"
+  },
+  "u:https://huggingface.co/papers/2610.13947": {
+    "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+    "first_seen": "2026-10-12",
+    "url": "https://huggingface.co/papers/2610.13947"
+  },
+  "u:https://huggingface.co/papers/2610.06354": {
+    "title": "GraphDecisionBench: Benchmarking System One Models on Graph Tasks",
+    "first_seen": "2026-10-12",
+    "url": "https://huggingface.co/papers/2610.06354"
+  },
+  "u:https://huggingface.co/papers/2610.12978": {
+    "title": "Learning Representations to Guide Pixel Diffusion Transformers",
+    "first_seen": "2026-10-12",
+    "url": "https://huggingface.co/papers/2610.12978"
+  },
+  "u:https://huggingface.co/papers/2610.13021": {
+    "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
+    "first_seen": "2026-10-12",
+    "url": "https://huggingface.co/papers/2610.13021"
+  },
+  "u:https://huggingface.co/papers/2610.13912": {
+    "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+    "first_seen": "2026-10-12",
+    "url": "https://huggingface.co/papers/2610.13912"
+  },
+  "u:https://huggingface.co/papers/2610.13627": {
+    "title": "AMLworld-Compact: Importance-Weighted Downsampling for Cost-Effective LLM Evaluation and Error Diagnosis",
+    "first_seen": "2026-10-12",
+    "url": "https://huggingface.co/papers/2610.13627"
+  },
+  "u:https://huggingface.co/papers/2610.13395": {
+    "title": "ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents",
+    "first_seen": "2026-10-12",
+    "url": "https://huggingface.co/papers/2610.13395"
+  },
+  "u:https://github.com/lyogavin/airllm": {
+    "title": "lyogavin/airllm",
+    "first_seen": "2026-10-12",
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  "u:https://futurism.com/artificial-intelligence/mathematicians-openai-furious": {
+    "title": "Mathematicians React With Fury as OpenAI Releases Hundreds of New AI-Generated Proofs",
+    "first_seen": "2026-10-12",
+    "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-furious"
+  },
+  "u:https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1": {
+    "title": "Anthropic AI model sends false tip to Philadelphia police in unsolved case | AP News",
+    "first_seen": "2026-10-12",
+    "url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1"
+  },
+  "u:https://cnevpost.com/2026/10/09/byd-humanoid-robot-design-emerges": {
+    "title": "BYD humanoid robot design emerges as formal debut remains pending - CnEVPost",
+    "first_seen": "2026-10-12",
+    "url": "https://cnevpost.com/2026/10/09/byd-humanoid-robot-design-emerges"
+  },
+  "u:https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-nj2g31fy9ycs.html": {
+    "title": "FF EAI Robotics Sets Four-Product Launch for Oct. 14 | FFR Stock News",
+    "first_seen": "2026-10-12",
+    "url": "https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-nj2g31fy9ycs.html"
+  },
+  "u:https://www.barrons.com/articles/microsoft-and-nvidia-will-present-new-ai-centric-laptop-today-why-it-matters-1a5fb9e9": {
+    "title": "Microsoft and Nvidia Detail PC Laptop with RTX Spark Chip and On-Device AI<!-- --> - Barron's",
+    "first_seen": "2026-10-12",
+    "url": "https://www.barrons.com/articles/microsoft-and-nvidia-will-present-new-ai-centric-laptop-today-why-it-matters-1a5fb9e9"
+  },
+  "u:https://tech-insider.org/google-gemini-agent-launch-workplace-ai-2026": {
+    "title": "Google Launches Gemini Agent to Rival OpenAI, Microsoft",
+    "first_seen": "2026-10-12",
+    "url": "https://tech-insider.org/google-gemini-agent-launch-workplace-ai-2026"
+  },
+  "u:https://www.prnewswire.com/news-releases/crossmint-launches-agent-commerce-toolkit-enabling-ai-agents-to-pay-with-any-card-and-check-out-online-through-one-integration-302901649.html": {
+    "title": "Crossmint Launches Agent Commerce Toolkit, Enabling AI Agents to Pay With Any Card and Check Out Online Through One Integration",
+    "first_seen": "2026-10-12",
+    "url": "https://www.prnewswire.com/news-releases/crossmint-launches-agent-commerce-toolkit-enabling-ai-agents-to-pay-with-any-card-and-check-out-online-through-one-integration-302901649.html"
   }
 }
