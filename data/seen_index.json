@@ -24253,5 +24253,80 @@
     "title": "Crossmint Launches Agent Commerce Toolkit, Enabling AI Agents to Pay With Any Card and Check Out Online Through One Integration",
     "first_seen": "2026-10-12",
     "url": "https://www.prnewswire.com/news-releases/crossmint-launches-agent-commerce-toolkit-enabling-ai-agents-to-pay-with-any-card-and-check-out-online-through-one-integration-302901649.html"
+  },
+  "u:https://doi.org/10.1609/aies.v9i3.43281": {
+    "title": "Designing for Doubt: The Case for Informed Abstention in Autonomous Agents",
+    "first_seen": "2026-10-13",
+    "url": "https://doi.org/10.1609/aies.v9i3.43281"
+  },
+  "u:https://doi.org/10.1609/aies.v9i3.43292": {
+    "title": "Can LLMs Rank? A Tale of Triads and Triage",
+    "first_seen": "2026-10-13",
+    "url": "https://doi.org/10.1609/aies.v9i3.43292"
+  },
+  "u:https://huggingface.co/papers/2610.13527": {
+    "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
+    "first_seen": "2026-10-13",
+    "url": "https://huggingface.co/papers/2610.13527"
+  },
+  "u:https://github.com/open-webui/open-webui": {
+    "title": "open-webui/open-webui",
+    "first_seen": "2026-10-13",
+    "url": "https://github.com/open-webui/open-webui"
+  },
+  "u:https://github.com/microsoft/BitNet": {
+    "title": "microsoft/BitNet",
+    "first_seen": "2026-10-13",
+    "url": "https://github.com/microsoft/BitNet"
+  },
+  "u:https://simonwillison.net/2026/Oct/12/python-3-15": {
+    "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+    "first_seen": "2026-10-13",
+    "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
+  },
+  "u:https://simonwillison.net/2026/Oct/12/web-edit": {
+    "title": "web-edit 0.1a0",
+    "first_seen": "2026-10-13",
+    "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
+  },
+  "u:https://simonwillison.net/2026/Oct/12/datasette-ports": {
+    "title": "datasette-ports 0.4",
+    "first_seen": "2026-10-13",
+    "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/"
+  },
+  "u:https://www.hurriyetdailynews.com/anthropics-claude-ai-submits-fake-murde-tip-227967": {
+    "title": "Anthropic’s Claude AI submits fake murder tip - Latest News",
+    "first_seen": "2026-10-13",
+    "url": "https://www.hurriyetdailynews.com/anthropics-claude-ai-submits-fake-murde-tip-227967"
+  },
+  "u:https://www.bozemandailychronicle.com/wire/business/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/article_57d94098-6724-5529-9416-d7f911ac195d.html": {
+    "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+    "first_seen": "2026-10-13",
+    "url": "https://www.bozemandailychronicle.com/wire/business/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/article_57d94098-6724-5529-9416-d7f911ac195d.html"
+  },
+  "u:https://eletric-vehicles.com/xpeng/xpeng-sets-second-half-2027-european-rollout-for-iron-humanoid-robot": {
+    "title": "XPeng Sets Second-Half 2027 European Rollout for IRON Humanoid Robot",
+    "first_seen": "2026-10-13",
+    "url": "https://eletric-vehicles.com/xpeng/xpeng-sets-second-half-2027-european-rollout-for-iron-humanoid-robot"
+  },
+  "u:https://www.meer.com/en/109211-the-age-of-humanoid-robots-begins": {
+    "title": "The age of humanoid robots begins | Meer",
+    "first_seen": "2026-10-13",
+    "url": "https://www.meer.com/en/109211-the-age-of-humanoid-robots-begins"
+  },
+  "u:https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout": {
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs | The Verge",
+    "first_seen": "2026-10-13",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+  },
+  "u:https://www.upi.com/Top_News/US/2026/10/12/microsoft-azure-maia-300-ai-chips-nvidia/3511791823960": {
+    "title": "Microsoft announces new AI chip Azure Maia 300 - UPI.com",
+    "first_seen": "2026-10-13",
+    "url": "https://www.upi.com/Top_News/US/2026/10/12/microsoft-azure-maia-300-ai-chips-nvidia/3511791823960"
+  },
+  "u:https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766": {
+    "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors - MarketWatch",
+    "first_seen": "2026-10-13",
+    "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766"
   }
 }
