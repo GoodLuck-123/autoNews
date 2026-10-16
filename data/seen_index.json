@@ -25008,5 +25008,370 @@
     "title": "Survey Finds AI-Generated Code Increases Debugging and Failure Rates and Creates a Comprehension Gap - InfoQ",
     "first_seen": "2026-10-14",
     "url": "https://www.infoq.com/news/2026/10/survey-complex-codebases-agents"
+  },
+  "u:https://doi.org/10.1021/acs.est.6c06045": {
+    "title": "Putting Large Language Models into Environmental Context",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.1021/acs.est.6c06045"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.18779": {
+    "title": "GAD: Geometry Attention Distillation for Consistent Video Generation",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.48550/arxiv.2610.18779"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.17625": {
+    "title": "4LC: 4D Latent Cache for Efficient Conditioning in Dynamic World Modeling",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.48550/arxiv.2610.17625"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.18447": {
+    "title": "Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.48550/arxiv.2610.18447"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.17605": {
+    "title": "PLEDGE: Progressive Lossy Error-Bounded Compression of 3D Gaussian Splatting",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.48550/arxiv.2610.17605"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.17936": {
+    "title": "PUGS: Physics-Guided Uncertainty Modeling for Underwater Dynamic 3D Gaussian Splatting",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.48550/arxiv.2610.17936"
+  },
+  "u:https://doi.org/10.1177/02783649261479363": {
+    "title": "Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.1177/02783649261479363"
+  },
+  "u:https://doi.org/10.2514/1.j066962": {
+    "title": "Diffusion Model Driven Airfoil Design: From Geometry Encoding to Practical Applications",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.2514/1.j066962"
+  },
+  "u:https://doi.org/10.1117/1.jmi.13.5.057002": {
+    "title": "Incorporating synthetic data from diffusion models supports echocardiography downstream tasks",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.1117/1.jmi.13.5.057002"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.18143": {
+    "title": "RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.48550/arxiv.2610.18143"
+  },
+  "u:https://doi.org/10.1007/978-3-032-36885-0_3": {
+    "title": "Steganography Without Modification: Hidden Communication via LLM Seeds",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.1007/978-3-032-36885-0_3"
+  },
+  "u:https://doi.org/10.21203/rs.3.rs-10374549/v1": {
+    "title": "Smells Like Prompt Spirit: Evaluating Energy Efficiency and Performance of Local LLM Inference on CPU vs GPU",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.21203/rs.3.rs-10374549/v1"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.18451": {
+    "title": "FastEEP: Fast Intra-Instance Elastic Scaling for Expert-Parallel MoE Serving",
+    "first_seen": "2026-10-16",
+    "url": "https://doi.org/10.48550/arxiv.2610.18451"
+  },
+  "u:https://huggingface.co/papers/2610.22194": {
+    "title": "AutoSFT: An Agentic System for Automated Data Research in Supervised Fine-Tuning",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.22194"
+  },
+  "u:https://huggingface.co/papers/2610.22347": {
+    "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.22347"
+  },
+  "u:https://huggingface.co/papers/2610.18829": {
+    "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.18829"
+  },
+  "u:https://huggingface.co/papers/2610.18461": {
+    "title": "MFVSR: A Multi-Style and Fine-Grained Benchmark for Video Subtitle Removal",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.18461"
+  },
+  "u:https://huggingface.co/papers/2610.21412": {
+    "title": "JevAgentHarness: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.21412"
+  },
+  "u:https://huggingface.co/papers/2610.19605": {
+    "title": "PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19605"
+  },
+  "u:https://huggingface.co/papers/2610.20818": {
+    "title": "Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.20818"
+  },
+  "u:https://huggingface.co/papers/2610.21359": {
+    "title": "SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.21359"
+  },
+  "u:https://huggingface.co/papers/2610.20828": {
+    "title": "CoTranslator: Reverse to Forward Chain-of-Thought Translator for Reasoning Distillation",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.20828"
+  },
+  "u:https://huggingface.co/papers/2610.20556": {
+    "title": "Speculative Sampling in Interactive Video Generation",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.20556"
+  },
+  "u:https://huggingface.co/papers/2610.19121": {
+    "title": "Unlocking Structured Pruning for Reasoning Language Models via Attention-Preserving MLP Trimming",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19121"
+  },
+  "u:https://huggingface.co/papers/2610.20526": {
+    "title": "Lluna: Collaborative Unimodal Models for Missing-Modality Inference",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.20526"
+  },
+  "u:https://huggingface.co/papers/2610.18762": {
+    "title": "Looking Complete Is Not Being Grounded: Evaluating LLM Sitreps Against Human-Authored Situation Reports",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.18762"
+  },
+  "u:https://huggingface.co/papers/2610.18755": {
+    "title": "PreciseCoder: Faithful and Generalizable Debugging Beyond Unit-Test Rewards",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.18755"
+  },
+  "u:https://huggingface.co/papers/2610.17301": {
+    "title": "The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.17301"
+  },
+  "u:https://huggingface.co/papers/2610.19128": {
+    "title": "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19128"
+  },
+  "u:https://huggingface.co/papers/2610.19628": {
+    "title": "Self-Conditioning Enables Deep Sequential Reasoning in Flow Matching",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19628"
+  },
+  "u:https://huggingface.co/papers/2610.19361": {
+    "title": "VLX-Go: Robust Embodied Tracking through Multi-Stage Learning and On-Policy Refinement",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19361"
+  },
+  "u:https://huggingface.co/papers/2610.19729": {
+    "title": "A Diagnostic Study of World-Space Human Recovery Under High Camera Dynamics",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19729"
+  },
+  "u:https://huggingface.co/papers/2610.18354": {
+    "title": "Choosing LLMs for Strategic Agent Interactions",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.18354"
+  },
+  "u:https://huggingface.co/papers/2610.19420": {
+    "title": "From Failures to Learnable Worlds: Policy-Conditioned Environment Generation for Navigation Agents",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19420"
+  },
+  "u:https://huggingface.co/papers/2610.20588": {
+    "title": "Your Transformer Is Secretly Elastic",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.20588"
+  },
+  "u:https://huggingface.co/papers/2610.20516": {
+    "title": "VASPO: Self-Distillation with Privileged Value Estimation",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.20516"
+  },
+  "u:https://huggingface.co/papers/2610.18638": {
+    "title": "To Align or Not To Align: Check Your COMPASS Before You Train",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.18638"
+  },
+  "u:https://huggingface.co/papers/2610.18598": {
+    "title": "Rethinking Projector Training in Multimodal LLMs",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.18598"
+  },
+  "u:https://huggingface.co/papers/2610.20137": {
+    "title": "StreamErase: Towards Ultra-Fast Streaming Video Erasing",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.20137"
+  },
+  "u:https://huggingface.co/papers/2610.20220": {
+    "title": "Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.20220"
+  },
+  "u:https://huggingface.co/papers/2610.20431": {
+    "title": "SwarmRSI: Recursive Self-Improvement through Evolving Scientific Agent Swarm",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.20431"
+  },
+  "u:https://huggingface.co/papers/2610.19422": {
+    "title": "AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19422"
+  },
+  "u:https://huggingface.co/papers/2610.19698": {
+    "title": "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19698"
+  },
+  "u:https://huggingface.co/papers/2610.19026": {
+    "title": "Joint Subspace Sparse Attention for Efficient Long-Context Decoding",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19026"
+  },
+  "u:https://huggingface.co/papers/2610.19726": {
+    "title": "Generative World Simulation with DAO and JING",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19726"
+  },
+  "u:https://huggingface.co/papers/2610.17771": {
+    "title": "Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.17771"
+  },
+  "u:https://huggingface.co/papers/2610.19696": {
+    "title": "Share the Symbol, Not the Vector: Training-Free Fact Communication Across Language Models",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/papers/2610.19696"
+  },
+  "u:https://github.com/lightseekorg/tokenspeed": {
+    "title": "lightseekorg/tokenspeed",
+    "first_seen": "2026-10-16",
+    "url": "https://github.com/lightseekorg/tokenspeed"
+  },
+  "u:https://github.com/xerj-org/xerj": {
+    "title": "xerj-org/xerj",
+    "first_seen": "2026-10-16",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  "u:https://openai.com/index/introducing-the-rosalind-academic-plan": {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "first_seen": "2026-10-16",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+  },
+  "u:https://openai.com/index/sullivan-cromwell": {
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "first_seen": "2026-10-16",
+    "url": "https://openai.com/index/sullivan-cromwell"
+  },
+  "u:https://openai.com/index/amp-beyond-coding": {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "first_seen": "2026-10-16",
+    "url": "https://openai.com/index/amp-beyond-coding"
+  },
+  "u:https://openai.com/index/sentinelone": {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "first_seen": "2026-10-16",
+    "url": "https://openai.com/index/sentinelone"
+  },
+  "u:https://openai.com/index/third-moment-research": {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "first_seen": "2026-10-16",
+    "url": "https://openai.com/index/third-moment-research"
+  },
+  "u:https://openai.com/index/block-ai-powered-security": {
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "first_seen": "2026-10-16",
+    "url": "https://openai.com/index/block-ai-powered-security"
+  },
+  "u:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+    "title": "The EU’s next chapter in AI is agentic",
+    "first_seen": "2026-10-16",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+  },
+  "u:https://huggingface.co/blog/meta-muse-spark-open": {
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "first_seen": "2026-10-16",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open"
+  },
+  "u:https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": {
+    "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+    "first_seen": "2026-10-16",
+    "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
+  },
+  "u:https://simonwillison.net/2026/Oct/14/tree-appreciator": {
+    "title": "Tree Appreciator",
+    "first_seen": "2026-10-16",
+    "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
+  },
+  "u:https://www.thewellnews.com/artificial-intelligence-2/openai-flags-concerning-new-ai-behavior-and-vows-to-track-it-more-closely": {
+    "title": "OpenAI Flags Concerning New AI Behavior and Vows to Track It More Closely | The Well News | Pragmatic, Governance, Fiscally Responsible, News & Analysis",
+    "first_seen": "2026-10-16",
+    "url": "https://www.thewellnews.com/artificial-intelligence-2/openai-flags-concerning-new-ai-behavior-and-vows-to-track-it-more-closely"
+  },
+  "u:https://www.aa.com.tr/en/world/meta-launches-new-ai-models-to-compete-with-openai-and-anthropic/4086955": {
+    "title": "Meta launches new AI models to compete with OpenAI and Anthropic",
+    "first_seen": "2026-10-16",
+    "url": "https://www.aa.com.tr/en/world/meta-launches-new-ai-models-to-compete-with-openai-and-anthropic/4086955"
+  },
+  "u:https://medium.com/@ai_93276/openai-devday-2026-the-business-decision-behind-the-new-models-and-agents-ba85bc4cba97": {
+    "title": "OpenAI DevDay 2026: The Business Decision Behind the New Models and Agents | by The Ai Consultancy | Oct, 2026 | Medium",
+    "first_seen": "2026-10-16",
+    "url": "https://medium.com/@ai_93276/openai-devday-2026-the-business-decision-behind-the-new-models-and-agents-ba85bc4cba97"
+  },
+  "u:https://www.rockefellerfoundation.org/news/rockefeller-openai-50-million-partnership-cities-improve-public-services-ai": {
+    "title": "Rockefeller Foundation, OpenAI Foundation Announce $50 Million Partnership To Help Cities Improve Public Services Through AI | RF",
+    "first_seen": "2026-10-16",
+    "url": "https://www.rockefellerfoundation.org/news/rockefeller-openai-50-million-partnership-cities-improve-public-services-ai"
+  },
+  "u:https://www.reuters.com/world/us/anthropic-add-us-voting-information-claude-before-midterms-2026-10-14": {
+    "title": "Anthropic to add US voting information to Claude before midterms | Reuters",
+    "first_seen": "2026-10-16",
+    "url": "https://www.reuters.com/world/us/anthropic-add-us-voting-information-claude-before-midterms-2026-10-14"
+  },
+  "u:https://www.malwarebytes.com/blog/ai/2026/10/police-receive-fake-murder-tip-from-anthropics-claude-ai": {
+    "title": "Police receive fake murder tip from Anthropic’s Claude AI | Malwarebytes",
+    "first_seen": "2026-10-16",
+    "url": "https://www.malwarebytes.com/blog/ai/2026/10/police-receive-fake-murder-tip-from-anthropics-claude-ai"
+  },
+  "u:https://finance.yahoo.com/technology/articles/humanoid-robot-output-climbs-toward-133000296.html": {
+    "title": "As Humanoid Robot Output Climbs Toward 100,000 Units, MES Inc. Outlines the Manufacturing Shift From Billet Machining to Volume Production",
+    "first_seen": "2026-10-16",
+    "url": "https://finance.yahoo.com/technology/articles/humanoid-robot-output-climbs-toward-133000296.html"
+  },
+  "u:https://www.forbes.com/sites/janeho/2026/10/12/forbes-global-ceo-conference-2026-chinese-ev-maker-xpeng-to-launch-humanoid-robots": {
+    "title": "Forbes Global CEO Conference 2026: Chinese EV Maker Xpeng To Launch Humanoid Robots",
+    "first_seen": "2026-10-16",
+    "url": "https://www.forbes.com/sites/janeho/2026/10/12/forbes-global-ceo-conference-2026-chinese-ev-maker-xpeng-to-launch-humanoid-robots"
+  },
+  "u:https://www.prnewswire.com/news-releases/yyforce-brings-humanoid-robots-to-hospitality-in-landmark-partnership-with-novotel--mercure-singapore-on-stevens-302906557.html": {
+    "title": "YYForce Brings Humanoid Robots to Hospitality in Landmark Partnership with Novotel & Mercure Singapore on Stevens",
+    "first_seen": "2026-10-16",
+    "url": "https://www.prnewswire.com/news-releases/yyforce-brings-humanoid-robots-to-hospitality-in-landmark-partnership-with-novotel--mercure-singapore-on-stevens-302906557.html"
+  },
+  "u:https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs": {
+    "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs | NVIDIA Newsroom",
+    "first_seen": "2026-10-16",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs"
+  },
+  "u:https://www.crn.com/news/components-peripherals/2026/6-big-intel-amd-and-nvidia-ai-data-center-announcements-at-ocp-2026": {
+    "title": "6 Big Intel, AMD And Nvidia AI Data Center Announcements At OCP 2026",
+    "first_seen": "2026-10-16",
+    "url": "https://www.crn.com/news/components-peripherals/2026/6-big-intel-amd-and-nvidia-ai-data-center-announcements-at-ocp-2026"
+  },
+  "u:https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026": {
+    "title": "Pi 1.0 Coding Agent: Open-Source Release Cuts Tokens 40%",
+    "first_seen": "2026-10-16",
+    "url": "https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026"
+  },
+  "u:https://www.prnewswire.com/news-releases/godaddy-expands-developer-platform-helping-ai-agents-and-developers-take-businesses-from-built-to-online-302908429.html": {
+    "title": "GoDaddy Expands Developer Platform, Helping AI Agents and Developers Take Businesses from Built to Online",
+    "first_seen": "2026-10-16",
+    "url": "https://www.prnewswire.com/news-releases/godaddy-expands-developer-platform-helping-ai-agents-and-developers-take-businesses-from-built-to-online-302908429.html"
+  },
+  "u:https://www.truckinginfo.com/news/samsara-launches-custom-ai-agent-builder": {
+    "title": "Samsara Launches Custom AI Agent Builder | Heavy Duty Trucking",
+    "first_seen": "2026-10-16",
+    "url": "https://www.truckinginfo.com/news/samsara-launches-custom-ai-agent-builder"
   }
 }
