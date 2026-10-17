@@ -25373,5 +25373,315 @@
     "title": "Samsara Launches Custom AI Agent Builder | Heavy Duty Trucking",
     "first_seen": "2026-10-16",
     "url": "https://www.truckinginfo.com/news/samsara-launches-custom-ai-agent-builder"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.20134": {
+    "title": "Tactile-Guided Robot Learning: From Representation Learning to Foundation Models",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.48550/arxiv.2610.20134"
+  },
+  "u:https://doi.org/10.1007/978-3-032-28469-3": {
+    "title": "Emerging Trends in Large Language Models",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.1007/978-3-032-28469-3"
+  },
+  "u:https://doi.org/10.1038/s44387-026-00159-2": {
+    "title": "Is there “Secret Sauce” in large language model development?",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.1038/s44387-026-00159-2"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.19795": {
+    "title": "StateCraft: Augmenting Video World Models with Abstract-State Reasoning",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.48550/arxiv.2610.19795"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.20124": {
+    "title": "DreamHMR: From Video Generation to Human Motion Modeling via Structural Focusing",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.48550/arxiv.2610.20124"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.19327": {
+    "title": "SonoWorld: Towards Interactive Pose-Controllable Ultrasound World Models",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.48550/arxiv.2610.19327"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.19746": {
+    "title": "One-shot Human Video-Guided Adaptation for Vision-Language-Action Models",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.48550/arxiv.2610.19746"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.20590": {
+    "title": "Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.48550/arxiv.2610.20590"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.19502": {
+    "title": "Holi-Spatial 360: Generative Reconstruction from Sparse Panoramas for Spatial Rendering and Intelligence",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.48550/arxiv.2610.19502"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.20218": {
+    "title": "Mixed Poisson diffusion models and application to posterior sampling",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.48550/arxiv.2610.20218"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.19405": {
+    "title": "Scaling LLM Inference via Parallelism: Throughput-Latency Trade-off",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.48550/arxiv.2610.19405"
+  },
+  "u:https://doi.org/10.5281/zenodo.23134684": {
+    "title": "RPS-Serve: Artifact for \"Rocks, Pebbles and Sand: Modality-aware Scheduling for Multimodal LLM Inference\" (SIGOPS ATC '26)",
+    "first_seen": "2026-10-17",
+    "url": "https://doi.org/10.5281/zenodo.23134684"
+  },
+  "u:https://huggingface.co/papers/2610.21185": {
+    "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21185"
+  },
+  "u:https://huggingface.co/papers/2610.21261": {
+    "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21261"
+  },
+  "u:https://huggingface.co/papers/2610.20680": {
+    "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.20680"
+  },
+  "u:https://huggingface.co/papers/2610.22280": {
+    "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22280"
+  },
+  "u:https://huggingface.co/papers/2610.20461": {
+    "title": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.20461"
+  },
+  "u:https://huggingface.co/papers/2610.22358": {
+    "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22358"
+  },
+  "u:https://huggingface.co/papers/2610.21025": {
+    "title": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21025"
+  },
+  "u:https://huggingface.co/papers/2610.22127": {
+    "title": "Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22127"
+  },
+  "u:https://huggingface.co/papers/2610.20993": {
+    "title": "One Bias Score, Two Factors: How Mitigations Affect Option Bias in Multiple-Choice Evaluation",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.20993"
+  },
+  "u:https://huggingface.co/papers/2610.22371": {
+    "title": "Gen4P: Video Generators are 4D Perceivers",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22371"
+  },
+  "u:https://huggingface.co/papers/2610.21500": {
+    "title": "When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21500"
+  },
+  "u:https://huggingface.co/papers/2610.22352": {
+    "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22352"
+  },
+  "u:https://huggingface.co/papers/2610.21095": {
+    "title": "Can World and Action Modeling Benefit Each Other under Unified Causal Training?",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21095"
+  },
+  "u:https://huggingface.co/papers/2610.22350": {
+    "title": "FDE-Gym: The Last Mile of AI Delivery",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22350"
+  },
+  "u:https://huggingface.co/papers/2610.21656": {
+    "title": "Data World: Scaling Data Environments from Scratch",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21656"
+  },
+  "u:https://huggingface.co/papers/2610.22355": {
+    "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22355"
+  },
+  "u:https://huggingface.co/papers/2610.20939": {
+    "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.20939"
+  },
+  "u:https://huggingface.co/papers/2610.19397": {
+    "title": "SERO: Learning from Executable Oracle Continuations for Long-Horizon Agentic Reinforcement Learning",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.19397"
+  },
+  "u:https://huggingface.co/papers/2610.21910": {
+    "title": "CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21910"
+  },
+  "u:https://huggingface.co/papers/2610.22200": {
+    "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22200"
+  },
+  "u:https://huggingface.co/papers/2610.22362": {
+    "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22362"
+  },
+  "u:https://huggingface.co/papers/2610.22276": {
+    "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22276"
+  },
+  "u:https://huggingface.co/papers/2610.21306": {
+    "title": "VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21306"
+  },
+  "u:https://huggingface.co/papers/2610.21601": {
+    "title": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21601"
+  },
+  "u:https://huggingface.co/papers/2610.22240": {
+    "title": "MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22240"
+  },
+  "u:https://huggingface.co/papers/2610.22344": {
+    "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22344"
+  },
+  "u:https://huggingface.co/papers/2610.21439": {
+    "title": "Each Reward to Its Relevant Tokens: Reward-Specific Token-Level Credit Assignment for Multi-Reward RL",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21439"
+  },
+  "u:https://huggingface.co/papers/2610.22322": {
+    "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22322"
+  },
+  "u:https://huggingface.co/papers/2610.20731": {
+    "title": "WorldCast: Exploring Intelligent Visual Generation in World State Prediction",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.20731"
+  },
+  "u:https://huggingface.co/papers/2610.22174": {
+    "title": "Mosaic: Multi-Session Agentic Reinforcement Learning",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.22174"
+  },
+  "u:https://huggingface.co/papers/2610.20509": {
+    "title": "VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.20509"
+  },
+  "u:https://huggingface.co/papers/2610.21453": {
+    "title": "CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21453"
+  },
+  "u:https://huggingface.co/papers/2610.17665": {
+    "title": "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.17665"
+  },
+  "u:https://huggingface.co/papers/2610.21463": {
+    "title": "Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents",
+    "first_seen": "2026-10-17",
+    "url": "https://huggingface.co/papers/2610.21463"
+  },
+  "u:https://github.com/android/skills": {
+    "title": "android/skills",
+    "first_seen": "2026-10-17",
+    "url": "https://github.com/android/skills"
+  },
+  "u:https://github.com/debpalash/VoiceStudio": {
+    "title": "debpalash/VoiceStudio",
+    "first_seen": "2026-10-17",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  "u:https://github.com/hmjz100/LinkSwift": {
+    "title": "hmjz100/LinkSwift",
+    "first_seen": "2026-10-17",
+    "url": "https://github.com/hmjz100/LinkSwift"
+  },
+  "u:https://openai.com/index/stack-overflow-chatgpt-plugin": {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "first_seen": "2026-10-17",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+  },
+  "u:https://simonwillison.net/2026/Oct/15/latex": {
+    "title": "LaTeX renderer",
+    "first_seen": "2026-10-17",
+    "url": "https://simonwillison.net/2026/Oct/15/latex/"
+  },
+  "u:https://consulting.sva.com/insights/openai-dev-day-2026-the-biggest-announcements": {
+    "title": "OpenAI Dev Day 2026: The Biggest Announcements",
+    "first_seen": "2026-10-17",
+    "url": "https://consulting.sva.com/insights/openai-dev-day-2026-the-biggest-announcements"
+  },
+  "u:https://www.facebook.com/NigerianTribune/posts/when-openai-announced-on-september-8-2026-that-it-had-solved-the-navierstokes-sm/1565783868910989": {
+    "title": "WHEN OpenAI announced on September 8, 2026, that it ...",
+    "first_seen": "2026-10-17",
+    "url": "https://www.facebook.com/NigerianTribune/posts/when-openai-announced-on-september-8-2026-that-it-had-solved-the-navierstokes-sm/1565783868910989"
+  },
+  "u:https://www.reddit.com/r/OpenAI/comments/1x2jll0/openai_and_anthropic_expect_a_catastrophe_by_2027": {
+    "title": "OpenAI and Anthropic expect a catastrophe by 2027, and ...",
+    "first_seen": "2026-10-17",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1x2jll0/openai_and_anthropic_expect_a_catastrophe_by_2027"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/microsoft-ai-chief-says-built-125729863.html": {
+    "title": "Microsoft’s AI Chief Says It Built a Better Model Than OpenAI’s With a Quarter of the Computing Power",
+    "first_seen": "2026-10-17",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-chief-says-built-125729863.html"
+  },
+  "u:https://shattered.io/anthropic-claude-usage-policy-arrest-ban-2026": {
+    "title": "Anthropic Bars Claude From Arrest Calls by Nov. 12",
+    "first_seen": "2026-10-17",
+    "url": "https://shattered.io/anthropic-claude-usage-policy-arrest-ban-2026"
+  },
+  "u:https://thenextweb.com/news/faraday-future-nova-humanoid-robots": {
+    "title": "Faraday Future unveils a $2,490 humanoid robot for developers and schools",
+    "first_seen": "2026-10-17",
+    "url": "https://thenextweb.com/news/faraday-future-nova-humanoid-robots"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/ff-eai-robotics-launches-2-105942663.html": {
+    "title": "FF EAI Robotics Launches $2,490 Humanoid Robot and Agrees $200 Million Acquisition of Faraday Future Robotics Assets",
+    "first_seen": "2026-10-17",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ff-eai-robotics-launches-2-105942663.html"
+  },
+  "u:https://tech-insider.org/nvidia-dlss-5-october-update-2x-faster-2026": {
+    "title": "Nvidia DLSS 5 Update: 2x Faster, 20% Less VRAM",
+    "first_seen": "2026-10-17",
+    "url": "https://tech-insider.org/nvidia-dlss-5-october-update-2x-faster-2026"
+  },
+  "u:https://www.citybiz.co/article/919085/band-launches-desktop-app-to-manage-multiple-ai-coding-agents-across-development-teams": {
+    "title": "BAND Launches Desktop App to Manage Multiple AI Coding Agents Across Development Teams | citybiz",
+    "first_seen": "2026-10-17",
+    "url": "https://www.citybiz.co/article/919085/band-launches-desktop-app-to-manage-multiple-ai-coding-agents-across-development-teams"
+  },
+  "u:https://siliconangle.com/2026/10/16/band-launches-desktop-app-for-developer-collaboration-and-control-of-multiple-ai-coding-agents": {
+    "title": "Band launches desktop app for developer collaboration and control of multiple AI coding agents - SiliconANGLE",
+    "first_seen": "2026-10-17",
+    "url": "https://siliconangle.com/2026/10/16/band-launches-desktop-app-for-developer-collaboration-and-control-of-multiple-ai-coding-agents"
+  },
+  "u:https://www.infoq.com/news/2026/10/chainguard-workspaces-checks": {
+    "title": "Chainguard Launches Secure Workspaces and Checks for AI Coding Agents - InfoQ",
+    "first_seen": "2026-10-17",
+    "url": "https://www.infoq.com/news/2026/10/chainguard-workspaces-checks"
   }
 }
