@@ -25683,5 +25683,85 @@
     "title": "Chainguard Launches Secure Workspaces and Checks for AI Coding Agents - InfoQ",
     "first_seen": "2026-10-17",
     "url": "https://www.infoq.com/news/2026/10/chainguard-workspaces-checks"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.22053": {
+    "title": "Name-Bias in Large Language Models",
+    "first_seen": "2026-10-18",
+    "url": "https://doi.org/10.48550/arxiv.2610.22053"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.21910": {
+    "title": "CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness",
+    "first_seen": "2026-10-18",
+    "url": "https://doi.org/10.48550/arxiv.2610.21910"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.21634": {
+    "title": "Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation",
+    "first_seen": "2026-10-18",
+    "url": "https://doi.org/10.48550/arxiv.2610.21634"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.21055": {
+    "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
+    "first_seen": "2026-10-18",
+    "url": "https://doi.org/10.48550/arxiv.2610.21055"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.22344": {
+    "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+    "first_seen": "2026-10-18",
+    "url": "https://doi.org/10.48550/arxiv.2610.22344"
+  },
+  "u:https://doi.org/10.47363/jeast/2026(8)386": {
+    "title": "From Rules to Autonomous Agents: The Evolution of Artificial Intelligence, Human-AI Integration, and the Governance of Agentic Systems-A Review",
+    "first_seen": "2026-10-18",
+    "url": "https://doi.org/10.47363/jeast/2026(8)386"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.21267": {
+    "title": "TRACER: Trajectory-Aware Tool Retrieval for LLM Agents",
+    "first_seen": "2026-10-18",
+    "url": "https://doi.org/10.48550/arxiv.2610.21267"
+  },
+  "u:https://doi.org/10.64898/2026.10.09.758136": {
+    "title": "Protein Deimmunization with a Generative Diffusion Model",
+    "first_seen": "2026-10-18",
+    "url": "https://doi.org/10.64898/2026.10.09.758136"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.21815": {
+    "title": "Exact Makespan Bounds and the GPipe Homogeneity Bias for Heterogeneous LLM Inference Pipelines",
+    "first_seen": "2026-10-18",
+    "url": "https://doi.org/10.48550/arxiv.2610.21815"
+  },
+  "u:https://github.com/stablyai/orca": {
+    "title": "stablyai/orca",
+    "first_seen": "2026-10-18",
+    "url": "https://github.com/stablyai/orca"
+  },
+  "u:https://www.reuters.com/legal/litigation/uk-given-access-safety-test-latest-ai-models-minister-says-2026-10-12": {
+    "title": "UK given access to safety-test latest AI models, minister says | Reuters",
+    "first_seen": "2026-10-18",
+    "url": "https://www.reuters.com/legal/litigation/uk-given-access-safety-test-latest-ai-models-minister-says-2026-10-12"
+  },
+  "u:https://247wallst.com/investing/2026/10/16/microsofts-ai-chief-says-it-built-a-better-model-than-openais-with-a-quarter-of-the-computing-power": {
+    "title": "Microsoft’s AI Chief Says It Built a Better Model Than OpenAI’s With a Quarter of the Computing Power - 24/7 Wall St.",
+    "first_seen": "2026-10-18",
+    "url": "https://247wallst.com/investing/2026/10/16/microsofts-ai-chief-says-it-built-a-better-model-than-openais-with-a-quarter-of-the-computing-power"
+  },
+  "u:https://tech-insider.org/claude-opus-6-rumors-openai-bell-2026": {
+    "title": "Claude Opus 6 Rumors vs OpenAI Bell: What We Know [2026]",
+    "first_seen": "2026-10-18",
+    "url": "https://tech-insider.org/claude-opus-6-rumors-openai-bell-2026"
+  },
+  "u:https://www.tradingview.com/news/prnewswire:0105d879fc746:0-from-bank-back-offices-to-power-grids-frontier-ai-labs-push-deeper-into-the-enterprise": {
+    "title": "From Bank Back Offices to Power Grids, Frontier AI Labs Push Deeper Into the Enterprise — TradingView News",
+    "first_seen": "2026-10-18",
+    "url": "https://www.tradingview.com/news/prnewswire:0105d879fc746:0-from-bank-back-offices-to-power-grids-frontier-ai-labs-push-deeper-into-the-enterprise"
+  },
+  "u:https://www.gadgetreview.com/anthropic-brings-official-voting-data-into-claude-for-2026-midterms": {
+    "title": "Anthropic Brings Official Voting Data Into Claude for 2026 Midterms - Gadget Review",
+    "first_seen": "2026-10-18",
+    "url": "https://www.gadgetreview.com/anthropic-brings-official-voting-data-into-claude-for-2026-midterms"
+  },
+  "u:https://www.rutlandherald.com/news/business/faraday-future-and-ffr-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below/article_9e987346-9ec5-52a8-8ce6-bd521178fce6.html": {
+    "title": "Faraday Future and FFR Jointly Launch FF Nova, First Embodied AI Humanoid Robot Priced Below $2,500 in U.S., FF Nova Mini, Physical AI Spark Program Curriculum, Nova Reinforcement Learning Developer Program and Developer Community Recruitment | Business | rutlandherald.com",
+    "first_seen": "2026-10-18",
+    "url": "https://www.rutlandherald.com/news/business/faraday-future-and-ffr-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below/article_9e987346-9ec5-52a8-8ce6-bd521178fce6.html"
   }
 }
