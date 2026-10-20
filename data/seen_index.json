@@ -26423,5 +26423,90 @@
     "title": "Coding Agents Without Cloud Credentials | LocalStack",
     "first_seen": "2026-10-19",
     "url": "https://futurumgroup.com/insights/localstack-for-azure-a-sandbox-for-coding-agents-without-cloud-credentials"
+  },
+  "u:https://huggingface.co/papers/2610.25666": {
+    "title": "Frechet Forcing: Training Long-Horizon Streaming World Models from Short Clips",
+    "first_seen": "2026-10-20",
+    "url": "https://huggingface.co/papers/2610.25666"
+  },
+  "u:https://huggingface.co/papers/2610.25296": {
+    "title": "World Model Interpretability: From Decoding Representations to Understanding Latent Worlds",
+    "first_seen": "2026-10-20",
+    "url": "https://huggingface.co/papers/2610.25296"
+  },
+  "u:https://huggingface.co/papers/2610.25404": {
+    "title": "MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing with Autoregressive Diffusion",
+    "first_seen": "2026-10-20",
+    "url": "https://huggingface.co/papers/2610.25404"
+  },
+  "u:https://github.com/headroomlabs-ai/headroom": {
+    "title": "headroomlabs-ai/headroom",
+    "first_seen": "2026-10-20",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  "u:https://github.com/HKUDS/CLI-Anything": {
+    "title": "HKUDS/CLI-Anything",
+    "first_seen": "2026-10-20",
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  "u:https://openai.com/index/low-resource-programming-languages": {
+    "title": "Advancing coding in low‑resource programming languages",
+    "first_seen": "2026-10-20",
+    "url": "https://openai.com/index/low-resource-programming-languages"
+  },
+  "u:https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": {
+    "title": "My obituary for programming",
+    "first_seen": "2026-10-20",
+    "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
+  },
+  "u:https://mixed-news.com/en/openai-rosalind-academic-plan-30-free-seats-us-universities": {
+    "title": "OpenAI gives US university labs 30 free seats, and gates GPT-Rosalind on top",
+    "first_seen": "2026-10-20",
+    "url": "https://mixed-news.com/en/openai-rosalind-academic-plan-30-free-seats-us-universities"
+  },
+  "u:https://simplywall.st/community/narratives/ch/tech/vtx-swon/softwareone-holding-shares/cujuldh6-analyst-commentary-highlights-modest-optimism-as-softwareone-holding-sees-slight-price-target-increase/updates/15-analysts-have-increased-their-fair-value-estimate-and-relate": {
+    "title": "SWON: AI Partnerships And Steady Guidance Keep Equity Upside Intact",
+    "first_seen": "2026-10-20",
+    "url": "https://simplywall.st/community/narratives/ch/tech/vtx-swon/softwareone-holding-shares/cujuldh6-analyst-commentary-highlights-modest-optimism-as-softwareone-holding-sees-slight-price-target-increase/updates/15-analysts-have-increased-their-fair-value-estimate-and-relate"
+  },
+  "u:https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes": {
+    "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+    "first_seen": "2026-10-20",
+    "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes"
+  },
+  "u:https://www.instagram.com/reel/Deh9RWETRk_": {
+    "title": "Instagram",
+    "first_seen": "2026-10-20",
+    "url": "https://www.instagram.com/reel/Deh9RWETRk_"
+  },
+  "u:https://www.thenation.com/article/society/ai-anthropic-claude": {
+    "title": "Anthropic Wants You to Be Kind to Claude | The Nation",
+    "first_seen": "2026-10-20",
+    "url": "https://www.thenation.com/article/society/ai-anthropic-claude"
+  },
+  "u:https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654": {
+    "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+    "first_seen": "2026-10-20",
+    "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654"
+  },
+  "u:https://www.prnewswire.com/news-releases/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below-2-500-in-us-ff-nova-mini-physical-ai-spark-program-curriculum-nova-reinforcement-learning-developer-program-and-developer-com-302910863.html": {
+    "title": "FF EAI Robotics (FFR) and FF Jointly Launch FF Nova, First Embodied AI Humanoid Robot Priced Below $2,500 in U.S., FF Nova Mini, Physical AI Spark Program Curriculum, Nova Reinforcement Learning Developer Program and Developer Community Recruitment",
+    "first_seen": "2026-10-20",
+    "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below-2-500-in-us-ff-nova-mini-physical-ai-spark-program-curriculum-nova-reinforcement-learning-developer-program-and-developer-com-302910863.html"
+  },
+  "u:https://www.techrepublic.com/article/news-faraday-future-ff-nova-humanoid-robots": {
+    "title": "Faraday Future Launches $2,490 Humanoid Robot and $299 Mini",
+    "first_seen": "2026-10-20",
+    "url": "https://www.techrepublic.com/article/news-faraday-future-ff-nova-humanoid-robots"
+  },
+  "u:https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs": {
+    "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs | NVIDIA Newsroom",
+    "first_seen": "2026-10-20",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs"
+  },
+  "u:https://finance.yahoo.com/technology/article/nvidia-debuts-three-new-open-ai-models-150000191.html": {
+    "title": "Nvidia debuts three new open AI models",
+    "first_seen": "2026-10-20",
+    "url": "https://finance.yahoo.com/technology/article/nvidia-debuts-three-new-open-ai-models-150000191.html"
   }
 }
