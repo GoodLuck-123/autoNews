@@ -26508,5 +26508,240 @@
     "title": "Nvidia debuts three new open AI models",
     "first_seen": "2026-10-20",
     "url": "https://finance.yahoo.com/technology/article/nvidia-debuts-three-new-open-ai-models-150000191.html"
+  },
+  "u:https://doi.org/10.3390/app162010357": {
+    "title": "MEP-3DGS: Multi-Scale Pyramid Optimization and Event-Aware Masking for Efficient Motion-Deblurred 3D Gaussian Splatting",
+    "first_seen": "2026-10-21",
+    "url": "https://doi.org/10.3390/app162010357"
+  },
+  "u:https://doi.org/10.1007/978-981-92-6913-6_29": {
+    "title": "Cognitive Oversight and Governance for LLM-Driven Autonomous Agents: A Human-Centered Framework for Transparency and Accountability",
+    "first_seen": "2026-10-21",
+    "url": "https://doi.org/10.1007/978-981-92-6913-6_29"
+  },
+  "u:https://huggingface.co/papers/2610.26681": {
+    "title": "From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.26681"
+  },
+  "u:https://huggingface.co/papers/2610.25043": {
+    "title": "VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.25043"
+  },
+  "u:https://huggingface.co/papers/2610.28578": {
+    "title": "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.28578"
+  },
+  "u:https://huggingface.co/papers/2610.28630": {
+    "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.28630"
+  },
+  "u:https://huggingface.co/papers/2610.26203": {
+    "title": "Focused Omni-Modal GUI Agents",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.26203"
+  },
+  "u:https://huggingface.co/papers/2610.27334": {
+    "title": "EMBER: Predicting TCR--pMHC Binding Without a Docked Complex",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.27334"
+  },
+  "u:https://huggingface.co/papers/2610.27911": {
+    "title": "MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.27911"
+  },
+  "u:https://huggingface.co/papers/2610.25765": {
+    "title": "TRACE: Tracking Multimodal Clinical Trajectories for Inpatient Risk Prediction",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.25765"
+  },
+  "u:https://huggingface.co/papers/2610.26754": {
+    "title": "TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.26754"
+  },
+  "u:https://huggingface.co/papers/2610.25288": {
+    "title": "Vision as Proprioception: Estimating Humanoid Robot Pose from Video",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.25288"
+  },
+  "u:https://huggingface.co/papers/2610.25159": {
+    "title": "Legal Guidance in the Wild: How Users Seek Legal Help in Real-World LLM Conversations",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.25159"
+  },
+  "u:https://huggingface.co/papers/2610.25525": {
+    "title": "StopLoss: Teaching Agents to Predict Failure and Stop Early",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.25525"
+  },
+  "u:https://huggingface.co/papers/2604.11331": {
+    "title": "Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2604.11331"
+  },
+  "u:https://huggingface.co/papers/2610.25964": {
+    "title": "Token-Set Choice Confounds POPE: A Systematic Audit of Yes/No Extraction in VLM Hallucination Evaluation",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.25964"
+  },
+  "u:https://huggingface.co/papers/2610.26663": {
+    "title": "RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.26663"
+  },
+  "u:https://huggingface.co/papers/2610.25060": {
+    "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.25060"
+  },
+  "u:https://huggingface.co/papers/2610.26825": {
+    "title": "MemT-1.0: Towards Memory-Native Evolution",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.26825"
+  },
+  "u:https://huggingface.co/papers/2610.25861": {
+    "title": "ActionRoPE: action as coordinates for spatially consistent control in planar-camera game world models",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.25861"
+  },
+  "u:https://huggingface.co/papers/2610.26848": {
+    "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.26848"
+  },
+  "u:https://huggingface.co/papers/2610.25011": {
+    "title": "FineSplat: Fine Patches, Local Groups, Detailed Splats",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.25011"
+  },
+  "u:https://huggingface.co/papers/2610.26834": {
+    "title": "Kronecker Delta Rule for Long Context Linear Attention",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.26834"
+  },
+  "u:https://huggingface.co/papers/2610.26824": {
+    "title": "SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.26824"
+  },
+  "u:https://huggingface.co/papers/2610.26863": {
+    "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.26863"
+  },
+  "u:https://github.com/Graphify-Labs/graphify": {
+    "title": "Graphify-Labs/graphify",
+    "first_seen": "2026-10-21",
+    "url": "https://github.com/Graphify-Labs/graphify"
+  },
+  "u:https://github.com/wshobson/agents": {
+    "title": "wshobson/agents",
+    "first_seen": "2026-10-21",
+    "url": "https://github.com/wshobson/agents"
+  },
+  "u:https://github.com/sickn33/agentic-awesome-skills": {
+    "title": "sickn33/agentic-awesome-skills",
+    "first_seen": "2026-10-21",
+    "url": "https://github.com/sickn33/agentic-awesome-skills"
+  },
+  "u:https://github.com/shiyu-coder/Kronos": {
+    "title": "shiyu-coder/Kronos",
+    "first_seen": "2026-10-21",
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  "u:https://github.com/vllm-project/vllm": {
+    "title": "vllm-project/vllm",
+    "first_seen": "2026-10-21",
+    "url": "https://github.com/vllm-project/vllm"
+  },
+  "u:https://openai.com/index/ted-taylor-restaurant": {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "first_seen": "2026-10-21",
+    "url": "https://openai.com/index/ted-taylor-restaurant"
+  },
+  "u:https://openai.com/index/terminal-x": {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "first_seen": "2026-10-21",
+    "url": "https://openai.com/index/terminal-x"
+  },
+  "u:https://openai.com/index/openai-to-acquire-orchestra-bio": {
+    "title": "OpenAI acquires Orchestra Bio",
+    "first_seen": "2026-10-21",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+  },
+  "u:https://huggingface.co/blog/nvidia/cosmos3-h-dreams": {
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+  },
+  "u:https://huggingface.co/blog/allenai/fairstress": {
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/blog/allenai/fairstress"
+  },
+  "u:https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+  },
+  "u:https://huggingface.co/blog/hf-torchtpu": {
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "first_seen": "2026-10-21",
+    "url": "https://huggingface.co/blog/hf-torchtpu"
+  },
+  "u:https://simonwillison.net/2026/Oct/20/battledrones": {
+    "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+    "first_seen": "2026-10-21",
+    "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
+  },
+  "u:https://www.thurrott.com/a-i/openai-a-i/343049/openai-launches-a-coding-model-for-older-programming-languages": {
+    "title": "OpenAI Launches a Coding Model for Older Programming Languages - Thurrott.com",
+    "first_seen": "2026-10-21",
+    "url": "https://www.thurrott.com/a-i/openai-a-i/343049/openai-launches-a-coding-model-for-older-programming-languages"
+  },
+  "u:https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10": {
+    "title": "Microsoft AI CEO Says New Model Beats OpenAI Using Less Compute - Business Insider",
+    "first_seen": "2026-10-21",
+    "url": "https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10"
+  },
+  "u:https://tech-insider.org/openai-api-key-gpt-6-1-sol-setup-2026": {
+    "title": "OpenAI API Key Setup: Call GPT-6.1 Sol [2026]",
+    "first_seen": "2026-10-21",
+    "url": "https://tech-insider.org/openai-api-key-gpt-6-1-sol-setup-2026"
+  },
+  "u:https://www.gartner.com/en/insights/gartner-first-takes/anthropic-convergence-shadow-ai": {
+    "title": "First Take: Anthropic’s Claude Convergence Makes Shadow AI Harder to Contain",
+    "first_seen": "2026-10-21",
+    "url": "https://www.gartner.com/en/insights/gartner-first-takes/anthropic-convergence-shadow-ai"
+  },
+  "u:https://www.foxnews.com/tech/anthropic-ai-sends-fake-murder-tip-philadelphia-police": {
+    "title": "Anthropic's Claude AI submits false murder tip to Philadelphia police | Fox News",
+    "first_seen": "2026-10-21",
+    "url": "https://www.foxnews.com/tech/anthropic-ai-sends-fake-murder-tip-philadelphia-police"
+  },
+  "u:https://aimagazine.com/news/anthropic-claude-enterprise-ai-agents-and-965bn-valuation": {
+    "title": "Anthropic: Claude, Enterprise AI Agents and $965bn Valuation | AI Magazine",
+    "first_seen": "2026-10-21",
+    "url": "https://aimagazine.com/news/anthropic-claude-enterprise-ai-agents-and-965bn-valuation"
+  },
+  "u:https://www.unite.ai/agility-robotics-signs-agco-deal-to-pilot-digit-humanoid-robots": {
+    "title": "Agility Robotics Signs AGCO Deal to Pilot Digit Humanoid Robots – Unite.AI",
+    "first_seen": "2026-10-21",
+    "url": "https://www.unite.ai/agility-robotics-signs-agco-deal-to-pilot-digit-humanoid-robots"
+  },
+  "u:https://www.kucoin.com/news/flash/chery-to-launch-industry-specific-ai-model-and-humanoid-robot-mobao-at-global-innovation-conference": {
+    "title": "Chery to Launch Industry-Specific AI Model and Humanoid Robot 'Mobao' at Global Innovation Conference",
+    "first_seen": "2026-10-21",
+    "url": "https://www.kucoin.com/news/flash/chery-to-launch-industry-specific-ai-model-and-humanoid-robot-mobao-at-global-innovation-conference"
+  },
+  "u:https://tech-insider.org/google-torchtpu-nvidia-gpu-lock-in-2026": {
+    "title": "Google's TorchTPU Takes On Nvidia GPU Lock-In [2026]",
+    "first_seen": "2026-10-21",
+    "url": "https://tech-insider.org/google-torchtpu-nvidia-gpu-lock-in-2026"
   }
 }
