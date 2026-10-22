@@ -26743,5 +26743,330 @@
     "title": "Google's TorchTPU Takes On Nvidia GPU Lock-In [2026]",
     "first_seen": "2026-10-21",
     "url": "https://tech-insider.org/google-torchtpu-nvidia-gpu-lock-in-2026"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.25596": {
+    "title": "Cognitive Map in Large Language Models",
+    "first_seen": "2026-10-22",
+    "url": "https://doi.org/10.48550/arxiv.2610.25596"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.26711": {
+    "title": "PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements",
+    "first_seen": "2026-10-22",
+    "url": "https://doi.org/10.48550/arxiv.2610.26711"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.25763": {
+    "title": "TrajWAM: An Efficient Trajectory-Guided World Action Model for Dynamic Robotic Manipulation",
+    "first_seen": "2026-10-22",
+    "url": "https://doi.org/10.48550/arxiv.2610.25763"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.26069": {
+    "title": "Risk Decomposition for Hallucination-Aware Video Sampling",
+    "first_seen": "2026-10-22",
+    "url": "https://doi.org/10.48550/arxiv.2610.26069"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.26338": {
+    "title": "SplatXR: A Toolkit for Multi-Layered Extended Reality via On-Headset 3D Gaussian Splatting",
+    "first_seen": "2026-10-22",
+    "url": "https://doi.org/10.48550/arxiv.2610.26338"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.26475": {
+    "title": "3D Diffusion Models for Medical Imaging",
+    "first_seen": "2026-10-22",
+    "url": "https://doi.org/10.48550/arxiv.2610.26475"
+  },
+  "u:https://doi.org/10.1088/2632-2153/aeb69d": {
+    "title": "Disentangling total-variance and signal-to-noise-ratio improves diffusion models",
+    "first_seen": "2026-10-22",
+    "url": "https://doi.org/10.1088/2632-2153/aeb69d"
+  },
+  "u:https://doi.org/10.21203/rs.3.rs-11101926/v1": {
+    "title": "Per-Node Performance and Memory Limits of LLM Inference on CPU-Only Edge Nodes",
+    "first_seen": "2026-10-22",
+    "url": "https://doi.org/10.21203/rs.3.rs-11101926/v1"
+  },
+  "u:https://huggingface.co/papers/2610.28589": {
+    "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28589"
+  },
+  "u:https://huggingface.co/papers/2610.29357": {
+    "title": "Memory-Centric Continual Learning for AI Agents",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.29357"
+  },
+  "u:https://huggingface.co/papers/2610.27040": {
+    "title": "ACE-Brain-0.6: Scaling Spatial Grounding for Physical Foundation Models",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.27040"
+  },
+  "u:https://huggingface.co/papers/2610.29441": {
+    "title": "Sparsity Should Be ALLOTted by Output: Training-Free Allocation of Block-Sparse Attention for Video Diffusion Transformers",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.29441"
+  },
+  "u:https://huggingface.co/papers/2610.29989": {
+    "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.29989"
+  },
+  "u:https://huggingface.co/papers/2610.29434": {
+    "title": "RubatoCodec: Budgeted Adaptive Speech Tokenization with Streaming Decoding",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.29434"
+  },
+  "u:https://huggingface.co/papers/2610.28577": {
+    "title": "Cache Engineering for Agents",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28577"
+  },
+  "u:https://huggingface.co/papers/2610.30120": {
+    "title": "ALPS: Visual State Encoders for World Models",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.30120"
+  },
+  "u:https://huggingface.co/papers/2610.30090": {
+    "title": "VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.30090"
+  },
+  "u:https://huggingface.co/papers/2610.27227": {
+    "title": "Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.27227"
+  },
+  "u:https://huggingface.co/papers/2610.29458": {
+    "title": "Harness Scaling for Generalizable Agentic Reinforcement Learning",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.29458"
+  },
+  "u:https://huggingface.co/papers/2610.27450": {
+    "title": "Ask to Distill: Learning to Synthesize Data for On-Policy Distillation",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.27450"
+  },
+  "u:https://huggingface.co/papers/2603.19233": {
+    "title": "Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2603.19233"
+  },
+  "u:https://huggingface.co/papers/2610.28069": {
+    "title": "Training the Whole Agent, Not Just the Model",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28069"
+  },
+  "u:https://huggingface.co/papers/2610.27914": {
+    "title": "World Models with Configurable Perception",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.27914"
+  },
+  "u:https://huggingface.co/papers/2610.28388": {
+    "title": "Self-Credit: Credit Assignment for Long-Horizon Agentic RL via Intra-group Rescaling",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28388"
+  },
+  "u:https://huggingface.co/papers/2610.28074": {
+    "title": "Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28074"
+  },
+  "u:https://huggingface.co/papers/2610.26857": {
+    "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.26857"
+  },
+  "u:https://huggingface.co/papers/2610.28284": {
+    "title": "HRoPE: Homography Relative Positional Encoding",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28284"
+  },
+  "u:https://huggingface.co/papers/2610.28554": {
+    "title": "OverSeer: Multi-Agent World Models Beyond What Agents See",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28554"
+  },
+  "u:https://huggingface.co/papers/2610.27190": {
+    "title": "On the Fragility of Tasks under Composition: Implicit Budgeting in Language Models",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.27190"
+  },
+  "u:https://huggingface.co/papers/2610.26711": {
+    "title": "PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.26711"
+  },
+  "u:https://huggingface.co/papers/2610.27327": {
+    "title": "Unsupervised Tool Evolution for Coding Agents in Data-Lake Analytics",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.27327"
+  },
+  "u:https://huggingface.co/papers/2610.28632": {
+    "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28632"
+  },
+  "u:https://huggingface.co/papers/2610.27360": {
+    "title": "On the Limits of Scale: Inverse Scaling in Vision-Language Models",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.27360"
+  },
+  "u:https://huggingface.co/papers/2610.26837": {
+    "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.26837"
+  },
+  "u:https://huggingface.co/papers/2610.28601": {
+    "title": "Evolving Agent Interfaces",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28601"
+  },
+  "u:https://huggingface.co/papers/2511.14102": {
+    "title": "Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2511.14102"
+  },
+  "u:https://huggingface.co/papers/2610.28435": {
+    "title": "Multimodal Reranking Is a System One Decision",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.28435"
+  },
+  "u:https://huggingface.co/papers/2610.26426": {
+    "title": "HarnessRL: Co-Evolving Policies with a Just-in-Time Training Harness for Open-Ended RL",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.26426"
+  },
+  "u:https://openai.com/index/att-legal": {
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "first_seen": "2026-10-22",
+    "url": "https://openai.com/index/att-legal"
+  },
+  "u:https://openai.com/index/broad-access-through-consistent-standards": {
+    "title": "Broad access through consistent standards",
+    "first_seen": "2026-10-22",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards"
+  },
+  "u:https://openai.com/index/openai-models-google-cloud": {
+    "title": "OpenAI models are coming to Google Cloud",
+    "first_seen": "2026-10-22",
+    "url": "https://openai.com/index/openai-models-google-cloud"
+  },
+  "u:https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "first_seen": "2026-10-22",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+  },
+  "u:https://openai.com/index/chatgpt-ads-expands-26-new-countries": {
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "first_seen": "2026-10-22",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+  },
+  "u:https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "first_seen": "2026-10-22",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
+  },
+  "u:https://openai.com/index/cloudflare-cyber": {
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "first_seen": "2026-10-22",
+    "url": "https://openai.com/index/cloudflare-cyber"
+  },
+  "u:https://openai.com/index/building-chatgpt-ad-stack": {
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "first_seen": "2026-10-22",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack"
+  },
+  "u:https://openai.com/index/empowering-cyber-defenders": {
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "first_seen": "2026-10-22",
+    "url": "https://openai.com/index/empowering-cyber-defenders"
+  },
+  "u:https://huggingface.co/blog/nvidia/kumo-relational": {
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "first_seen": "2026-10-22",
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational"
+  },
+  "u:https://simonwillison.net/2026/Oct/21/php-security-release": {
+    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+    "first_seen": "2026-10-22",
+    "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
+  },
+  "u:https://tech-insider.org/openai-models-google-cloud-big-3-2026": {
+    "title": "OpenAI Models Hit Google Cloud, Big 3 Complete",
+    "first_seen": "2026-10-22",
+    "url": "https://tech-insider.org/openai-models-google-cloud-big-3-2026"
+  },
+  "u:https://qz.com/openai-google-cloud-ai-models-codex-coming-weeks-102126": {
+    "title": "OpenAI to offer its AI models and Codex tools on Google Cloud",
+    "first_seen": "2026-10-22",
+    "url": "https://qz.com/openai-google-cloud-ai-models-codex-coming-weeks-102126"
+  },
+  "u:https://sqmagazine.co.uk/google-cloud-brings-openai-models-to-customers": {
+    "title": "Google Cloud Brings OpenAI Models to Enterprise Customers",
+    "first_seen": "2026-10-22",
+    "url": "https://sqmagazine.co.uk/google-cloud-brings-openai-models-to-customers"
+  },
+  "u:https://9to5google.com/2026/10/21/openai-gpt-models-google-antigravity-cloud": {
+    "title": "OpenAI models are coming to Google Antigravity and Cloud",
+    "first_seen": "2026-10-22",
+    "url": "https://9to5google.com/2026/10/21/openai-gpt-models-google-antigravity-cloud"
+  },
+  "u:https://tech-insider.org/claude-code-plugins-official-mods-cloud-sessions-2026": {
+    "title": "Claude Code Plugins Go Official at v2.1.302 [2026]",
+    "first_seen": "2026-10-22",
+    "url": "https://tech-insider.org/claude-code-plugins-official-mods-cloud-sessions-2026"
+  },
+  "u:https://tech-insider.org/claude-duet-anthropic-opus-5-5-agent-vs-muse-2026": {
+    "title": "Claude Duet: Anthropic Opus 5.5 Agent Rivals Muse",
+    "first_seen": "2026-10-22",
+    "url": "https://tech-insider.org/claude-duet-anthropic-opus-5-5-agent-vs-muse-2026"
+  },
+  "u:https://shattered.io/claude-duet-anthropic-ai-agent-opus-5-5-2026": {
+    "title": "Claude Duet: Anthropic Agent Takes on Muse [2026]",
+    "first_seen": "2026-10-22",
+    "url": "https://shattered.io/claude-duet-anthropic-ai-agent-opus-5-5-2026"
+  },
+  "u:https://www.unite.ai/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security": {
+    "title": "Anthropic Adds Continuous Scanning and Fix Tracking to Claude Security – Unite.AI",
+    "first_seen": "2026-10-22",
+    "url": "https://www.unite.ai/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security"
+  },
+  "u:https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj": {
+    "title": "Anthropic posts $80bn loss in first half of 2026: WSJ | Technology News | Al Jazeera",
+    "first_seen": "2026-10-22",
+    "url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/born-open-roboparty-launches-rp1-170000590.html": {
+    "title": "Born to Be Open: RoboParty Launches RP1, a Full-Stack Open-Source Humanoid",
+    "first_seen": "2026-10-22",
+    "url": "https://finance.yahoo.com/technology/ai/articles/born-open-roboparty-launches-rp1-170000590.html"
+  },
+  "u:https://www.shacknews.com/article/151108/tesla-optimus-robot-delay-end-of-2027": {
+    "title": "Elon Musk says Tesla Optimus Robot will ship to outside customers by end of 2027 | Shacknews",
+    "first_seen": "2026-10-22",
+    "url": "https://www.shacknews.com/article/151108/tesla-optimus-robot-delay-end-of-2027"
+  },
+  "u:https://www.facebook.com/SpaceFP/posts/-tesla-teases-a-new-version-of-optimus-tesla-appears-to-have-revealed-a-new-vers/1162519309629457": {
+    "title": "TESLA TEASES A NEW VERSION OF OPTIMUS ...",
+    "first_seen": "2026-10-22",
+    "url": "https://www.facebook.com/SpaceFP/posts/-tesla-teases-a-new-version-of-optimus-tesla-appears-to-have-revealed-a-new-vers/1162519309629457"
+  },
+  "u:https://shattered.io/nvidia-nokia-ai-ran-nearly-20-telcos-2026": {
+    "title": "NVIDIA, Nokia AI-RAN Reaches Nearly 20 Telcos [2026]",
+    "first_seen": "2026-10-22",
+    "url": "https://shattered.io/nvidia-nokia-ai-ran-nearly-20-telcos-2026"
+  },
+  "u:https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx": {
+    "title": "European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX | NVIDIA Newsroom",
+    "first_seen": "2026-10-22",
+    "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx"
+  },
+  "u:https://tech-insider.org/intel-amd-stock-nvidia-pc-chip-2026": {
+    "title": "Nvidia Rises 0.4% as Intel, AMD Slide on PC Chip",
+    "first_seen": "2026-10-22",
+    "url": "https://tech-insider.org/intel-amd-stock-nvidia-pc-chip-2026"
+  },
+  "u:https://www.stocktitan.net/articles/nvidia-gtc-berlin-ai-data-centers-water-power": {
+    "title": "Nvidia GTC Berlin Data Center Water Use, Faster Builds and AI Chip Supply",
+    "first_seen": "2026-10-22",
+    "url": "https://www.stocktitan.net/articles/nvidia-gtc-berlin-ai-data-centers-water-power"
   }
 }
