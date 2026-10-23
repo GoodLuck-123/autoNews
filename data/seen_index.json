@@ -27068,5 +27068,335 @@
     "title": "Nvidia GTC Berlin Data Center Water Use, Faster Builds and AI Chip Supply",
     "first_seen": "2026-10-22",
     "url": "https://www.stocktitan.net/articles/nvidia-gtc-berlin-ai-data-centers-water-power"
+  },
+  "u:https://doi.org/10.64898/2026.10.20.760214": {
+    "title": "Experimental reasoning in large language models",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.64898/2026.10.20.760214"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.28402": {
+    "title": "StreamEval: Evaluating Interactive Streaming Video Generation Models",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.48550/arxiv.2610.28402"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.27782": {
+    "title": "RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.48550/arxiv.2610.27782"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.27999": {
+    "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.48550/arxiv.2610.27999"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.27851": {
+    "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.48550/arxiv.2610.27851"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.28615": {
+    "title": "KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.48550/arxiv.2610.28615"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.28131": {
+    "title": "OV-Foam: How 3D Representations Shape Semantic Feature Lifting",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.48550/arxiv.2610.28131"
+  },
+  "u:https://doi.org/10.7759/s44389-026-00329-y": {
+    "title": "Comparative Analysis of Transformer Models for Prompt Injection Detection in Autonomous Large Language Model Agents",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.7759/s44389-026-00329-y"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.27754": {
+    "title": "Detection of Memorization in Diffusion Models Through Thermodynamic Singularity",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.48550/arxiv.2610.27754"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.28223": {
+    "title": "Local Inference of LLMs on Long Contexts: A Data Systems Perspective",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.48550/arxiv.2610.28223"
+  },
+  "u:https://doi.org/10.1145/3795866.3844460": {
+    "title": "Sparsity-Aware Scheduling for Efficient MoE-Based LLM Serving on Edge Servers",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.1145/3795866.3844460"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.27945": {
+    "title": "How Developers Configure LLM Inference: A Large-Scale Study of Real-World Practices",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.48550/arxiv.2610.27945"
+  },
+  "u:https://doi.org/10.1145/3795866.3844470": {
+    "title": "LeanStream: A Speculate-and-Refine Streaming Framework for Efficient on-Device LLM Inference",
+    "first_seen": "2026-10-23",
+    "url": "https://doi.org/10.1145/3795866.3844470"
+  },
+  "u:https://huggingface.co/papers/2610.30340": {
+    "title": "Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.30340"
+  },
+  "u:https://huggingface.co/papers/2610.27851": {
+    "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.27851"
+  },
+  "u:https://huggingface.co/papers/2610.30926": {
+    "title": "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.30926"
+  },
+  "u:https://huggingface.co/papers/2610.31668": {
+    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.31668"
+  },
+  "u:https://huggingface.co/papers/2610.27598": {
+    "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.27598"
+  },
+  "u:https://huggingface.co/papers/2610.28416": {
+    "title": "Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28416"
+  },
+  "u:https://huggingface.co/papers/2610.26397": {
+    "title": "Bridged Self-Distillation for On-Policy Learning",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.26397"
+  },
+  "u:https://huggingface.co/papers/2610.28441": {
+    "title": "Stratified Sparse Attention: Reducing the Sparse-to-Dense Gap at Extreme Sparsity",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28441"
+  },
+  "u:https://huggingface.co/papers/2610.28940": {
+    "title": "StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28940"
+  },
+  "u:https://huggingface.co/papers/2610.29932": {
+    "title": "FrontierCS 2: A Benchmark for Computer Science R&D",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29932"
+  },
+  "u:https://huggingface.co/papers/2610.27861": {
+    "title": "RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.27861"
+  },
+  "u:https://huggingface.co/papers/2610.28905": {
+    "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28905"
+  },
+  "u:https://huggingface.co/papers/2610.28909": {
+    "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28909"
+  },
+  "u:https://huggingface.co/papers/2610.30113": {
+    "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.30113"
+  },
+  "u:https://huggingface.co/papers/2610.29934": {
+    "title": "ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29934"
+  },
+  "u:https://huggingface.co/papers/2610.29722": {
+    "title": "Retrieval Augmented Generation Compositionality",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29722"
+  },
+  "u:https://huggingface.co/papers/2610.28827": {
+    "title": "WorldStream: Streaming Interactive 3D Worlds with Hierarchical Planning and Persistent State",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28827"
+  },
+  "u:https://huggingface.co/papers/2610.29560": {
+    "title": "From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29560"
+  },
+  "u:https://huggingface.co/papers/2610.29545": {
+    "title": "PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29545"
+  },
+  "u:https://huggingface.co/papers/2610.30023": {
+    "title": "RealMe: Immersive Volumetric Video from Minimal Captures",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.30023"
+  },
+  "u:https://huggingface.co/papers/2610.30128": {
+    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.30128"
+  },
+  "u:https://huggingface.co/papers/2610.28763": {
+    "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28763"
+  },
+  "u:https://huggingface.co/papers/2610.30108": {
+    "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.30108"
+  },
+  "u:https://huggingface.co/papers/2610.29997": {
+    "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29997"
+  },
+  "u:https://huggingface.co/papers/2610.28474": {
+    "title": "Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Training",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28474"
+  },
+  "u:https://huggingface.co/papers/2610.28698": {
+    "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28698"
+  },
+  "u:https://huggingface.co/papers/2610.29317": {
+    "title": "SpatialBrain: Spatial Intelligence Growing from Experience",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29317"
+  },
+  "u:https://huggingface.co/papers/2610.29680": {
+    "title": "TraceForge: Distilling with Your Own Thinking",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29680"
+  },
+  "u:https://huggingface.co/papers/2610.28887": {
+    "title": "Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28887"
+  },
+  "u:https://huggingface.co/papers/2610.28711": {
+    "title": "Qwen-Audio-3.1-ASR Technical Report",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.28711"
+  },
+  "u:https://huggingface.co/papers/2610.29784": {
+    "title": "Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29784"
+  },
+  "u:https://huggingface.co/papers/2610.30136": {
+    "title": "Agentic World Action Models",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.30136"
+  },
+  "u:https://huggingface.co/papers/2610.29968": {
+    "title": "CulturalRiddles: A Multicultural Benchmark of Riddles",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.29968"
+  },
+  "u:https://huggingface.co/papers/2610.27592": {
+    "title": "Real In, Real Out: What If We Only Use Real Data for Scene Text Editing?",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/papers/2610.27592"
+  },
+  "u:https://github.com/luongnv89/claude-howto": {
+    "title": "luongnv89/claude-howto",
+    "first_seen": "2026-10-23",
+    "url": "https://github.com/luongnv89/claude-howto"
+  },
+  "u:https://openai.com/index/forward-deployed-engineering-means": {
+    "title": "What FDE means at OpenAI",
+    "first_seen": "2026-10-23",
+    "url": "https://openai.com/index/forward-deployed-engineering-means"
+  },
+  "u:https://openai.com/index/uber-chatgpt-work-rollout": {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "first_seen": "2026-10-23",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+  },
+  "u:https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "first_seen": "2026-10-23",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+  },
+  "u:https://simonwillison.net/2026/Oct/22/donating-agent-skills": {
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "first_seen": "2026-10-23",
+    "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
+  },
+  "u:https://simonwillison.net/2026/Oct/22/armin-ronacher": {
+    "title": "Quoting Armin Ronacher",
+    "first_seen": "2026-10-23",
+    "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/"
+  },
+  "u:https://shattered.io/openai-google-cloud-partnership-3-models-2026": {
+    "title": "OpenAI Google Cloud Partnership: 3 GPT-6 Models Land",
+    "first_seen": "2026-10-23",
+    "url": "https://shattered.io/openai-google-cloud-partnership-3-models-2026"
+  },
+  "u:https://shattered.io/openai-joins-google-cloud-model-garden-2026": {
+    "title": "OpenAI Joins Google Cloud Model Garden [2026]",
+    "first_seen": "2026-10-23",
+    "url": "https://shattered.io/openai-joins-google-cloud-model-garden-2026"
+  },
+  "u:https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html": {
+    "title": "Anthropic preview of Claude Duet, personal AI agent take on Muse, Dots",
+    "first_seen": "2026-10-23",
+    "url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html"
+  },
+  "u:https://www.macrumors.com/2026/10/21/anthropic-claude-duet": {
+    "title": "Anthropic Launches Claude Duet, a Proactive AI Agent - MacRumors",
+    "first_seen": "2026-10-23",
+    "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet"
+  },
+  "u:https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies": {
+    "title": "PYMNTS | Anthropic’s New AI Agent Purchases Business Supplies",
+    "first_seen": "2026-10-23",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies"
+  },
+  "u:https://finance.biggo.com/news/b25f76b1-9b05-4d74-9d7d-f3df2163154c": {
+    "title": "Unitree's H2-X Humanoid Robot Debuts: Can Lift Cars, Block Knives, Rated for 8 Hours of Battery Life — BigGo Finance",
+    "first_seen": "2026-10-23",
+    "url": "https://finance.biggo.com/news/b25f76b1-9b05-4d74-9d7d-f3df2163154c"
+  },
+  "u:https://www.notebookcheck.net/Unitree-s-latest-humanoid-robot-doesn-t-do-dishes-but-it-sure-knows-how-to-kick.1430163.0.html": {
+    "title": "Unitree's latest humanoid robot doesn't do dishes, but it sure knows how to kick - Notebookcheck News",
+    "first_seen": "2026-10-23",
+    "url": "https://www.notebookcheck.net/Unitree-s-latest-humanoid-robot-doesn-t-do-dishes-but-it-sure-knows-how-to-kick.1430163.0.html"
+  },
+  "u:https://www.facebook.com/IncredibleZA/videos/a-new-beginning-powered-by-the-nvidia-rtx-spark-processor-smarter-ai-faster-rend/4012766178865543": {
+    "title": "NVIDIA RTX Spark Processor: Smarter AI, Faster ...",
+    "first_seen": "2026-10-23",
+    "url": "https://www.facebook.com/IncredibleZA/videos/a-new-beginning-powered-by-the-nvidia-rtx-spark-processor-smarter-ai-faster-rend/4012766178865543"
+  },
+  "u:https://tech-insider.org/nvidia-rtx-spark-laptops-launch-2599-128gb-2026": {
+    "title": "NVIDIA RTX Spark Laptops Launch at $2,599 [2026]",
+    "first_seen": "2026-10-23",
+    "url": "https://tech-insider.org/nvidia-rtx-spark-laptops-launch-2599-128gb-2026"
+  },
+  "u:https://www.nvidia.com/en-eu/drivers/details/282430": {
+    "title": "Drivers Details",
+    "first_seen": "2026-10-23",
+    "url": "https://www.nvidia.com/en-eu/drivers/details/282430"
+  },
+  "u:https://www.nvidia.com/en-us/solutions/ai": {
+    "title": "AI Solutions for Enterprises | NVIDIA",
+    "first_seen": "2026-10-23",
+    "url": "https://www.nvidia.com/en-us/solutions/ai"
+  },
+  "u:https://www.helpnetsecurity.com/2026/10/22/openai-agents-disabled-safety-monitoring": {
+    "title": "OpenAI’s coding agents talked themselves out of being monitored - Help Net Security",
+    "first_seen": "2026-10-23",
+    "url": "https://www.helpnetsecurity.com/2026/10/22/openai-agents-disabled-safety-monitoring"
+  },
+  "u:https://me.pcmag.com/en/ai/38401/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards": {
+    "title": "OpenAI Says 2 Internal AI Coding Agents Turned Off Their Own Safeguards",
+    "first_seen": "2026-10-23",
+    "url": "https://me.pcmag.com/en/ai/38401/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards"
   }
 }
