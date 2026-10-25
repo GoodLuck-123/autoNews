@@ -28188,5 +28188,85 @@
     "title": "Best AI Agents in 2026: 30 Tools Compared",
     "first_seen": "2026-10-24",
     "url": "https://felloai.com/best-ai-agents"
+  },
+  "u:https://doi.org/10.1126/sciadv.aej9537": {
+    "title": "Gradient-interlayer–based flexible pressure sensors for high-performance robotic perception",
+    "first_seen": "2026-10-25",
+    "url": "https://doi.org/10.1126/sciadv.aej9537"
+  },
+  "u:https://doi.org/10.1017/9781009865685.010": {
+    "title": "Using Large Language Models in Your PhD",
+    "first_seen": "2026-10-25",
+    "url": "https://doi.org/10.1017/9781009865685.010"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.31668": {
+    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+    "first_seen": "2026-10-25",
+    "url": "https://doi.org/10.48550/arxiv.2610.31668"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.30910": {
+    "title": "H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction",
+    "first_seen": "2026-10-25",
+    "url": "https://doi.org/10.48550/arxiv.2610.30910"
+  },
+  "u:https://doi.org/10.59256/indjcst.20260503043": {
+    "title": "RANANO-Recreating Nano Banana Using Diffusion Model",
+    "first_seen": "2026-10-25",
+    "url": "https://doi.org/10.59256/indjcst.20260503043"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.31479": {
+    "title": "Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon",
+    "first_seen": "2026-10-25",
+    "url": "https://doi.org/10.48550/arxiv.2610.31479"
+  },
+  "u:https://github.com/aws/agent-toolkit-for-aws": {
+    "title": "aws/agent-toolkit-for-aws",
+    "first_seen": "2026-10-25",
+    "url": "https://github.com/aws/agent-toolkit-for-aws"
+  },
+  "u:https://github.com/Nutlope/hallmark": {
+    "title": "Nutlope/hallmark",
+    "first_seen": "2026-10-25",
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  "u:https://github.com/pollen-robotics/microduck": {
+    "title": "pollen-robotics/microduck",
+    "first_seen": "2026-10-25",
+    "url": "https://github.com/pollen-robotics/microduck"
+  },
+  "u:https://github.com/google-gemini/gemini-cli": {
+    "title": "google-gemini/gemini-cli",
+    "first_seen": "2026-10-25",
+    "url": "https://github.com/google-gemini/gemini-cli"
+  },
+  "u:https://magazine.sebastianraschka.com/p/building-reasoning-models": {
+    "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+    "first_seen": "2026-10-25",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+  },
+  "u:https://mashable.com/tech/anthropic-claude-duet-announced": {
+    "title": "Meet Claude Duet, the latest AI agent intended to lighten your workload | Mashable",
+    "first_seen": "2026-10-25",
+    "url": "https://mashable.com/tech/anthropic-claude-duet-announced"
+  },
+  "u:http://www.shacknews.com/article/151108/tesla-optimus-robot-delay-end-of-2027": {
+    "title": "Elon Musk says Tesla Optimus Robot will ship to outside customers by end of 2027 | Shacknews",
+    "first_seen": "2026-10-25",
+    "url": "http://www.shacknews.com/article/151108/tesla-optimus-robot-delay-end-of-2027"
+  },
+  "u:https://www.reutersconnect.com/item/china-unitree-unveils-new-humanoid-robot-with-advanced-rescue-capabilities/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExOTkxODE": {
+    "title": "Licensable video: China: Unitree unveils new humanoid robot with advanced rescue capabilities",
+    "first_seen": "2026-10-25",
+    "url": "https://www.reutersconnect.com/item/china-unitree-unveils-new-humanoid-robot-with-advanced-rescue-capabilities/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExOTkxODE"
+  },
+  "u:https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html": {
+    "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+    "first_seen": "2026-10-25",
+    "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html"
+  },
+  "u:https://hackernoon.com/aeredium-introduces-ai-guardrails-to-keep-autonomous-agents-in-check-when-handling-payments-and-code": {
+    "title": "AEREDIUM Introduces AI Guardrails to Keep Autonomous Agents in Check When Handling Payments and Code",
+    "first_seen": "2026-10-25",
+    "url": "https://hackernoon.com/aeredium-introduces-ai-guardrails-to-keep-autonomous-agents-in-check-when-handling-payments-and-code"
   }
 }
