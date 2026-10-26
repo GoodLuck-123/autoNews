@@ -28268,5 +28268,55 @@
     "title": "AEREDIUM Introduces AI Guardrails to Keep Autonomous Agents in Check When Handling Payments and Code",
     "first_seen": "2026-10-25",
     "url": "https://hackernoon.com/aeredium-introduces-ai-guardrails-to-keep-autonomous-agents-in-check-when-handling-payments-and-code"
+  },
+  "u:https://doi.org/10.1016/j.cosrev.2026.101083": {
+    "title": "Agentic and generative AI for intelligent autonomous vulnerability assessment and penetration testing: A systematic analysis",
+    "first_seen": "2026-10-26",
+    "url": "https://doi.org/10.1016/j.cosrev.2026.101083"
+  },
+  "u:https://doi.org/10.37394/23205.2026.25.21": {
+    "title": "Inference-Time Compute Allocation in LLMs: Dynamic Depth and Token Selection for Efficient Problem Solving",
+    "first_seen": "2026-10-26",
+    "url": "https://doi.org/10.37394/23205.2026.25.21"
+  },
+  "u:https://doi.org/10.26599/tst.2026.9010098": {
+    "title": "Online LLM Inference Routing for Multi-Agent Systems under Long-Term Budget and Layered Privacy Constraints",
+    "first_seen": "2026-10-26",
+    "url": "https://doi.org/10.26599/tst.2026.9010098"
+  },
+  "u:https://huggingface.co/papers/2610.32909": {
+    "title": "HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training",
+    "first_seen": "2026-10-26",
+    "url": "https://huggingface.co/papers/2610.32909"
+  },
+  "u:https://github.com/AgriciDaniel/claude-seo": {
+    "title": "AgriciDaniel/claude-seo",
+    "first_seen": "2026-10-26",
+    "url": "https://github.com/AgriciDaniel/claude-seo"
+  },
+  "u:https://www.cnet.com/tech/services-and-software/anthropic-claude-duet-ai-agent-app-professional": {
+    "title": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals - CNET",
+    "first_seen": "2026-10-26",
+    "url": "https://www.cnet.com/tech/services-and-software/anthropic-claude-duet-ai-agent-app-professional"
+  },
+  "u:https://www.instagram.com/reel/De53C1DBP29": {
+    "title": "Instagram",
+    "first_seen": "2026-10-26",
+    "url": "https://www.instagram.com/reel/De53C1DBP29"
+  },
+  "u:https://www.facebook.com/taiwanplusnews/videos/us-chip-designer-nvidia-is-using-its-gpu-technology-conference-or-gtc-in-berlin-/2234189777149948": {
+    "title": "5.8K views · 87 reactions | US chip designer Nvidia is using its GPU technology conference, or GTC, in Berlin to push for a bigger role in Europe’s AI future. \n\nCEO Jensen Huang said the company has more than 12,000 partnerships across Europe and declared the start of a “new industrial revolution.” \n\nHe also said Nvidia has committed about US$10 billion to European projects over the past year, alongside announcing investments in 14 European startups in the past week.    \n\nFor Europe to create a resilient AI ecosystem, Huang called on its industries to adopt AI and become AI companies. \n\nFor more on this story, follow TaiwanPlus News on YouTube. \n\nReporter: Lily LaMattina \nVideographer: Ryan Wu \nVideo Editor: Kris Ma \n\nThis video was reuploaded to correct a typo.\n\n#TaiwanPlusNews #Berlin #GTC #Nvidia #AI | TaiwanPlus News",
+    "first_seen": "2026-10-26",
+    "url": "https://www.facebook.com/taiwanplusnews/videos/us-chip-designer-nvidia-is-using-its-gpu-technology-conference-or-gtc-in-berlin-/2234189777149948"
+  },
+  "u:https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder": {
+    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+    "first_seen": "2026-10-26",
+    "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder"
+  },
+  "u:https://shattered.io/cursor-origin-github-outage-launch-2026": {
+    "title": "Cursor Origin vs GitHub: AI Code Hosting Launch [2026]",
+    "first_seen": "2026-10-26",
+    "url": "https://shattered.io/cursor-origin-github-outage-launch-2026"
   }
 }
