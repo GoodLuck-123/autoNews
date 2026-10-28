@@ -29063,5 +29063,245 @@
     "title": "GPT-6.1 Sol Hits 86.6% on COBOL Migration Benchmark",
     "first_seen": "2026-10-27",
     "url": "https://tech-insider.org/gpt-6-1-sol-cobol-migration-ai-coding-agents-2026"
+  },
+  "u:https://doi.org/10.1063/5.0350170": {
+    "title": "Enhanced diffusion sampling: Efficient rare event sampling and free energy calculation with diffusion models",
+    "first_seen": "2026-10-28",
+    "url": "https://doi.org/10.1063/5.0350170"
+  },
+  "u:https://doi.org/10.1038/s41598-026-76614-6": {
+    "title": "Uncertainty-aware offline reinforcement learning for LLM inference serving with heterogeneous SLOs",
+    "first_seen": "2026-10-28",
+    "url": "https://doi.org/10.1038/s41598-026-76614-6"
+  },
+  "u:https://huggingface.co/papers/2610.36022": {
+    "title": "Learning and Reasoning with Geometry: How Generation Helps Spatial Understanding",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.36022"
+  },
+  "u:https://huggingface.co/papers/2610.37386": {
+    "title": "Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.37386"
+  },
+  "u:https://huggingface.co/papers/2610.37341": {
+    "title": "CodeCap-Bench: Can Code Serve as a Good Video Caption?",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.37341"
+  },
+  "u:https://huggingface.co/papers/2610.34073": {
+    "title": "Memory Tax: Dissecting the Net Value of Agent Memory",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34073"
+  },
+  "u:https://huggingface.co/papers/2610.37666": {
+    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.37666"
+  },
+  "u:https://huggingface.co/papers/2610.35724": {
+    "title": "MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.35724"
+  },
+  "u:https://huggingface.co/papers/2610.35439": {
+    "title": "Omni-InteractScope: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.35439"
+  },
+  "u:https://huggingface.co/papers/2610.34714": {
+    "title": "SearchHorizonBench: A Benchmark for Search Value in AI Agents",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34714"
+  },
+  "u:https://huggingface.co/papers/2610.36729": {
+    "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.36729"
+  },
+  "u:https://huggingface.co/papers/2610.37649": {
+    "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.37649"
+  },
+  "u:https://huggingface.co/papers/2610.34724": {
+    "title": "Harness-Model Collaboration for Long-Horizon Continual Learning",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34724"
+  },
+  "u:https://huggingface.co/papers/2610.34491": {
+    "title": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34491"
+  },
+  "u:https://huggingface.co/papers/2610.36466": {
+    "title": "Nemotron-Labs-Diffusion-Uni: Elastic Self-Refining Unified Diffusion LLM with Cross-Paradigm On-Policy Distillation",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.36466"
+  },
+  "u:https://huggingface.co/papers/2610.34283": {
+    "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34283"
+  },
+  "u:https://huggingface.co/papers/2610.36269": {
+    "title": "Cross-modal Steering Vectors Exist Across Both Image and Text Generation",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.36269"
+  },
+  "u:https://huggingface.co/papers/2610.36456": {
+    "title": "LociArt: A Unified Paradigm for Free-Style Local Video Stylization",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.36456"
+  },
+  "u:https://huggingface.co/papers/2610.22543": {
+    "title": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.22543"
+  },
+  "u:https://huggingface.co/papers/2610.36068": {
+    "title": "Rollback: Experience Backtracking in World Models for Policy Improvement",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.36068"
+  },
+  "u:https://huggingface.co/papers/2610.36420": {
+    "title": "SO-101 Bench: Accessible Spatial Manipulation",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.36420"
+  },
+  "u:https://huggingface.co/papers/2610.34386": {
+    "title": "ParetoRSI-Gym: Can AI Agents Improve Language Models Across Multiple Domains?",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34386"
+  },
+  "u:https://huggingface.co/papers/2610.34577": {
+    "title": "Rethinking Verification in Agent Harnesses",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34577"
+  },
+  "u:https://huggingface.co/papers/2610.34886": {
+    "title": "ThinkBit: Search Codewords, Recalibrate Scales, Select by Reasoning",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34886"
+  },
+  "u:https://huggingface.co/papers/2610.34735": {
+    "title": "iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34735"
+  },
+  "u:https://huggingface.co/papers/2610.34638": {
+    "title": "Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.34638"
+  },
+  "u:https://huggingface.co/papers/2610.35450": {
+    "title": "OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.35450"
+  },
+  "u:https://huggingface.co/papers/2610.35328": {
+    "title": "Constrained Decoding: Harmful or Beneficial? Revisiting Its Impact on LLM Performance",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.35328"
+  },
+  "u:https://huggingface.co/papers/2610.35001": {
+    "title": "More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/papers/2610.35001"
+  },
+  "u:https://github.com/elayadesign/ai-design-skills": {
+    "title": "elayadesign/ai-design-skills",
+    "first_seen": "2026-10-28",
+    "url": "https://github.com/elayadesign/ai-design-skills"
+  },
+  "u:https://github.com/makecindy/cindy": {
+    "title": "makecindy/cindy",
+    "first_seen": "2026-10-28",
+    "url": "https://github.com/makecindy/cindy"
+  },
+  "u:https://github.com/JetBrains/thinkrail": {
+    "title": "JetBrains/thinkrail",
+    "first_seen": "2026-10-28",
+    "url": "https://github.com/JetBrains/thinkrail"
+  },
+  "u:https://github.com/togg53192-cmd/jailbreaks": {
+    "title": "togg53192-cmd/jailbreaks",
+    "first_seen": "2026-10-28",
+    "url": "https://github.com/togg53192-cmd/jailbreaks"
+  },
+  "u:https://openai.com/index/retell-ai": {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "first_seen": "2026-10-28",
+    "url": "https://openai.com/index/retell-ai"
+  },
+  "u:https://openai.com/index/oracle-apps-in-chatgpt": {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "first_seen": "2026-10-28",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+  },
+  "u:https://openai.com/index/check-point-daybreak": {
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "first_seen": "2026-10-28",
+    "url": "https://openai.com/index/check-point-daybreak"
+  },
+  "u:https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": {
+    "title": "Genie 4: A new generation of world simulation",
+    "first_seen": "2026-10-28",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+  },
+  "u:https://huggingface.co/blog/allenai/novelty-bench": {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "first_seen": "2026-10-28",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench"
+  },
+  "u:https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge": {
+    "title": "Game Boy Color on My Conference Badge",
+    "first_seen": "2026-10-28",
+    "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
+  },
+  "u:https://community.openai.com/t/openai-models-are-coming-to-google-cloud/1408440": {
+    "title": "OpenAI models are coming to Google Cloud - Announcements - OpenAI Developer Community",
+    "first_seen": "2026-10-28",
+    "url": "https://community.openai.com/t/openai-models-are-coming-to-google-cloud/1408440"
+  },
+  "u:https://www.reddit.com/r/CodexAutomation/comments/1xbofqe/openai_and_google_cloud_announce_codex_access": {
+    "title": "OpenAI and Google Cloud announce Codex access ...",
+    "first_seen": "2026-10-28",
+    "url": "https://www.reddit.com/r/CodexAutomation/comments/1xbofqe/openai_and_google_cloud_announce_codex_access"
+  },
+  "u:https://www.anthropic.com/news/expanding-partnership-gsa": {
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government \\ Anthropic",
+    "first_seen": "2026-10-28",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+  },
+  "u:https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude": {
+    "title": "Anthropic illegally trained Claude with Stanford professors’ pirated books",
+    "first_seen": "2026-10-28",
+    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude"
+  },
+  "u:https://www.rutlandherald.com/news/business/realbotix-launches-echo-humanoid-robot-line/article_e6bb00a0-29b8-5ce0-85f2-bf96868199cb.html": {
+    "title": "Realbotix Launches Echo Humanoid Robot Line | Business | rutlandherald.com",
+    "first_seen": "2026-10-28",
+    "url": "https://www.rutlandherald.com/news/business/realbotix-launches-echo-humanoid-robot-line/article_e6bb00a0-29b8-5ce0-85f2-bf96868199cb.html"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/agile-robots-launches-agile-one-062200731.html": {
+    "title": "Agile Robots Launches Agile ONE SN Humanoid at NVIDIA GTC Berlin and Pilots Humanoids with Audi",
+    "first_seen": "2026-10-28",
+    "url": "https://finance.yahoo.com/technology/ai/articles/agile-robots-launches-agile-one-062200731.html"
+  },
+  "u:http://www.moomoo.com/community/feed/nvidia-gtc-berlin-takeaways-where-the-next-ai-opportunities-lie-117484221431818": {
+    "title": "Nvidia GTC Berlin Takeaways: Where the Next AI Opportunities... - moomoo Community",
+    "first_seen": "2026-10-28",
+    "url": "http://www.moomoo.com/community/feed/nvidia-gtc-berlin-takeaways-where-the-next-ai-opportunities-lie-117484221431818"
+  },
+  "u:https://www.techbuzz.ai/articles/google-cloud-rolls-out-nvidia-s-vera-rubin-ai-infrastructure": {
+    "title": "Google Cloud Rolls Out NVIDIA's Vera Rubin AI Infrastructure | The Tech Buzz",
+    "first_seen": "2026-10-28",
+    "url": "https://www.techbuzz.ai/articles/google-cloud-rolls-out-nvidia-s-vera-rubin-ai-infrastructure"
+  },
+  "u:https://www.techbuzz.ai/articles/openai-launches-dots-ai-coding-tools-become-personal-assistant": {
+    "title": "OpenAI Launches Dots: AI Coding Tools Become Personal Assistant | The Tech Buzz",
+    "first_seen": "2026-10-28",
+    "url": "https://www.techbuzz.ai/articles/openai-launches-dots-ai-coding-tools-become-personal-assistant"
   }
 }
