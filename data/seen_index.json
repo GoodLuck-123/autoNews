@@ -31618,5 +31618,145 @@
     "title": "AI coding agents fall for malicious instructions planted in the Downloads folder - Help Net Security",
     "first_seen": "2026-10-31",
     "url": "https://www.helpnetsecurity.com/2026/10/26/ai-coding-agents-malware-openai-codex"
+  },
+  "u:https://doi.org/10.5195/jll.2026.480": {
+    "title": "How Can Large Language Models Support Learning?",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.5195/jll.2026.480"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.40191": {
+    "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.40191"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.39232": {
+    "title": "Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.39232"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.39721": {
+    "title": "WorldProbe: When Video World Models Fall Apart under Long-Horizon Spatial Exploration",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.39721"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.40614": {
+    "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.40614"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.39619": {
+    "title": "FutureWorld: A Plug-and-Play Causal Next-State Predictor for Interactive Video World Exploration",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.39619"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.39399": {
+    "title": "ACD-GS: Asymmetric Curvature-aware Densification for 3D Gaussian Splatting",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.39399"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.39359": {
+    "title": "P^2-Gaussian: Prior-Driven and Projection-Guided Gaussian Splatting for Sparse-View Cone-Beam CT Reconstruction",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.39359"
+  },
+  "u:https://doi.org/10.48175/ijarsct-40370": {
+    "title": "Beyond Chatbots: Building More Reliable and Context-Aware AI Conversational Agents",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48175/ijarsct-40370"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.39568": {
+    "title": "Diffusion models for the $O(3)$ nonlinear sigma model",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.39568"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.40618": {
+    "title": "An ODE-based Sampler for Discrete Diffusion Models",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.40618"
+  },
+  "u:https://doi.org/10.48550/arxiv.2610.40292": {
+    "title": "DolphinRouting: Cluster-Level Binary Routing for Disaggregated LLM Inference Serving",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.48550/arxiv.2610.40292"
+  },
+  "u:https://doi.org/10.1145/3842721.3849656": {
+    "title": "Continuous Semantic Caching for Low-Cost LLM Serving",
+    "first_seen": "2026-11-01",
+    "url": "https://doi.org/10.1145/3842721.3849656"
+  },
+  "u:https://github.com/milind-soni/OpenMausBot": {
+    "title": "milind-soni/OpenMausBot",
+    "first_seen": "2026-11-01",
+    "url": "https://github.com/milind-soni/OpenMausBot"
+  },
+  "u:https://github.com/Orkas-AI/Orkas": {
+    "title": "Orkas-AI/Orkas",
+    "first_seen": "2026-11-01",
+    "url": "https://github.com/Orkas-AI/Orkas"
+  },
+  "u:https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": {
+    "title": "How We Took Over ChatGPT Accounts",
+    "first_seen": "2026-11-01",
+    "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+  },
+  "u:https://simonwillison.net/2026/Oct/31/datasette-llm": {
+    "title": "datasette-llm 0.1a9",
+    "first_seen": "2026-11-01",
+    "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+  },
+  "u:https://me.pcmag.com/en/ai/38433/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training": {
+    "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
+    "first_seen": "2026-11-01",
+    "url": "https://me.pcmag.com/en/ai/38433/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training"
+  },
+  "u:https://www.inc.com/aaron-mok/openai-says-its-newest-model-is-better-at-this-1-skill-it-starts-with-being-honest/91426030": {
+    "title": "OpenAI Says Its Newest Model Is Better at This 1 Skill. It Starts With Being Honest",
+    "first_seen": "2026-11-01",
+    "url": "https://www.inc.com/aaron-mok/openai-says-its-newest-model-is-better-at-this-1-skill-it-starts-with-being-honest/91426030"
+  },
+  "u:https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games": {
+    "title": "Anthropic tells Claude to stop remaking video games",
+    "first_seen": "2026-11-01",
+    "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"
+  },
+  "u:https://thenewstack.io/claude-ultra-session-limit": {
+    "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone - The New Stack",
+    "first_seen": "2026-11-01",
+    "url": "https://thenewstack.io/claude-ultra-session-limit"
+  },
+  "u:https://www.globaltimes.cn/page/202610/1373258.shtml": {
+    "title": "Humanoid robot firms including AgiBot report rapid revenue growth - Global Times",
+    "first_seen": "2026-11-01",
+    "url": "https://www.globaltimes.cn/page/202610/1373258.shtml"
+  },
+  "u:https://uk.finance.yahoo.com/news/agile-robots-launches-agile-one-062200731.html": {
+    "title": "Agile Robots Launches Agile ONE SN Humanoid at NVIDIA GTC Berlin and Pilots Humanoids with Audi",
+    "first_seen": "2026-11-01",
+    "url": "https://uk.finance.yahoo.com/news/agile-robots-launches-agile-one-062200731.html"
+  },
+  "u:https://tech-insider.org/toyota-humanoid-robot-race-tesla-china-97-percent-2026": {
+    "title": "Toyota Humanoid Robots vs Tesla, China: 97% Gap [2026]",
+    "first_seen": "2026-11-01",
+    "url": "https://tech-insider.org/toyota-humanoid-robot-race-tesla-china-97-percent-2026"
+  },
+  "u:https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html": {
+    "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+    "first_seen": "2026-11-01",
+    "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html"
+  },
+  "u:https://blogs.oracle.com/cloud-infrastructure/nvidia-vera-cpus-oci": {
+    "title": "Announcing General Availability of OCI Compute with NVIDIA Vera CPUs | cloud-infrastructure",
+    "first_seen": "2026-11-01",
+    "url": "https://blogs.oracle.com/cloud-infrastructure/nvidia-vera-cpus-oci"
+  },
+  "u:https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure": {
+    "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure | NVIDIA Newsroom",
+    "first_seen": "2026-11-01",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure"
+  },
+  "u:https://adversa.ai/blog/adversa-ai-launches-coding-agent-security-platform": {
+    "title": "Adversa AI launches Coding Agent Security Platform",
+    "first_seen": "2026-11-01",
+    "url": "https://adversa.ai/blog/adversa-ai-launches-coding-agent-security-platform"
   }
 }
