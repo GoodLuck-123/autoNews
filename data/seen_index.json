@@ -31758,5 +31758,75 @@
     "title": "Adversa AI launches Coding Agent Security Platform",
     "first_seen": "2026-11-01",
     "url": "https://adversa.ai/blog/adversa-ai-launches-coding-agent-security-platform"
+  },
+  "u:https://doi.org/10.1145/3830398.3830681": {
+    "title": "SplatXR: A Toolkit for Multi-Layered Extended Reality via On-Headset 3D Gaussian Splatting",
+    "first_seen": "2026-11-02",
+    "url": "https://doi.org/10.1145/3830398.3830681"
+  },
+  "u:https://github.com/public-apis/public-apis": {
+    "title": "public-apis/public-apis",
+    "first_seen": "2026-11-02",
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  "u:https://github.com/cjpais/Handy": {
+    "title": "cjpais/Handy",
+    "first_seen": "2026-11-02",
+    "url": "https://github.com/cjpais/Handy"
+  },
+  "u:https://github.com/kornia/kornia": {
+    "title": "kornia/kornia",
+    "first_seen": "2026-11-02",
+    "url": "https://github.com/kornia/kornia"
+  },
+  "u:https://github.com/patchy631/ai-engineering-hub": {
+    "title": "patchy631/ai-engineering-hub",
+    "first_seen": "2026-11-02",
+    "url": "https://github.com/patchy631/ai-engineering-hub"
+  },
+  "u:https://simonwillison.net/2026/Nov/1/kyle-kingsbury": {
+    "title": "Quoting Kyle Kingsbury",
+    "first_seen": "2026-11-02",
+    "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
+  },
+  "u:https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions": {
+    "title": "Anthropic expands text watermarking to older Claude versions beginning November 3 | Mashable",
+    "first_seen": "2026-11-02",
+    "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions"
+  },
+  "u:https://aswathdamodaran.substack.com/p/theanthropic-ipo-arrives-my-but-not": {
+    "title": "TheAnthropic IPO Arrives: My (but not the) Anthropic Valuation!",
+    "first_seen": "2026-11-02",
+    "url": "https://aswathdamodaran.substack.com/p/theanthropic-ipo-arrives-my-but-not"
+  },
+  "u:https://shattered.io/tesla-optimus-release-date-20000-per-week-end-2027-deliveries-2026": {
+    "title": "Tesla Optimus Release Date [2026]: 1M Units by 2027",
+    "first_seen": "2026-11-02",
+    "url": "https://shattered.io/tesla-optimus-release-date-20000-per-week-end-2027-deliveries-2026"
+  },
+  "u:https://finance.biggo.com/news/5a814ee6-4d28-46cd-9053-dbcbf9fcab80": {
+    "title": "Figure AI Sets Course for Next Leg: Figure 04 Design Frozen, $3.5 Billion Compute Bet on a \"Robot Version of the Scaling Law\" — BigGo Finance",
+    "first_seen": "2026-11-02",
+    "url": "https://finance.biggo.com/news/5a814ee6-4d28-46cd-9053-dbcbf9fcab80"
+  },
+  "u:https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia": {
+    "title": "'Buying from its biggest rival' — OpenAI turns to Google for TPUs to break free from Nvidia's GPU monopoly | TechRadar",
+    "first_seen": "2026-11-02",
+    "url": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia"
+  },
+  "u:https://cloudwars.com/cloud-wars-minute/microsoft-maia-300-could-its-new-ai-chip-challenge-nvidia": {
+    "title": "Microsoft Maia 300: Could Its New AI Chip Challenge NVIDIA? - Cloud Wars",
+    "first_seen": "2026-11-02",
+    "url": "https://cloudwars.com/cloud-wars-minute/microsoft-maia-300-could-its-new-ai-chip-challenge-nvidia"
+  },
+  "u:https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391": {
+    "title": "DeepSeek launches autonomous coding agent to challenge Anthropic’s Claude Code",
+    "first_seen": "2026-11-02",
+    "url": "https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391"
+  },
+  "u:https://thenextweb.com/news/hud-agentic-rollouts-ai-code-production": {
+    "title": "Hud launches agentic rollouts to take AI-written code to production",
+    "first_seen": "2026-11-02",
+    "url": "https://thenextweb.com/news/hud-agentic-rollouts-ai-code-production"
   }
 }
