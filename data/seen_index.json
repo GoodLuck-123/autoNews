@@ -31988,5 +31988,285 @@
     "title": "LinearB Launches Agentic Studio to Help Engineering Leaders and AI Coding Agents Build Better Software Faster | citybiz",
     "first_seen": "2026-11-03",
     "url": "https://www.citybiz.co/article/927443/linearb-launches-agentic-studio-to-help-engineering-leaders-and-ai-coding-agents-build-better-software-faster"
+  },
+  "u:https://huggingface.co/papers/2611.02244": {
+    "title": "Can AI Reviewers See Your Efforts to Improve Your Paper? A Large-Scale Study of Paper Revision Trajectories",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02244"
+  },
+  "u:https://huggingface.co/papers/2611.03747": {
+    "title": "Enhancing Stock Market Information Retrieval with Retrieval-Augmented Generation",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03747"
+  },
+  "u:https://huggingface.co/papers/2611.04916": {
+    "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.04916"
+  },
+  "u:https://huggingface.co/papers/2611.04449": {
+    "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.04449"
+  },
+  "u:https://huggingface.co/papers/2611.04870": {
+    "title": "PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.04870"
+  },
+  "u:https://huggingface.co/papers/2611.04035": {
+    "title": "Recursa: Toward Recursively Self-Improving Foundation Model Systems",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.04035"
+  },
+  "u:https://huggingface.co/papers/2611.02501": {
+    "title": "SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02501"
+  },
+  "u:https://huggingface.co/papers/2611.02079": {
+    "title": "ParetoSaddler: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02079"
+  },
+  "u:https://huggingface.co/papers/2611.02737": {
+    "title": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02737"
+  },
+  "u:https://huggingface.co/papers/2611.02568": {
+    "title": "SeMo3D: Unifying 3D Generation, Editing, and Completion via Selective Modeling",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02568"
+  },
+  "u:https://huggingface.co/papers/2611.02497": {
+    "title": "RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02497"
+  },
+  "u:https://huggingface.co/papers/2611.02782": {
+    "title": "History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02782"
+  },
+  "u:https://huggingface.co/papers/2611.03424": {
+    "title": "IdeaTaste: Do LLMs Share the Research Taste of Human Researchers?",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03424"
+  },
+  "u:https://huggingface.co/papers/2611.02112": {
+    "title": "Order-Only On-Policy Distillation",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02112"
+  },
+  "u:https://huggingface.co/papers/2611.03097": {
+    "title": "DR Pixel: Page-Native Deep Research with Vision-Language Models",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03097"
+  },
+  "u:https://huggingface.co/papers/2611.02074": {
+    "title": "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02074"
+  },
+  "u:https://huggingface.co/papers/2611.02332": {
+    "title": "LEANGUARD: Lean-Verified Guardrails for Tool-Using Agents",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02332"
+  },
+  "u:https://huggingface.co/papers/2611.01860": {
+    "title": "Advances in Agentic Computer Graphics",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.01860"
+  },
+  "u:https://huggingface.co/papers/2611.01815": {
+    "title": "When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.01815"
+  },
+  "u:https://huggingface.co/papers/2611.03393": {
+    "title": "TaoMate-FVSR:Audio-Guided Facial Video Restoration",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03393"
+  },
+  "u:https://huggingface.co/papers/2611.02897": {
+    "title": "PhotoGuider: Composition-Aware Cropping and 360^{circ} View Framing with Explainable Photographic Assessments",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02897"
+  },
+  "u:https://huggingface.co/papers/2611.01460": {
+    "title": "Can Large Language Model Agents Learn by Watching Tutorial Videos?",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.01460"
+  },
+  "u:https://huggingface.co/papers/2611.03219": {
+    "title": "Can Coding Agents Sustain Continual Evolution without Forgetting?",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03219"
+  },
+  "u:https://huggingface.co/papers/2611.02928": {
+    "title": "Lab2Sim: Turning Real-World Experiment Videos into Interactive Virtual Experiments",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02928"
+  },
+  "u:https://huggingface.co/papers/2611.03344": {
+    "title": "FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03344"
+  },
+  "u:https://huggingface.co/papers/2611.02633": {
+    "title": "Measuring AI Agents as Teammates with Collaborative Intelligence",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.02633"
+  },
+  "u:https://huggingface.co/papers/2611.03602": {
+    "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03602"
+  },
+  "u:https://huggingface.co/papers/2611.03178": {
+    "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03178"
+  },
+  "u:https://huggingface.co/papers/2611.03526": {
+    "title": "Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03526"
+  },
+  "u:https://huggingface.co/papers/2611.01484": {
+    "title": "CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.01484"
+  },
+  "u:https://huggingface.co/papers/2611.03126": {
+    "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03126"
+  },
+  "u:https://huggingface.co/papers/2611.03092": {
+    "title": "Avatar Intelligence: Amplifying Human Agency Through Persistent Personal Agents",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/papers/2611.03092"
+  },
+  "u:https://github.com/JustVugg/colibri": {
+    "title": "JustVugg/colibri",
+    "first_seen": "2026-11-04",
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  "u:https://github.com/spotify/portal-ai-plugins": {
+    "title": "spotify/portal-ai-plugins",
+    "first_seen": "2026-11-04",
+    "url": "https://github.com/spotify/portal-ai-plugins"
+  },
+  "u:https://github.com/D4Vinci/Scrapling": {
+    "title": "D4Vinci/Scrapling",
+    "first_seen": "2026-11-04",
+    "url": "https://github.com/D4Vinci/Scrapling"
+  },
+  "u:https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+    "title": "Accelerating engineering for the physical world",
+    "first_seen": "2026-11-04",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+  },
+  "u:https://openai.com/index/cisco-cyber": {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "first_seen": "2026-11-04",
+    "url": "https://openai.com/index/cisco-cyber"
+  },
+  "u:https://openai.com/index/heimstaden": {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "first_seen": "2026-11-04",
+    "url": "https://openai.com/index/heimstaden"
+  },
+  "u:https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "first_seen": "2026-11-04",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+  },
+  "u:https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity": {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "first_seen": "2026-11-04",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+  },
+  "u:https://huggingface.co/blog/cwe-bench": {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "first_seen": "2026-11-04",
+    "url": "https://huggingface.co/blog/cwe-bench"
+  },
+  "u:https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": {
+    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "first_seen": "2026-11-04",
+    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+  },
+  "u:https://simonwillison.net/2026/Nov/3/october-newsletter": {
+    "title": "October sponsors-only newsletter",
+    "first_seen": "2026-11-04",
+    "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/"
+  },
+  "u:https://www.cnn.com/2026/11/02/tech/openai-chatgpt-personal-assistant-ai": {
+    "title": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning | CNN Business",
+    "first_seen": "2026-11-04",
+    "url": "https://www.cnn.com/2026/11/02/tech/openai-chatgpt-personal-assistant-ai"
+  },
+  "u:https://www.unite.ai/openai-plans-new-security-sprint-and-raises-bug-bounty-rewards": {
+    "title": "OpenAI Plans New Security Sprint and Raises Bug Bounty Rewards – Unite.AI",
+    "first_seen": "2026-11-04",
+    "url": "https://www.unite.ai/openai-plans-new-security-sprint-and-raises-bug-bounty-rewards"
+  },
+  "u:https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html": {
+    "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+    "first_seen": "2026-11-04",
+    "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html"
+  },
+  "u:https://www.polygon.com/anthropic-claude-ai-game-replicas": {
+    "title": "Anthropic Is Officially Stepping In to Stop Claude from Cloning Games",
+    "first_seen": "2026-11-04",
+    "url": "https://www.polygon.com/anthropic-claude-ai-game-replicas"
+  },
+  "u:https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban": {
+    "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings | CNN Business",
+    "first_seen": "2026-11-04",
+    "url": "https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban"
+  },
+  "u:https://oodaloop.com/briefs/technology/apples-rumored-tabletop-robot-j595-expected-to-cost-around-1000-to-release-in-2027-or-2028": {
+    "title": "Apple’s Rumored Tabletop Robot J595 Expected to Cost Around $1,000, To Release In 2027 or 2028 — OODAloop",
+    "first_seen": "2026-11-04",
+    "url": "https://oodaloop.com/briefs/technology/apples-rumored-tabletop-robot-j595-expected-to-cost-around-1000-to-release-in-2027-or-2028"
+  },
+  "u:https://eu.36kr.com/en/p/4045487031899783": {
+    "title": "Unitree First Post-IPO Earnings Release: Unpacking Its Revenue Growth Without Corresponding Profit Growth",
+    "first_seen": "2026-11-04",
+    "url": "https://eu.36kr.com/en/p/4045487031899783"
+  },
+  "u:https://interestingengineering.com/ai-robotics/humanoid-robot-achieves-success-with-agibot-go3": {
+    "title": "Humanoid robot achieves 85% task success rate with AGIBOT's GO-3 model",
+    "first_seen": "2026-11-04",
+    "url": "https://interestingengineering.com/ai-robotics/humanoid-robot-achieves-success-with-agibot-go3"
+  },
+  "u:https://shattered.io/lt-ai-factory-chennai-10000-nvidia-b300-january-2027-2026": {
+    "title": "L&T AI Factory: 10,000+ B300 GPUs Live by Jan 2027 [2026]",
+    "first_seen": "2026-11-04",
+    "url": "https://shattered.io/lt-ai-factory-chennai-10000-nvidia-b300-january-2027-2026"
+  },
+  "u:https://tech-insider.org/ca/oracle-oci-google-tpu-ai-accelerators-nvidia-2026": {
+    "title": "Google TPU on Oracle OCI: 5 Chip Vendors Join [2026]",
+    "first_seen": "2026-11-04",
+    "url": "https://tech-insider.org/ca/oracle-oci-google-tpu-ai-accelerators-nvidia-2026"
+  },
+  "u:https://shattered.io/best-mini-pc-six-brands-ranked-mac-mini-m6-899-2026": {
+    "title": "Best Mini PC 2026: 6 Brands Ranked From $899 [2026]",
+    "first_seen": "2026-11-04",
+    "url": "https://shattered.io/best-mini-pc-six-brands-ranked-mac-mini-m6-899-2026"
+  },
+  "u:https://247wallst.com/investing/2026/10/28/openai-is-buying-googles-ai-chips-a-hit-to-nvidias-biggest-customer-bond": {
+    "title": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond - 24/7 Wall St.",
+    "first_seen": "2026-11-04",
+    "url": "https://247wallst.com/investing/2026/10/28/openai-is-buying-googles-ai-chips-a-hit-to-nvidias-biggest-customer-bond"
+  },
+  "u:https://aiagentstore.ai/ai-agent-news/this-week": {
+    "title": "AI Agents News — Week of November 3, 2026 (Daily Updates)",
+    "first_seen": "2026-11-04",
+    "url": "https://aiagentstore.ai/ai-agent-news/this-week"
   }
 }
