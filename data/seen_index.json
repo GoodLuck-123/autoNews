@@ -33103,5 +33103,880 @@
     "title": "Meta Acquires AI Coding Startup Conductor, Securing Development Environment for 'Agent Legions' — BigGo Finance",
     "first_seen": "2026-11-05",
     "url": "https://finance.biggo.com/news/e5d8cec8-159a-4ae8-9c0b-935cc5cd5875"
+  },
+  "u:https://arxiv.org/abs/2611.08487v1": {
+    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08487v1"
+  },
+  "u:https://arxiv.org/abs/2611.08486v1": {
+    "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08486v1"
+  },
+  "u:https://arxiv.org/abs/2611.08485v1": {
+    "title": "Where and Why is Grounded Reasoning Useful?",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08485v1"
+  },
+  "u:https://arxiv.org/abs/2611.08483v1": {
+    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08483v1"
+  },
+  "u:https://arxiv.org/abs/2611.08478v1": {
+    "title": "Scientist World: Grow a Research World for AI-Scientists",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08478v1"
+  },
+  "u:https://arxiv.org/abs/2611.08477v1": {
+    "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08477v1"
+  },
+  "u:https://arxiv.org/abs/2611.08472v1": {
+    "title": "XStack: A Benchmark for ML Repo Migration",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08472v1"
+  },
+  "u:https://arxiv.org/abs/2611.08469v1": {
+    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08469v1"
+  },
+  "u:https://arxiv.org/abs/2611.08465v1": {
+    "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08465v1"
+  },
+  "u:https://arxiv.org/abs/2611.08462v1": {
+    "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08462v1"
+  },
+  "u:https://arxiv.org/abs/2611.08458v1": {
+    "title": "Latent RL Priors for Data-Efficient Dexterous Manipulation",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08458v1"
+  },
+  "u:https://arxiv.org/abs/2611.08457v1": {
+    "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08457v1"
+  },
+  "u:https://arxiv.org/abs/2611.08453v1": {
+    "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08453v1"
+  },
+  "u:https://arxiv.org/abs/2611.08452v1": {
+    "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08452v1"
+  },
+  "u:https://arxiv.org/abs/2611.08449v1": {
+    "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08449v1"
+  },
+  "u:https://arxiv.org/abs/2611.08445v1": {
+    "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08445v1"
+  },
+  "u:https://arxiv.org/abs/2611.08441v1": {
+    "title": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08441v1"
+  },
+  "u:https://arxiv.org/abs/2611.08439v1": {
+    "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08439v1"
+  },
+  "u:https://arxiv.org/abs/2611.08438v1": {
+    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08438v1"
+  },
+  "u:https://arxiv.org/abs/2611.08436v1": {
+    "title": "SM4RT: Cascaded Feed-forward Model for 4D Reconstruction",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08436v1"
+  },
+  "u:https://arxiv.org/abs/2611.08433v1": {
+    "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08433v1"
+  },
+  "u:https://arxiv.org/abs/2611.08428v1": {
+    "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08428v1"
+  },
+  "u:https://arxiv.org/abs/2611.08425v1": {
+    "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08425v1"
+  },
+  "u:https://arxiv.org/abs/2611.08421v1": {
+    "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08421v1"
+  },
+  "u:https://arxiv.org/abs/2611.08420v1": {
+    "title": "On the limitations of molecular representations",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08420v1"
+  },
+  "u:https://arxiv.org/abs/2611.08417v1": {
+    "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08417v1"
+  },
+  "u:https://arxiv.org/abs/2611.08414v1": {
+    "title": "Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08414v1"
+  },
+  "u:https://arxiv.org/abs/2611.08413v1": {
+    "title": "T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08413v1"
+  },
+  "u:https://arxiv.org/abs/2611.08412v1": {
+    "title": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08412v1"
+  },
+  "u:https://arxiv.org/abs/2611.08409v1": {
+    "title": "Conformal Prediction for Time-Dependent PDEs",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08409v1"
+  },
+  "u:https://arxiv.org/abs/2611.08407v1": {
+    "title": "Social Humanoid: Socially Responsive Human-Humanoid Interaction",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08407v1"
+  },
+  "u:https://arxiv.org/abs/2611.08403v1": {
+    "title": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08403v1"
+  },
+  "u:https://arxiv.org/abs/2611.08398v1": {
+    "title": "A Multimodal Haptic Interface for Simultaneous Softness and Thermal Modulation",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08398v1"
+  },
+  "u:https://arxiv.org/abs/2611.08394v1": {
+    "title": "Synthesis of Ovarian Cancer Multi-Omics Datasets: A Biology-Informed Evaluation Framework",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08394v1"
+  },
+  "u:https://arxiv.org/abs/2611.08393v1": {
+    "title": "Adaptive Low-Light Enhancement for Road Anomaly Detection: A Multi-Architecture Benchmark and Edge Deployment Study",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08393v1"
+  },
+  "u:https://arxiv.org/abs/2611.08392v1": {
+    "title": "Learning a patient world model for health system simulation in intensive care",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08392v1"
+  },
+  "u:https://arxiv.org/abs/2611.08390v1": {
+    "title": "SCALE: Real-Time Latent Communication for Cyber-Physical Agents",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08390v1"
+  },
+  "u:https://arxiv.org/abs/2611.08386v1": {
+    "title": "Hybrid Machine Learning for Imbalanced Landing-Phase Safety Event Prediction from Flight Data",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08386v1"
+  },
+  "u:https://arxiv.org/abs/2611.08383v1": {
+    "title": "FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08383v1"
+  },
+  "u:https://arxiv.org/abs/2611.08379v1": {
+    "title": "Module-Aware Optimization for Graph Neural Networks",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08379v1"
+  },
+  "u:https://arxiv.org/abs/2611.08376v1": {
+    "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08376v1"
+  },
+  "u:https://arxiv.org/abs/2611.08373v1": {
+    "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08373v1"
+  },
+  "u:https://arxiv.org/abs/2611.08372v1": {
+    "title": "MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08372v1"
+  },
+  "u:https://arxiv.org/abs/2611.08369v1": {
+    "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08369v1"
+  },
+  "u:https://arxiv.org/abs/2611.08368v1": {
+    "title": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08368v1"
+  },
+  "u:https://arxiv.org/abs/2611.08364v1": {
+    "title": "SHORE: Stability-Hybrid On-Policy Reinforcement Learning for Online Bin Packing",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08364v1"
+  },
+  "u:https://arxiv.org/abs/2611.08363v1": {
+    "title": "StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08363v1"
+  },
+  "u:https://arxiv.org/abs/2611.08361v1": {
+    "title": "Radio-to-Pose Information for Gauge-Drift Correction in Cooperative Localization",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08361v1"
+  },
+  "u:https://arxiv.org/abs/2611.08360v1": {
+    "title": "OraRefer: Segmentation-Guided Multi-Photograph Fusion for Oral Cancer Screening with Guaranteed Patient-Level Sensitivity",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08360v1"
+  },
+  "u:https://arxiv.org/abs/2611.08352v1": {
+    "title": "USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08352v1"
+  },
+  "u:https://arxiv.org/abs/2611.08342v1": {
+    "title": "4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08342v1"
+  },
+  "u:https://arxiv.org/abs/2611.08341v1": {
+    "title": "Enhancing Local and Global Structure in Compressed AI Agent Memory",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08341v1"
+  },
+  "u:https://arxiv.org/abs/2611.08338v1": {
+    "title": "GPWM: Modeling the World as 3D Particle Motion",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08338v1"
+  },
+  "u:https://arxiv.org/abs/2611.08335v1": {
+    "title": "Discovering Learning Rules that Shape Others",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08335v1"
+  },
+  "u:https://arxiv.org/abs/2611.08330v1": {
+    "title": "InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08330v1"
+  },
+  "u:https://arxiv.org/abs/2611.08318v1": {
+    "title": "Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08318v1"
+  },
+  "u:https://arxiv.org/abs/2611.08315v1": {
+    "title": "Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08315v1"
+  },
+  "u:https://arxiv.org/abs/2611.08308v1": {
+    "title": "RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08308v1"
+  },
+  "u:https://arxiv.org/abs/2611.08307v1": {
+    "title": "Measured Coupling for Parallel Decoding in Diffusion Language Models",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08307v1"
+  },
+  "u:https://arxiv.org/abs/2611.08303v1": {
+    "title": "First-Token Attraction in Mamba Dynamics",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08303v1"
+  },
+  "u:https://arxiv.org/abs/2611.08302v1": {
+    "title": "Dynamic Optimistic Constrained OCO with Memory via Delay Equivalence",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08302v1"
+  },
+  "u:https://arxiv.org/abs/2611.08295v1": {
+    "title": "Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08295v1"
+  },
+  "u:https://arxiv.org/abs/2611.08294v1": {
+    "title": "ManimCode: Learning Visual Self-Correction for Educational Animation",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08294v1"
+  },
+  "u:https://arxiv.org/abs/2611.08290v1": {
+    "title": "AutoCompress: Automated Hardware-Guided Model Compression",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08290v1"
+  },
+  "u:https://arxiv.org/abs/2611.08288v1": {
+    "title": "Hierarchical Incremental Beta Splatting for Online Reconstruction",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08288v1"
+  },
+  "u:https://arxiv.org/abs/2611.08286v1": {
+    "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08286v1"
+  },
+  "u:https://arxiv.org/abs/2611.08284v1": {
+    "title": "A Generative Model of Contextual Integrity: Appropriate vs. Inappropriate Information Sharing",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08284v1"
+  },
+  "u:https://arxiv.org/abs/2611.08277v1": {
+    "title": "LeanContext: Disentangling Mathematical Resources from Local Formal Context in Lean Whole-Proof Generation",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08277v1"
+  },
+  "u:https://arxiv.org/abs/2611.08275v1": {
+    "title": "Aligning Policy Encoders with a Shape Teacher",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08275v1"
+  },
+  "u:https://arxiv.org/abs/2611.08273v1": {
+    "title": "Accelerating Safe Reinforcement Learning with Massive Parallelism",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08273v1"
+  },
+  "u:https://arxiv.org/abs/2611.08271v1": {
+    "title": "DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08271v1"
+  },
+  "u:https://arxiv.org/abs/2611.08269v1": {
+    "title": "Accepted but Wrong: Silent Failures of LLM Code Repairs after API Migrations",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08269v1"
+  },
+  "u:https://arxiv.org/abs/2611.08264v1": {
+    "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08264v1"
+  },
+  "u:https://arxiv.org/abs/2611.08262v1": {
+    "title": "The Geometry of Simulated Perspectives: Dissociating Representation and Behaviour in a Multimodal Language Model",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08262v1"
+  },
+  "u:https://arxiv.org/abs/2611.08259v1": {
+    "title": "Fault-Geometry-Aware Control Allocation for Emergency Quadrotor Landing under Single-Motor Loss of Effectiveness",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08259v1"
+  },
+  "u:https://arxiv.org/abs/2611.08255v1": {
+    "title": "Nowcasting of Tropical Cyclone Wind Fields and Intensity from Geostationary Imagery",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08255v1"
+  },
+  "u:https://arxiv.org/abs/2611.08252v1": {
+    "title": "Series-wise Cross-validation for Global Time Series Forecasting",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08252v1"
+  },
+  "u:https://arxiv.org/abs/2611.08249v1": {
+    "title": "Geometric Relevance Is Not Sufficient: Evaluating Focused Post-Training Supervision in Diffusion Docking",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08249v1"
+  },
+  "u:https://arxiv.org/abs/2611.08245v1": {
+    "title": "Value-oriented policy distillation for interpretable wind farm power control",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08245v1"
+  },
+  "u:https://arxiv.org/abs/2611.08240v1": {
+    "title": "FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08240v1"
+  },
+  "u:https://arxiv.org/abs/2611.08236v1": {
+    "title": "Beyond Quadratic Attention: Separable Gaussian Operators for ODE Vision Transformers",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08236v1"
+  },
+  "u:https://arxiv.org/abs/2611.08232v1": {
+    "title": "Signals, Evidence, and Context: User Scrutiny in Real-World LLM Conversations",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08232v1"
+  },
+  "u:https://arxiv.org/abs/2611.08216v1": {
+    "title": "ProQuant: Progressive Quantization-aware Training for Edge MLLMs",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08216v1"
+  },
+  "u:https://arxiv.org/abs/2611.08209v1": {
+    "title": "RoboARCade: Benchmarking Agentic Robot Control",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08209v1"
+  },
+  "u:https://arxiv.org/abs/2611.08199v1": {
+    "title": "Do sEMG Foundation Models Improve Cross-Subject Generalisation?",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08199v1"
+  },
+  "u:https://arxiv.org/abs/2611.08196v1": {
+    "title": "SMART: State-based Multi Agent Reasoning Traces for Verification-oriented Problem-Solving",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08196v1"
+  },
+  "u:https://arxiv.org/abs/2611.08185v1": {
+    "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08185v1"
+  },
+  "u:https://arxiv.org/abs/2611.08182v1": {
+    "title": "BUMP: Brief Unexpected Mid-Interpolation Peak",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08182v1"
+  },
+  "u:https://arxiv.org/abs/2611.08177v1": {
+    "title": "BabyTheorist: A Benchmark for Learning to Theorize the World from Observation Alone",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08177v1"
+  },
+  "u:https://arxiv.org/abs/2611.08175v1": {
+    "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08175v1"
+  },
+  "u:https://arxiv.org/abs/2611.08173v1": {
+    "title": "Regret Bounds for Profit Maximization in Bilateral Trade: Learning the Best Posted-Price Mechanism",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08173v1"
+  },
+  "u:https://arxiv.org/abs/2611.08160v1": {
+    "title": "Patch Attention Wisely: Understanding Patch Length in Attention-Based Forecasting",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08160v1"
+  },
+  "u:https://arxiv.org/abs/2611.08157v1": {
+    "title": "Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08157v1"
+  },
+  "u:https://arxiv.org/abs/2611.08156v1": {
+    "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08156v1"
+  },
+  "u:https://arxiv.org/abs/2611.08154v1": {
+    "title": "Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08154v1"
+  },
+  "u:https://arxiv.org/abs/2611.08153v1": {
+    "title": "A Generative Foundation Model for Multimodal Tokamak Tasks",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08153v1"
+  },
+  "u:https://arxiv.org/abs/2611.08147v1": {
+    "title": "MCUFlowNet: Hardware-Aware Neural Architecture Search for Optical Flow on Microcontrollers",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08147v1"
+  },
+  "u:https://arxiv.org/abs/2611.08144v1": {
+    "title": "Detecting Silent Faults at the Environment-Trainer Boundary in Reinforcement Learning",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08144v1"
+  },
+  "u:https://arxiv.org/abs/2611.08142v1": {
+    "title": "Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08142v1"
+  },
+  "u:https://arxiv.org/abs/2611.08139v1": {
+    "title": "H-TRIP: Exact Many-to-Many Distance Index for Multi-Robot Exploration",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08139v1"
+  },
+  "u:https://arxiv.org/abs/2611.08138v1": {
+    "title": "Describe Your Facial Expressions by Linking Image Encoders and Large Language Models",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08138v1"
+  },
+  "u:https://arxiv.org/abs/2611.08134v1": {
+    "title": "Who Can Evaluate AI Independently? A Framework for Analysing Evaluation Infrastructure",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08134v1"
+  },
+  "u:https://arxiv.org/abs/2611.08128v1": {
+    "title": "FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08128v1"
+  },
+  "u:https://arxiv.org/abs/2611.08125v1": {
+    "title": "ProtoGestalt: Interpretable Prototypes for Facial Phenotyping and Diagnosis of Rare Genetic Disorders",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08125v1"
+  },
+  "u:https://arxiv.org/abs/2611.08119v1": {
+    "title": "H-BRICK: Hierarchical Boundary Reachability Index with Compressed Kleene Closure for Directed Grid Graphs",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08119v1"
+  },
+  "u:https://arxiv.org/abs/2611.08116v1": {
+    "title": "Create Your Own Work Stack: Deploying Self-hosted AI and Tooling in a Tech Startup",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08116v1"
+  },
+  "u:https://arxiv.org/abs/2611.08111v1": {
+    "title": "Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08111v1"
+  },
+  "u:https://arxiv.org/abs/2611.08100v1": {
+    "title": "An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08100v1"
+  },
+  "u:https://arxiv.org/abs/2611.08099v1": {
+    "title": "Towards Practical 20 kbps Generative Video Compression via Adaptive Tokenization and Entropy Modeling",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08099v1"
+  },
+  "u:https://arxiv.org/abs/2611.08097v1": {
+    "title": "STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion",
+    "first_seen": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.08097v1"
+  },
+  "u:https://doi.org/10.1098/rsos.252099": {
+    "title": "Large language model developments",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1098/rsos.252099"
+  },
+  "u:https://doi.org/10.1201/9781779642813-11": {
+    "title": "Large Language Models in Fruit Science",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1201/9781779642813-11"
+  },
+  "u:https://doi.org/10.1201/9781779642813-14": {
+    "title": "Large Language Model Use in Agronomy",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1201/9781779642813-14"
+  },
+  "u:https://doi.org/10.1201/9781779642813-16": {
+    "title": "Insect Study Through Large Language Models",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1201/9781779642813-16"
+  },
+  "u:https://doi.org/10.1201/9781779642813-2": {
+    "title": "Evolution of Large Language Models and Agricultural Sciences",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1201/9781779642813-2"
+  },
+  "u:https://doi.org/10.1201/9781779642813-9": {
+    "title": "Application of Large Language Models in Agricultural Entomology",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1201/9781779642813-9"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.04834": {
+    "title": "Feeling of Knowing in Large Language Models",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.48550/arxiv.2611.04834"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.05062": {
+    "title": "FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.48550/arxiv.2611.05062"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.04870": {
+    "title": "PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.48550/arxiv.2611.04870"
+  },
+  "u:https://doi.org/10.1038/s40494-026-03076-4": {
+    "title": "Occlusion-aware and consistency-enhanced 3D Gaussian splatting for crowdsourced heritage reconstruction",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1038/s40494-026-03076-4"
+  },
+  "u:https://doi.org/10.1016/j.autcon.2026.107338": {
+    "title": "Improving indoor reality capture under non-ideal image conditions through sequential image standardization and 3D Gaussian Splatting",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1016/j.autcon.2026.107338"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.04358": {
+    "title": "EndoS3:Endoscopic Semantic Splatting SLAM",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.48550/arxiv.2611.04358"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.04498": {
+    "title": "3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.48550/arxiv.2611.04498"
+  },
+  "u:https://doi.org/10.17605/osf.io/ktzwg": {
+    "title": "Agent-Judge-Framework: A Reliability-Oriented Framework for Automated Evaluation of Tool-Using Autonomous Agents",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.17605/osf.io/ktzwg"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.05251": {
+    "title": "A semi-autonomous multi-agent pipeline for high-energy astrophysics research with enforced provenance and verifiable self-extension",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.48550/arxiv.2611.05251"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.04146": {
+    "title": "RGDM: Robust Graph Diffusion Model",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.48550/arxiv.2611.04146"
+  },
+  "u:https://doi.org/10.7924/r4r596": {
+    "title": "Data and scripts from: The critical slowing down in training diffusion models",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.7924/r4r596"
+  },
+  "u:https://doi.org/10.1145/3845814.3850087": {
+    "title": "rLLM: A Serving-Aware Simulation Framework for Realistic LLM Hardware Evaluation",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1145/3845814.3850087"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.05104": {
+    "title": "Workload-Static Optical Circuit Switching For Scalable LLM Inference Decode",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.48550/arxiv.2611.05104"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.04807": {
+    "title": "Asymptotic Optimality of $cμ$-Rule for LLM Inference Scheduling under Memory Constraint",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.48550/arxiv.2611.04807"
+  },
+  "u:https://doi.org/10.1145/3845814.3850050": {
+    "title": "KAIROS: Stateful, Context-Aware Power-Efficient Agentic Inference Serving",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1145/3845814.3850050"
+  },
+  "u:https://doi.org/10.1145/3845814.3850063": {
+    "title": "Vortex: Bridging Extreme Compression and Efficient LLM Inference",
+    "first_seen": "2026-11-06",
+    "url": "https://doi.org/10.1145/3845814.3850063"
+  },
+  "u:https://huggingface.co/papers/2611.07909": {
+    "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.07909"
+  },
+  "u:https://huggingface.co/papers/2611.07854": {
+    "title": "Towards Foundation Decision Models: Drex",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.07854"
+  },
+  "u:https://huggingface.co/papers/2611.06425": {
+    "title": "D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.06425"
+  },
+  "u:https://huggingface.co/papers/2611.04408": {
+    "title": "Halley: A Predictive Control Plane for Optical AI Data Center Networks",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.04408"
+  },
+  "u:https://huggingface.co/papers/2611.04949": {
+    "title": "HERIT: Enabling Global Access to Hanja-to-English Historical Translation by Mitigating Temporal Bias",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.04949"
+  },
+  "u:https://huggingface.co/papers/2611.05029": {
+    "title": "DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.05029"
+  },
+  "u:https://huggingface.co/papers/2611.05988": {
+    "title": "LiveFoley: Dynamic Real-Time Video-to-Audio Generation for Immersive Interactive Worlds",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.05988"
+  },
+  "u:https://huggingface.co/papers/2611.06042": {
+    "title": "UniRestorer++: Scalable Universal Image Restoration with Multi-Granularity Degradation Modeling",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.06042"
+  },
+  "u:https://huggingface.co/papers/2611.05593": {
+    "title": "GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.05593"
+  },
+  "u:https://huggingface.co/papers/2611.05648": {
+    "title": "NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.05648"
+  },
+  "u:https://huggingface.co/papers/2611.06768": {
+    "title": "PyRUA-REAL: Robot Exploration and Adaptive Learning through RSI in the Real World",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.06768"
+  },
+  "u:https://huggingface.co/papers/2611.04760": {
+    "title": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.04760"
+  },
+  "u:https://huggingface.co/papers/2611.06483": {
+    "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.06483"
+  },
+  "u:https://huggingface.co/papers/2611.06728": {
+    "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.06728"
+  },
+  "u:https://huggingface.co/papers/2611.05304": {
+    "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.05304"
+  },
+  "u:https://huggingface.co/papers/2611.06518": {
+    "title": "EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.06518"
+  },
+  "u:https://huggingface.co/papers/2611.05609": {
+    "title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.05609"
+  },
+  "u:https://huggingface.co/papers/2611.06910": {
+    "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.06910"
+  },
+  "u:https://huggingface.co/papers/2610.40131": {
+    "title": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations?",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2610.40131"
+  },
+  "u:https://huggingface.co/papers/2611.06796": {
+    "title": "VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.06796"
+  },
+  "u:https://huggingface.co/papers/2611.06083": {
+    "title": "SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.06083"
+  },
+  "u:https://github.com/scenario-labs/skills": {
+    "title": "scenario-labs/skills",
+    "first_seen": "2026-11-06",
+    "url": "https://github.com/scenario-labs/skills"
+  },
+  "u:https://openai.com/index/australian-universities-ai-native-graduates": {
+    "title": "Australian universities are creating AI-native graduates",
+    "first_seen": "2026-11-06",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates"
+  },
+  "u:https://openai.com/index/introducing-gpt-6-cyber": {
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "first_seen": "2026-11-06",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber"
+  },
+  "u:https://openai.com/index/merge-builds-with-openai": {
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "first_seen": "2026-11-06",
+    "url": "https://openai.com/index/merge-builds-with-openai"
+  },
+  "u:https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "first_seen": "2026-11-06",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+  },
+  "u:https://openai.com/ads/customers/flipsnack": {
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "first_seen": "2026-11-06",
+    "url": "https://openai.com/ads/customers/flipsnack"
+  },
+  "u:https://openai.com/index/franklin-templeton": {
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "first_seen": "2026-11-06",
+    "url": "https://openai.com/index/franklin-templeton"
+  },
+  "u:https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "first_seen": "2026-11-06",
+    "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+  },
+  "u:https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": {
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+  },
+  "u:https://huggingface.co/blog/phonon-tts": {
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "first_seen": "2026-11-06",
+    "url": "https://huggingface.co/blog/phonon-tts"
+  },
+  "u:https://windowsreport.com/openai-gpt-image-2-6-model-brings-50-faster-image-generation-animated-gifs-and-improved-editing": {
+    "title": "OpenAI's GPT-Image-2.6 model brings 50% faster image generation, animated GIFs, and improved editing",
+    "first_seen": "2026-11-06",
+    "url": "https://windowsreport.com/openai-gpt-image-2-6-model-brings-50-faster-image-generation-animated-gifs-and-improved-editing"
+  },
+  "u:https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models": {
+    "title": "Apple Creator Studio gets powerful new AI features using OpenAI models",
+    "first_seen": "2026-11-06",
+    "url": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models"
+  },
+  "u:https://gizmodo.com/software-is-dead-unless-anthropic-says-otherwise-2000833871": {
+    "title": "Software Is Dead—Unless Anthropic Says Otherwise",
+    "first_seen": "2026-11-06",
+    "url": "https://gizmodo.com/software-is-dead-unless-anthropic-says-otherwise-2000833871"
+  },
+  "u:https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model": {
+    "title": "Anthropic prepares to release Claude Mythos 5.5 model",
+    "first_seen": "2026-11-06",
+    "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model"
+  },
+  "u:https://www.healthcareitnews.com/news/athenahealth-launches-server-connect-patient-records-anthropics-claude": {
+    "title": "Athenahealth launches server to connect patient records to Anthropic's Claude | Healthcare IT News",
+    "first_seen": "2026-11-06",
+    "url": "https://www.healthcareitnews.com/news/athenahealth-launches-server-connect-patient-records-anthropics-claude"
+  },
+  "u:https://uk.finance.yahoo.com/news/anthropic-claude-now-leave-trail-151343512.html": {
+    "title": "Anthropic’s Claude will now leave a trail that shows whether a text was made with AI",
+    "first_seen": "2026-11-06",
+    "url": "https://uk.finance.yahoo.com/news/anthropic-claude-now-leave-trail-151343512.html"
+  },
+  "u:https://www.all-about-industries.com/meta-is-developing-humanoid-robots-with-a-chinese-startup-a-c882e99015a6cb3f04f4e529b9af8414": {
+    "title": "Meta Is Developing a Humanoid Robot in Collaboration with a Chinese Startup",
+    "first_seen": "2026-11-06",
+    "url": "https://www.all-about-industries.com/meta-is-developing-humanoid-robots-with-a-chinese-startup-a-c882e99015a6cb3f04f4e529b9af8414"
+  },
+  "u:https://aimagazine.com/news/meta-chinas-fourier-a-humanoid-robot-for-muse-ai-agent": {
+    "title": "Meta & China’s Fourier: A Humanoid Robot for Muse AI Agent | AI Magazine",
+    "first_seen": "2026-11-06",
+    "url": "https://aimagazine.com/news/meta-chinas-fourier-a-humanoid-robot-for-muse-ai-agent"
+  },
+  "u:https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory": {
+    "title": "Xiaomi's humanoid robots work a full 8-hour shift in its EV factory | Electrek",
+    "first_seen": "2026-11-06",
+    "url": "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory"
+  },
+  "u:https://www.techradar.com/pro/us-police-forces-could-soon-get-a-major-tech-upgrade-thanks-to-dt-researchs-new-rugged-laptops-which-pack-in-nvidia-graphics-and-ai-processing": {
+    "title": "US police forces could soon get a major tech upgrade thanks to DT Research's new rugged laptops, which pack in Nvidia graphics and AI processing | TechRadar",
+    "first_seen": "2026-11-06",
+    "url": "https://www.techradar.com/pro/us-police-forces-could-soon-get-a-major-tech-upgrade-thanks-to-dt-researchs-new-rugged-laptops-which-pack-in-nvidia-graphics-and-ai-processing"
+  },
+  "u:https://mezha.net/eng/news/mezha-7402df760d04e8523e308d2f_openai_plans_to": {
+    "title": "OpenAI plans to buy Google AI chips as it expands beyond Nvidia | Межа",
+    "first_seen": "2026-11-06",
+    "url": "https://mezha.net/eng/news/mezha-7402df760d04e8523e308d2f_openai_plans_to"
+  },
+  "u:https://www.infoworld.com/article/4245065/meta-acquires-conductor-as-ai-coding-shifts-toward-multi-agent-development.html": {
+    "title": "Meta acquires Conductor as AI coding shifts toward multi-agent development | InfoWorld",
+    "first_seen": "2026-11-06",
+    "url": "https://www.infoworld.com/article/4245065/meta-acquires-conductor-as-ai-coding-shifts-toward-multi-agent-development.html"
   }
 }
