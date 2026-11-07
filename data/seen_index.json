@@ -33978,5 +33978,310 @@
     "title": "Meta acquires Conductor as AI coding shifts toward multi-agent development | InfoWorld",
     "first_seen": "2026-11-06",
     "url": "https://www.infoworld.com/article/4245065/meta-acquires-conductor-as-ai-coding-shifts-toward-multi-agent-development.html"
+  },
+  "u:https://doi.org/10.1145/3767308.3836541": {
+    "title": "Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1145/3767308.3836541"
+  },
+  "u:https://doi.org/10.1007/s11704-026-60382-7": {
+    "title": "Selective attention or inattention? Enabling efficient perception in embodied intelligence agents",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1007/s11704-026-60382-7"
+  },
+  "u:https://doi.org/10.1145/3767308.3836261": {
+    "title": "Embodied3DBench: Benchmarking Low-Level Embodied Spatial Intelligence of Vision Language Models",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1145/3767308.3836261"
+  },
+  "u:https://doi.org/10.1093/nsr/nwag662": {
+    "title": "Self-evolving Embodied AI",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1093/nsr/nwag662"
+  },
+  "u:https://doi.org/10.1145/3767308.3836369": {
+    "title": "TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1145/3767308.3836369"
+  },
+  "u:https://doi.org/10.1007/978-981-92-7735-3_33": {
+    "title": "Video Generation of Sudden Accidents by World Models for Autonomous Off-Road Driving",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1007/978-981-92-7735-3_33"
+  },
+  "u:https://doi.org/10.1145/3767308.3838657": {
+    "title": "MindWorldBench: Evaluating Mental-State-to-Behavior Reasoning in Image-to-Video Generation",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1145/3767308.3838657"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.06120": {
+    "title": "ReactWorld: Structuring Interaction Responses for Embodied Video Generation",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.48550/arxiv.2611.06120"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.05988": {
+    "title": "LiveFoley: Dynamic Real-Time Video-to-Audio Generation for Immersive Interactive Worlds",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.48550/arxiv.2611.05988"
+  },
+  "u:https://doi.org/10.1145/3767308.3836107": {
+    "title": "PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1145/3767308.3836107"
+  },
+  "u:https://doi.org/10.1145/3767308.3836009": {
+    "title": "UrbanWorld2.0: A Multimodal Agentic Framework for Reality-Aligned 3D World Generation at City-Scale",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1145/3767308.3836009"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.06020": {
+    "title": "METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.48550/arxiv.2611.06020"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.06258": {
+    "title": "CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.48550/arxiv.2611.06258"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.06593": {
+    "title": "BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.48550/arxiv.2611.06593"
+  },
+  "u:https://doi.org/10.1145/3767308.3838633": {
+    "title": "AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.1145/3767308.3838633"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.06019": {
+    "title": "Phantom: Temporal Caching for Diffusion Models",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.48550/arxiv.2611.06019"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.06513": {
+    "title": "HELIX: HEterogeneous LLM Inference with FleXible and Fine-Grained Partitioning",
+    "first_seen": "2026-11-07",
+    "url": "https://doi.org/10.48550/arxiv.2611.06513"
+  },
+  "u:https://huggingface.co/papers/2611.06500": {
+    "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.06500"
+  },
+  "u:https://huggingface.co/papers/2611.06498": {
+    "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.06498"
+  },
+  "u:https://huggingface.co/papers/2611.08483": {
+    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.08483"
+  },
+  "u:https://huggingface.co/papers/2611.08237": {
+    "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.08237"
+  },
+  "u:https://huggingface.co/papers/2611.08376": {
+    "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.08376"
+  },
+  "u:https://huggingface.co/papers/2609.37820": {
+    "title": "Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2609.37820"
+  },
+  "u:https://huggingface.co/papers/2611.07298": {
+    "title": "Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.07298"
+  },
+  "u:https://huggingface.co/papers/2611.06976": {
+    "title": "On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.06976"
+  },
+  "u:https://huggingface.co/papers/2611.07613": {
+    "title": "Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.07613"
+  },
+  "u:https://huggingface.co/papers/2611.08089": {
+    "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.08089"
+  },
+  "u:https://huggingface.co/papers/2611.06741": {
+    "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.06741"
+  },
+  "u:https://huggingface.co/papers/2611.05376": {
+    "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.05376"
+  },
+  "u:https://huggingface.co/papers/2611.06982": {
+    "title": "Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.06982"
+  },
+  "u:https://huggingface.co/papers/2611.08373": {
+    "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.08373"
+  },
+  "u:https://huggingface.co/papers/2611.04527": {
+    "title": "Future Representation Distillation for Imagination-free World Action Models",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.04527"
+  },
+  "u:https://huggingface.co/papers/2611.08449": {
+    "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.08449"
+  },
+  "u:https://huggingface.co/papers/2611.07392": {
+    "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.07392"
+  },
+  "u:https://huggingface.co/papers/2611.06817": {
+    "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.06817"
+  },
+  "u:https://huggingface.co/papers/2611.08369": {
+    "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.08369"
+  },
+  "u:https://openai.com/index/partnering-with-hacktron": {
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "first_seen": "2026-11-07",
+    "url": "https://openai.com/index/partnering-with-hacktron"
+  },
+  "u:https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "first_seen": "2026-11-07",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+  },
+  "u:https://huggingface.co/blog/allenai/toyblocks": {
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "first_seen": "2026-11-07",
+    "url": "https://huggingface.co/blog/allenai/toyblocks"
+  },
+  "u:https://simonwillison.net/2026/Nov/6/nilay-patel": {
+    "title": "Quoting Nilay Patel",
+    "first_seen": "2026-11-07",
+    "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
+  },
+  "u:https://tavily.com/knowledge/company/p4PyTakV77G9": {
+    "title": "OpenAI",
+    "first_seen": "2026-11-07",
+    "url": "https://tavily.com/knowledge/company/p4PyTakV77G9"
+  },
+  "u:https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03": {
+    "title": "OpenAI employees warned about operational security lapses for years, sources say | Reuters",
+    "first_seen": "2026-11-07",
+    "url": "https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03"
+  },
+  "u:https://www.reuters.com/business/anthropic-rolls-out-personal-finance-feature-claude-2026-11-05": {
+    "title": "Anthropic rolls out personal finance feature for Claude | Reuters",
+    "first_seen": "2026-11-07",
+    "url": "https://www.reuters.com/business/anthropic-rolls-out-personal-finance-feature-claude-2026-11-05"
+  },
+  "u:https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy": {
+    "title": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre | Tom's Hardware",
+    "first_seen": "2026-11-07",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy"
+  },
+  "u:https://www.cnet.com/tech/gaming/anthropic-claude-update-video-game-cloning": {
+    "title": "Anthropic Addresses Video Game Cloning With Minor Claude Update - CNET",
+    "first_seen": "2026-11-07",
+    "url": "https://www.cnet.com/tech/gaming/anthropic-claude-update-video-game-cloning"
+  },
+  "u:https://www.anthropic.com/research/how-researchers-use-claude": {
+    "title": "How scientists use Claude \\ Anthropic",
+    "first_seen": "2026-11-07",
+    "url": "https://www.anthropic.com/research/how-researchers-use-claude"
+  },
+  "u:https://www.noahpinion.blog/p/anthropics-moat-is-claude": {
+    "title": "Anthropic’s moat is Claude - by Noah Smith - Noahpinion",
+    "first_seen": "2026-11-07",
+    "url": "https://www.noahpinion.blog/p/anthropics-moat-is-claude"
+  },
+  "u:https://www.nationaldefensemagazine.org/articles/2026/11/4/new-humanoid-robot-offers-ordnance-disposal-option": {
+    "title": "New Humanoid Robot Offers Ordnance Disposal Option",
+    "first_seen": "2026-11-07",
+    "url": "https://www.nationaldefensemagazine.org/articles/2026/11/4/new-humanoid-robot-offers-ordnance-disposal-option"
+  },
+  "u:https://www.martincid.com/technology-sv/meta-max-humanoid-robot-fourier-three-months-not-for-sale": {
+    "title": "Meta built a humanoid robot called Max in three months, and won’t sell it – Martin Cid Magazine",
+    "first_seen": "2026-11-07",
+    "url": "https://www.martincid.com/technology-sv/meta-max-humanoid-robot-fourier-three-months-not-for-sale"
+  },
+  "u:https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores": {
+    "title": "Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores",
+    "first_seen": "2026-11-07",
+    "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores"
+  },
+  "u:https://www.reuters.com/world/china/meta-builds-humanoid-robot-with-chinese-startup-fourier-information-says-2026-10-31": {
+    "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
+    "first_seen": "2026-11-07",
+    "url": "https://www.reuters.com/world/china/meta-builds-humanoid-robot-with-chinese-startup-fourier-information-says-2026-10-31"
+  },
+  "u:https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future": {
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future. | MIT Technology Review",
+    "first_seen": "2026-11-07",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future"
+  },
+  "u:https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support": {
+    "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support | NVIDIA Technical Blog",
+    "first_seen": "2026-11-07",
+    "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support"
+  },
+  "u:https://tavily.com/knowledge/company/TXRhn2TKUD7t": {
+    "title": "NVIDIA",
+    "first_seen": "2026-11-07",
+    "url": "https://tavily.com/knowledge/company/TXRhn2TKUD7t"
+  },
+  "u:https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand": {
+    "title": "Nvidia can only fulfill 1% of China’s massive $70 billion GPU order for AI chips, report claims — supply constraints choke export-friendly RTX Pro 5500 deliveries despite huge demand | Tom's Hardware",
+    "first_seen": "2026-11-07",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand"
+  },
+  "u:https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05": {
+    "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval | Reuters",
+    "first_seen": "2026-11-07",
+    "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05"
+  },
+  "u:https://siliconangle.com/2026/11/04/exclusive-blueflag-security-expands-ai-agent-governance-to-cover-unapproved-coding-agents": {
+    "title": "Exclusive: BlueFlag Security expands AI agent governance to cover unapproved coding agents - SiliconANGLE",
+    "first_seen": "2026-11-07",
+    "url": "https://siliconangle.com/2026/11/04/exclusive-blueflag-security-expands-ai-agent-governance-to-cover-unapproved-coding-agents"
+  },
+  "u:https://www.infoworld.com/article/4245120/aws-launches-kiro-bots-to-help-devs-coordinate-ai-coding-agents.html": {
+    "title": "AWS launches Kiro bots to help devs coordinate AI coding agents | InfoWorld",
+    "first_seen": "2026-11-07",
+    "url": "https://www.infoworld.com/article/4245120/aws-launches-kiro-bots-to-help-devs-coordinate-ai-coding-agents.html"
+  },
+  "u:https://thenewstack.io/postman-plugin-coding-agents": {
+    "title": "A developer opened Postman. Then two AI coding agents changed without their permission. - The New Stack",
+    "first_seen": "2026-11-07",
+    "url": "https://thenewstack.io/postman-plugin-coding-agents"
+  },
+  "u:https://www.hackersandwizards.dev/knowledge/tools/ai-coding-tools": {
+    "title": "AI Coding Tools | hackers&wizards",
+    "first_seen": "2026-11-07",
+    "url": "https://www.hackersandwizards.dev/knowledge/tools/ai-coding-tools"
+  },
+  "u:https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once": {
+    "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once - SiliconANGLE",
+    "first_seen": "2026-11-07",
+    "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once"
   }
 }
