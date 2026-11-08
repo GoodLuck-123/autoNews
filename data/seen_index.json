@@ -34283,5 +34283,150 @@
     "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once - SiliconANGLE",
     "first_seen": "2026-11-07",
     "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once"
+  },
+  "u:https://doi.org/10.1145/3767308.3835362": {
+    "title": "Dream-Tac: A Unified Tactile World Action Model for Contact-Rich Robot Manipulation",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.1145/3767308.3835362"
+  },
+  "u:https://doi.org/10.1145/3767308.3835768": {
+    "title": "SeMo: A Self-Supervised Motion Latent for Portrait Video Generation",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.1145/3767308.3835768"
+  },
+  "u:https://doi.org/10.1145/3767308.3834990": {
+    "title": "MoVT: Video-Augmented Motion Tokenizer for Text-to-Motion Generation",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.1145/3767308.3834990"
+  },
+  "u:https://doi.org/10.1145/3767308.3835782": {
+    "title": "TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.1145/3767308.3835782"
+  },
+  "u:https://doi.org/10.1145/3767308.3835433": {
+    "title": "MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.1145/3767308.3835433"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.08330": {
+    "title": "InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.48550/arxiv.2611.08330"
+  },
+  "u:https://doi.org/10.1145/3767308.3835011": {
+    "title": "DynActiveGS: Active Gaussian Splatting for Dynamic Scene Reconstruction",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.1145/3767308.3835011"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.08288": {
+    "title": "Hierarchical Incremental Beta Splatting for Online Reconstruction",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.48550/arxiv.2611.08288"
+  },
+  "u:https://doi.org/10.1609/aaaiss.v10i1.43518": {
+    "title": "Agentic AI: Trustworthy Autonomous Decision Making Systems",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.1609/aaaiss.v10i1.43518"
+  },
+  "u:https://doi.org/10.1145/3767308.3834946": {
+    "title": "PAST: Prompt-Adaptive Sampling Termination for Efficient Diffusion Model",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.1145/3767308.3834946"
+  },
+  "u:https://doi.org/10.1145/3767308.3835227": {
+    "title": "Explore or Converge? Stage-Guided Per-Step Optimization for Diffusion Models",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.1145/3767308.3835227"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.07542": {
+    "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.48550/arxiv.2611.07542"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.07570": {
+    "title": "ACSeL: Adaptive Configuration Search for Hardware-Constrained LLM Inference",
+    "first_seen": "2026-11-08",
+    "url": "https://doi.org/10.48550/arxiv.2611.07570"
+  },
+  "u:https://github.com/meta/astryx": {
+    "title": "meta/astryx",
+    "first_seen": "2026-11-08",
+    "url": "https://github.com/meta/astryx"
+  },
+  "u:https://github.com/ranxianglei/billion-context": {
+    "title": "ranxianglei/billion-context",
+    "first_seen": "2026-11-08",
+    "url": "https://github.com/ranxianglei/billion-context"
+  },
+  "u:https://github.com/dsx-ai-factory/nvke": {
+    "title": "dsx-ai-factory/nvke",
+    "first_seen": "2026-11-08",
+    "url": "https://github.com/dsx-ai-factory/nvke"
+  },
+  "u:https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough": {
+    "title": "OpenAI released a new cybersecurity model. Is that enough? | TechCrunch",
+    "first_seen": "2026-11-08",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough"
+  },
+  "u:https://gigazine.net/gsc_news/en/20261106-inkling-2-small": {
+    "title": "The AI company founded by the former CTO of OpenAI has announced a high-performance AI model, 'Inkling 2 Small,' which is expected to be released as an open model soon. - GIGAZINE",
+    "first_seen": "2026-11-08",
+    "url": "https://gigazine.net/gsc_news/en/20261106-inkling-2-small"
+  },
+  "u:https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents": {
+    "title": "GPT-6 Cyber: OpenAI’s Frontier of “Aligned” Security Agents | Cyber Magazine",
+    "first_seen": "2026-11-08",
+    "url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents"
+  },
+  "u:https://cybersecuritynews.com/openai-security-sprint": {
+    "title": "OpenAI Launches New Security Sprint to Hunt Vulnerabilities and Strengthen Defenses",
+    "first_seen": "2026-11-08",
+    "url": "https://cybersecuritynews.com/openai-security-sprint"
+  },
+  "u:https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users": {
+    "title": "Anthropic must face claims its Claude Max pitch misled users | Courthouse News Service",
+    "first_seen": "2026-11-08",
+    "url": "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users"
+  },
+  "u:https://www.financialcontent.com/article/bizwire-2026-11-6-embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job": {
+    "title": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job | FinancialContent",
+    "first_seen": "2026-11-08",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-11-6-embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job"
+  },
+  "u:https://autojosh.com/tesla-may-soon-begin-accepting-orders-for-its-humanoid-robot": {
+    "title": "Tesla May Soon Begin Accepting Orders For Its Humanoid Robot – AUTOJOSH",
+    "first_seen": "2026-11-08",
+    "url": "https://autojosh.com/tesla-may-soon-begin-accepting-orders-for-its-humanoid-robot"
+  },
+  "u:https://www.fool.com/investing/2026/11/03/micron-or-nvidia-if-i-could-only-buy-and-hold-one": {
+    "title": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One | The Motley Fool",
+    "first_seen": "2026-11-08",
+    "url": "https://www.fool.com/investing/2026/11/03/micron-or-nvidia-if-i-could-only-buy-and-hold-one"
+  },
+  "u:https://bravenewcoin.com/insights/moonshot-ai-eyes-8000-nvidia-blackwell-gpus-through-european-cloud-providers-despite-us-chip-curbs": {
+    "title": "Moonshot AI Eyes 8,000+ Nvidia Blackwell GPUs Through European Cloud Providers Despite US Chip Curbs",
+    "first_seen": "2026-11-08",
+    "url": "https://bravenewcoin.com/insights/moonshot-ai-eyes-8000-nvidia-blackwell-gpus-through-european-cloud-providers-despite-us-chip-curbs"
+  },
+  "u:https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-nov-17-evidence-092502652.html": {
+    "title": "Should You Buy Nvidia Before Nov. 17? The Evidence is Piling Up and Here’s What It Shows.",
+    "first_seen": "2026-11-08",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-nov-17-evidence-092502652.html"
+  },
+  "u:https://www.databricks.com/customers/ubisoft/unity-gateway": {
+    "title": "Ubisoft Scales AI Coding With Unity Gateway | Databricks",
+    "first_seen": "2026-11-08",
+    "url": "https://www.databricks.com/customers/ubisoft/unity-gateway"
+  },
+  "u:https://thenewstack.io/22842541cognition-devin-hierarchical-budgets": {
+    "title": "Your AI coding agent now runs on a budget — and it can cut you off mid-task - The New Stack",
+    "first_seen": "2026-11-08",
+    "url": "https://thenewstack.io/22842541cognition-devin-hierarchical-budgets"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/snowflake-snow-ai-coding-agent-153318481.html": {
+    "title": "Snowflake’s (SNOW) AI Coding Agent (CoCo) Sparks Top-Line Reacceleration",
+    "first_seen": "2026-11-08",
+    "url": "https://finance.yahoo.com/technology/ai/articles/snowflake-snow-ai-coding-agent-153318481.html"
   }
 }
