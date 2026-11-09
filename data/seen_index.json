@@ -34428,5 +34428,80 @@
     "title": "Snowflake’s (SNOW) AI Coding Agent (CoCo) Sparks Top-Line Reacceleration",
     "first_seen": "2026-11-08",
     "url": "https://finance.yahoo.com/technology/ai/articles/snowflake-snow-ai-coding-agent-153318481.html"
+  },
+  "u:https://doi.org/10.1145/3841458.3841541": {
+    "title": "Semantic World Priors for Training-Free Cross-Clip Consistency in Black-Box Video Generation",
+    "first_seen": "2026-11-09",
+    "url": "https://doi.org/10.1145/3841458.3841541"
+  },
+  "u:https://doi.org/10.1145/3767308.3835020": {
+    "title": "World2Act: Mining Spatiotemporal World-Model Priors for Efficient Visuomotor Control",
+    "first_seen": "2026-11-09",
+    "url": "https://doi.org/10.1145/3767308.3835020"
+  },
+  "u:https://doi.org/10.58257/ijprems55112": {
+    "title": "MULTI-AGENT AI SYSTEMS FOR AUTONOMOUS SOFTWARE DEVELOPMENT",
+    "first_seen": "2026-11-09",
+    "url": "https://doi.org/10.58257/ijprems55112"
+  },
+  "u:https://huggingface.co/papers/2611.09382": {
+    "title": "Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
+    "first_seen": "2026-11-09",
+    "url": "https://huggingface.co/papers/2611.09382"
+  },
+  "u:https://github.com/anthropics/claude-quickstarts": {
+    "title": "anthropics/claude-quickstarts",
+    "first_seen": "2026-11-09",
+    "url": "https://github.com/anthropics/claude-quickstarts"
+  },
+  "u:https://github.com/google-deepmind/mujoco": {
+    "title": "google-deepmind/mujoco",
+    "first_seen": "2026-11-09",
+    "url": "https://github.com/google-deepmind/mujoco"
+  },
+  "u:https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust": {
+    "title": "parse_number() as a SQLite extension: C vs Rust",
+    "first_seen": "2026-11-09",
+    "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
+  },
+  "u:https://www.connectmoney.com/stories/anthropic-rolls-out-personal-finance-tool-in-claude": {
+    "title": "Anthropic Rolls Out Personal Finance Tool in Claude - Connect Money",
+    "first_seen": "2026-11-09",
+    "url": "https://www.connectmoney.com/stories/anthropic-rolls-out-personal-finance-tool-in-claude"
+  },
+  "u:https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11": {
+    "title": "Claude Code Leader Cat Wu Exits Anthropic Before Big IPO - Business Insider",
+    "first_seen": "2026-11-09",
+    "url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/anthropic-touts-claude-chip-design-153547636.html": {
+    "title": "Anthropic touts Claude’s chip design skills to investors ahead of IPO, report says",
+    "first_seen": "2026-11-09",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-touts-claude-chip-design-153547636.html"
+  },
+  "u:https://pandaily.com/x-humanoid-hi-wbc-whole-body-control-model-tiangong-humanoid": {
+    "title": "X-Humanoid Releases Hi-WBC Whole-Body Control Model for Tiangong Humanoid Robots",
+    "first_seen": "2026-11-09",
+    "url": "https://pandaily.com/x-humanoid-hi-wbc-whole-body-control-model-tiangong-humanoid"
+  },
+  "u:https://interestingengineering.com/ai-robotics/figure-03-humanoids-take-campus-walk": {
+    "title": "Figure's new humanoid robots take first steps outside US factory",
+    "first_seen": "2026-11-09",
+    "url": "https://interestingengineering.com/ai-robotics/figure-03-humanoids-take-campus-walk"
+  },
+  "u:https://tech-insider.org/alexander-tsado-udutech-africa-gpu-cloud-cassava-12000-gpus-2026": {
+    "title": "UduTech's Alexander Tsado on Africa's GPU Cloud [2026]",
+    "first_seen": "2026-11-09",
+    "url": "https://tech-insider.org/alexander-tsado-udutech-africa-gpu-cloud-cassava-12000-gpus-2026"
+  },
+  "u:https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy": {
+    "title": "Nvidia launches investigation into CEO’s alleged relationship with Chinese spy : NPR",
+    "first_seen": "2026-11-09",
+    "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy"
+  },
+  "u:https://africa.businessinsider.com/local/markets/taiwanese-american-billionaire-and-nvidia-chief-jensen-huang-faces-probe-over-affair/w8x2l69": {
+    "title": "Taiwanese-American billionaire and Nvidia chief Jensen Huang faces probe over affair with suspected Chinese spy amid major AI projects in Egypt and Morocco | Business Insider Africa",
+    "first_seen": "2026-11-09",
+    "url": "https://africa.businessinsider.com/local/markets/taiwanese-american-billionaire-and-nvidia-chief-jensen-huang-faces-probe-over-affair/w8x2l69"
   }
 }
