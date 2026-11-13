@@ -36813,5 +36813,205 @@
     "title": "TI Adds Agentic AI to CCStudio and Launches a Multiprotocol Industrial Ethernet Module - News",
     "first_seen": "2026-11-12",
     "url": "https://www.allaboutcircuits.com/news/ti-adds-agentic-ai-to-ccstudio-and-launches-a-multiprotocol-industrial-ethernet-module"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.13610": {
+    "title": "From Egocentric Human Video to Robot Manipulation in the Era of Embodied Intelligence",
+    "first_seen": "2026-11-13",
+    "url": "https://doi.org/10.48550/arxiv.2611.13610"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.13669": {
+    "title": "A computational framework for understanding embodied plans",
+    "first_seen": "2026-11-13",
+    "url": "https://doi.org/10.48550/arxiv.2611.13669"
+  },
+  "u:https://doi.org/10.1038/s42256-026-01335-4": {
+    "title": "Tensegrity continuum robots enable task-adaptive morphologies for cooperative behaviours",
+    "first_seen": "2026-11-13",
+    "url": "https://doi.org/10.1038/s42256-026-01335-4"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.13576": {
+    "title": "PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation",
+    "first_seen": "2026-11-13",
+    "url": "https://doi.org/10.48550/arxiv.2611.13576"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.14420": {
+    "title": "OnlyAct: Extracting Action Representations from Foundation Models for World Models",
+    "first_seen": "2026-11-13",
+    "url": "https://doi.org/10.48550/arxiv.2611.14420"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.13528": {
+    "title": "GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM",
+    "first_seen": "2026-11-13",
+    "url": "https://doi.org/10.48550/arxiv.2611.13528"
+  },
+  "u:https://doi.org/10.1145/3795860.3846277": {
+    "title": "Agents of Instruction: Co-Creating Learning Materials with AI Agents",
+    "first_seen": "2026-11-13",
+    "url": "https://doi.org/10.1145/3795860.3846277"
+  },
+  "u:https://doi.org/10.3390/app162211128": {
+    "title": "Encrypted Network Traffic Generation Using a Conditional Diffusion Model",
+    "first_seen": "2026-11-13",
+    "url": "https://doi.org/10.3390/app162211128"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.14246": {
+    "title": "SinkState: On-the-Fly SVD of Recurrent States for Efficient Hybrid LLM Serving",
+    "first_seen": "2026-11-13",
+    "url": "https://doi.org/10.48550/arxiv.2611.14246"
+  },
+  "u:https://huggingface.co/papers/2611.15131": {
+    "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.15131"
+  },
+  "u:https://huggingface.co/papers/2611.14815": {
+    "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.14815"
+  },
+  "u:https://huggingface.co/papers/2611.11306": {
+    "title": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.11306"
+  },
+  "u:https://huggingface.co/papers/2611.13766": {
+    "title": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.13766"
+  },
+  "u:https://huggingface.co/papers/2611.12869": {
+    "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.12869"
+  },
+  "u:https://huggingface.co/papers/2611.14418": {
+    "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.14418"
+  },
+  "u:https://huggingface.co/papers/2611.14413": {
+    "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.14413"
+  },
+  "u:https://huggingface.co/papers/2611.13843": {
+    "title": "PolyRoute: A Twelve-Language and Code-Mixed Benchmark for Typed-Decision Routing, with Baselines and a Leaderboard",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.13843"
+  },
+  "u:https://huggingface.co/papers/2611.13410": {
+    "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.13410"
+  },
+  "u:https://huggingface.co/papers/2611.13758": {
+    "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.13758"
+  },
+  "u:https://github.com/GoogleChrome/modern-web-guidance-src": {
+    "title": "GoogleChrome/modern-web-guidance-src",
+    "first_seen": "2026-11-13",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  "u:https://github.com/QwenLM/qwen-code": {
+    "title": "QwenLM/qwen-code",
+    "first_seen": "2026-11-13",
+    "url": "https://github.com/QwenLM/qwen-code"
+  },
+  "u:https://github.com/ashhart/TensorFold": {
+    "title": "ashhart/TensorFold",
+    "first_seen": "2026-11-13",
+    "url": "https://github.com/ashhart/TensorFold"
+  },
+  "u:https://github.com/ggml-org/llama.cpp": {
+    "title": "ggml-org/llama.cpp",
+    "first_seen": "2026-11-13",
+    "url": "https://github.com/ggml-org/llama.cpp"
+  },
+  "u:https://openai.com/business/customer-stories/amplitude": {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "first_seen": "2026-11-13",
+    "url": "https://openai.com/business/customer-stories/amplitude"
+  },
+  "u:https://openai.com/business/customer-stories/gondola": {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "first_seen": "2026-11-13",
+    "url": "https://openai.com/business/customer-stories/gondola"
+  },
+  "u:https://openai.com/index/children-first-declaration": {
+    "title": "Supporting research on AI and children’s safety",
+    "first_seen": "2026-11-13",
+    "url": "https://openai.com/index/children-first-declaration"
+  },
+  "u:https://deepmind.google/blog/introducing-gemini-4-hydrogen": {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "first_seen": "2026-11-13",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+  },
+  "u:https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "first_seen": "2026-11-13",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+  },
+  "u:https://simonwillison.net/2026/Nov/12/llm-gemini": {
+    "title": "llm-gemini 0.37",
+    "first_seen": "2026-11-13",
+    "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+  },
+  "u:https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result": {
+    "title": "OpenAI’s ‘shepherds’ affirm blockbuster physics result | Scientific American",
+    "first_seen": "2026-11-13",
+    "url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result"
+  },
+  "u:https://www.americanbanker.com/news/jpmorganchase-to-use-openai-models-for-coding-security": {
+    "title": "JPMorganChase to use OpenAI models for coding, security | American Banker",
+    "first_seen": "2026-11-13",
+    "url": "https://www.americanbanker.com/news/jpmorganchase-to-use-openai-models-for-coding-security"
+  },
+  "u:https://finance.yahoo.com/technology/article/anthropics-new-claude-product-drop-just-sent-a-message-to-these-3-tech-stocks-133421409.html": {
+    "title": "Anthropic's new Claude product drop just sent a message to these 3 tech stocks",
+    "first_seen": "2026-11-13",
+    "url": "https://finance.yahoo.com/technology/article/anthropics-new-claude-product-drop-just-sent-a-message-to-these-3-tech-stocks-133421409.html"
+  },
+  "u:https://shattered.io/gpu-vs-tpu-vs-npu-ai-chip-camps-compared-2026": {
+    "title": "GPU vs TPU vs NPU: 4 AI Chip Camps Compared [2026]",
+    "first_seen": "2026-11-13",
+    "url": "https://shattered.io/gpu-vs-tpu-vs-npu-ai-chip-camps-compared-2026"
+  },
+  "u:https://www.techtimes.com/articles/330360/20261110/nvidia-rebellions-announce-nvlink-fusion-plan-gpus-process-prompts-korean-chips-generate-replies.htm": {
+    "title": "NVIDIA, Rebellions Announce NVLink Fusion Plan: GPUs Process Prompts, Korean Chips Generate Replies",
+    "first_seen": "2026-11-13",
+    "url": "https://www.techtimes.com/articles/330360/20261110/nvidia-rebellions-announce-nvlink-fusion-plan-gpus-process-prompts-korean-chips-generate-replies.htm"
+  },
+  "u:https://rcrwireless.com/20261111/ai/nvlink-fusion-sovereign-ai-korea": {
+    "title": "Nvidia, Rebellions and SK Telecom sign NVLink Fusion MOU",
+    "first_seen": "2026-11-13",
+    "url": "https://rcrwireless.com/20261111/ai/nvlink-fusion-sovereign-ai-korea"
+  },
+  "u:https://www.searchenginejournal.com/google-releases-modern-web-guidance-1-0-for-ai-coding-agents/596495": {
+    "title": "Google Releases Modern Web Guidance 1.0 For AI Coding Agents",
+    "first_seen": "2026-11-13",
+    "url": "https://www.searchenginejournal.com/google-releases-modern-web-guidance-1-0-for-ai-coding-agents/596495"
+  },
+  "u:https://www.unite.ai/cloudsmith-puts-ai-agent-skills-under-artifact-registry-controls": {
+    "title": "Cloudsmith Puts AI Agent Skills Under Artifact Registry Controls – Unite.AI",
+    "first_seen": "2026-11-13",
+    "url": "https://www.unite.ai/cloudsmith-puts-ai-agent-skills-under-artifact-registry-controls"
+  },
+  "u:https://www.cloudcomputing-news.net/news/aws-cloud-emulator-ai-agents": {
+    "title": "AWS launches cloud emulator built entirely by AI agents",
+    "first_seen": "2026-11-13",
+    "url": "https://www.cloudcomputing-news.net/news/aws-cloud-emulator-ai-agents"
+  },
+  "u:https://shattered.io/perplexity-teammates-ai-agents-ongoing-work-200-max-2026": {
+    "title": "Perplexity Teammates: $200 Max AI Agents [2026]",
+    "first_seen": "2026-11-13",
+    "url": "https://shattered.io/perplexity-teammates-ai-agents-ongoing-work-200-max-2026"
+  },
+  "u:https://yaledailynews.com/articles/yale-led-project-uses-ai-coding-agents-to-teach-robots-complex-tasks": {
+    "title": "Yale-led project uses AI coding agents to teach robots complex tasks | Yale Daily News",
+    "first_seen": "2026-11-13",
+    "url": "https://yaledailynews.com/articles/yale-led-project-uses-ai-coding-agents-to-teach-robots-complex-tasks"
   }
 }
