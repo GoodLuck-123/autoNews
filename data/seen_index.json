@@ -37013,5 +37013,210 @@
     "title": "Yale-led project uses AI coding agents to teach robots complex tasks | Yale Daily News",
     "first_seen": "2026-11-13",
     "url": "https://yaledailynews.com/articles/yale-led-project-uses-ai-coding-agents-to-teach-robots-complex-tasks"
+  },
+  "u:https://doi.org/10.1145/3830454.3846657": {
+    "title": "PhantomTac: Hijacking Robotic Tactile Systems with Deploy-and-forget Tags",
+    "first_seen": "2026-11-14",
+    "url": "https://doi.org/10.1145/3830454.3846657"
+  },
+  "u:https://doi.org/10.3389/fdgth.2026.1901454": {
+    "title": "Large language models for mental health",
+    "first_seen": "2026-11-14",
+    "url": "https://doi.org/10.3389/fdgth.2026.1901454"
+  },
+  "u:https://doi.org/10.1137/25m1795248": {
+    "title": "Hyperbolic Large Language Models",
+    "first_seen": "2026-11-14",
+    "url": "https://doi.org/10.1137/25m1795248"
+  },
+  "u:https://doi.org/10.1038/s41597-026-08568-3": {
+    "title": "SurBench: A Comprehensive Dataset for Evaluating Large Multimodal Models in Understanding Surveillance Videos",
+    "first_seen": "2026-11-14",
+    "url": "https://doi.org/10.1038/s41597-026-08568-3"
+  },
+  "u:https://doi.org/10.56201/wjimt.v8.no6.2024.pg217.248": {
+    "title": "Securing Agentic AI Enterprise Workflows Against Prompt Injection Tool Poisoning Memory Manipulation and Excessive Agency Threats",
+    "first_seen": "2026-11-14",
+    "url": "https://doi.org/10.56201/wjimt.v8.no6.2024.pg217.248"
+  },
+  "u:https://doi.org/10.21275/sr261109190024": {
+    "title": "From AIOps to Autonomous Operations: An Agentic AI Architecture for Self-Healing Enterprise IT Infrastructure",
+    "first_seen": "2026-11-14",
+    "url": "https://doi.org/10.21275/sr261109190024"
+  },
+  "u:https://doi.org/10.64898/2026.11.09.765352": {
+    "title": "DiffTernary: a Diffusion Model for Molecular Glue Ternary Complex Docking",
+    "first_seen": "2026-11-14",
+    "url": "https://doi.org/10.64898/2026.11.09.765352"
+  },
+  "u:https://huggingface.co/papers/2611.16728": {
+    "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.16728"
+  },
+  "u:https://huggingface.co/papers/2611.17336": {
+    "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.17336"
+  },
+  "u:https://huggingface.co/papers/2611.17190": {
+    "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.17190"
+  },
+  "u:https://huggingface.co/papers/2611.16961": {
+    "title": "The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.16961"
+  },
+  "u:https://huggingface.co/papers/2611.15094": {
+    "title": "A frontier machine intelligence for human neuroimaging",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.15094"
+  },
+  "u:https://huggingface.co/papers/2611.17334": {
+    "title": "Unbundling Multimodal Vision Encoding",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.17334"
+  },
+  "u:https://huggingface.co/papers/2611.16409": {
+    "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.16409"
+  },
+  "u:https://huggingface.co/papers/2611.16009": {
+    "title": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.16009"
+  },
+  "u:https://huggingface.co/papers/2611.15844": {
+    "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.15844"
+  },
+  "u:https://huggingface.co/papers/2607.13920": {
+    "title": "DeepStress: Stress-Testing Deep Search Agents",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2607.13920"
+  },
+  "u:https://huggingface.co/papers/2611.17331": {
+    "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.17331"
+  },
+  "u:https://huggingface.co/papers/2611.17060": {
+    "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.17060"
+  },
+  "u:https://huggingface.co/papers/2611.17167": {
+    "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.17167"
+  },
+  "u:https://huggingface.co/papers/2611.16905": {
+    "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.16905"
+  },
+  "u:https://huggingface.co/papers/2611.15777": {
+    "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.15777"
+  },
+  "u:https://huggingface.co/papers/2611.16217": {
+    "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.16217"
+  },
+  "u:https://huggingface.co/papers/2611.16517": {
+    "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.16517"
+  },
+  "u:https://huggingface.co/papers/2611.16748": {
+    "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.16748"
+  },
+  "u:https://huggingface.co/papers/2611.16321": {
+    "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/papers/2611.16321"
+  },
+  "u:https://github.com/louislam/uptime-kuma": {
+    "title": "louislam/uptime-kuma",
+    "first_seen": "2026-11-14",
+    "url": "https://github.com/louislam/uptime-kuma"
+  },
+  "u:https://github.com/tradermonty/claude-trading-skills": {
+    "title": "tradermonty/claude-trading-skills",
+    "first_seen": "2026-11-14",
+    "url": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  "u:https://openai.com/index/introducing-chatgpt-wallet": {
+    "title": "Introducing ChatGPT Wallet",
+    "first_seen": "2026-11-14",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet"
+  },
+  "u:https://openai.com/business/customer-stories/shield": {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "first_seen": "2026-11-14",
+    "url": "https://openai.com/business/customer-stories/shield"
+  },
+  "u:https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+  },
+  "u:https://huggingface.co/blog/ggml-org/llama-cpp-v1": {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "first_seen": "2026-11-14",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+  },
+  "u:https://simonwillison.net/2026/Nov/13/datasette-cluster-map": {
+    "title": "datasette-cluster-map 0.19",
+    "first_seen": "2026-11-14",
+    "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
+  },
+  "u:https://simonwillison.net/2026/Nov/13/datasette-leaflet": {
+    "title": "datasette-leaflet 0.3",
+    "first_seen": "2026-11-14",
+    "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/"
+  },
+  "u:https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots": {
+    "title": "Exclusive: OpenAI disbands its robotics team as its general-purpose AI models start running robots | Fortune",
+    "first_seen": "2026-11-14",
+    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots"
+  },
+  "u:https://eu.36kr.com/en/p/4067917144201095": {
+    "title": "Apple's Decade-Long Secret R&D Humanoid Robot Finally Adopts Unitree Technology",
+    "first_seen": "2026-11-14",
+    "url": "https://eu.36kr.com/en/p/4067917144201095"
+  },
+  "u:https://www.zmescience.com/future/humanoid-robot-population-projection": {
+    "title": "Humanoid Robots Could Outnumber Humans by 2083 as Long as They Start Building Each Other",
+    "first_seen": "2026-11-14",
+    "url": "https://www.zmescience.com/future/humanoid-robot-population-projection"
+  },
+  "u:https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down": {
+    "title": "Nvidia board ousts CEO Jensen Huang amid alleged spy scandal : NPR",
+    "first_seen": "2026-11-14",
+    "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down"
+  },
+  "u:https://www.cbsnews.com/news/nvidia-jensen-huang-resigns-competitors": {
+    "title": "Jensen Huang's exit rocks Nvidia and creates openings for rivals - CBS News",
+    "first_seen": "2026-11-14",
+    "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-resigns-competitors"
+  },
+  "u:https://docs.aws.amazon.com/emulator/latest/userguide/getting-started-agent.html": {
+    "title": "Getting started with an AI coding agent - AWS Emulator",
+    "first_seen": "2026-11-14",
+    "url": "https://docs.aws.amazon.com/emulator/latest/userguide/getting-started-agent.html"
+  },
+  "u:https://steampunk.si/spotter/glossary/ai-coding-agent": {
+    "title": "AI coding agent: Definition and Examples | Steampunk Spotter",
+    "first_seen": "2026-11-14",
+    "url": "https://steampunk.si/spotter/glossary/ai-coding-agent"
   }
 }
