@@ -1,54 +1,4 @@
 {
-  "u:https://simonwillison.net/2026/Aug/16/qwen-38-27b": {
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-    "first_seen": "2026-08-17",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
-  },
-  "u:https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push": {
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "first_seen": "2026-08-17",
-    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push"
-  },
-  "u:https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast": {
-    "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-    "first_seen": "2026-08-17",
-    "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast"
-  },
-  "u:https://newsroom.ibm.com/2026-08-13-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations": {
-    "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations",
-    "first_seen": "2026-08-17",
-    "url": "https://newsroom.ibm.com/2026-08-13-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations"
-  },
-  "u:https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html": {
-    "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-    "first_seen": "2026-08-17",
-    "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html"
-  },
-  "u:https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services": {
-    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-    "first_seen": "2026-08-17",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services"
-  },
-  "u:https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break": {
-    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-    "first_seen": "2026-08-17",
-    "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break"
-  },
-  "u:https://eu.36kr.com/en/p/3942127602662785": {
-    "title": "Humanoid Robot Craze Fades: Real-World Application Scenarios Define the Next Era",
-    "first_seen": "2026-08-17",
-    "url": "https://eu.36kr.com/en/p/3942127602662785"
-  },
-  "u:https://www.wsws.org/en/articles/2026/08/14/yvxh-a14.html": {
-    "title": "Nvidia and Wall Street propose “exotic” money line to continue AI boom",
-    "first_seen": "2026-08-17",
-    "url": "https://www.wsws.org/en/articles/2026/08/14/yvxh-a14.html"
-  },
-  "u:https://www.thelec.net/news/articleView.html": {
-    "title": "Meta Launches Paid AI Coding Service 'Muse Code,' Expands Into Developer Market",
-    "first_seen": "2026-08-17",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=12879"
-  },
   "u:https://arxiv.org/abs/2608.14546v1": {
     "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
     "first_seen": "2026-08-18",
@@ -36358,5 +36308,100 @@
     "title": "Goose Open-Source AI Coding Assistant, 12 Steps [2026]",
     "first_seen": "2026-11-15",
     "url": "https://shattered.io/goose-ai-coding-assistant-local-ollama-12-steps-2026"
+  },
+  "u:https://doi.org/10.1145/3828523.3857091": {
+    "title": "Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs",
+    "first_seen": "2026-11-16",
+    "url": "https://doi.org/10.1145/3828523.3857091"
+  },
+  "u:https://doi.org/10.1145/3828523.3857127": {
+    "title": "HYPIC: Position-Independent Caching for Hybrid-Attention LLM Serving",
+    "first_seen": "2026-11-16",
+    "url": "https://doi.org/10.1145/3828523.3857127"
+  },
+  "u:https://huggingface.co/papers/2611.18359": {
+    "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+    "first_seen": "2026-11-16",
+    "url": "https://huggingface.co/papers/2611.18359"
+  },
+  "u:https://github.com/google-labs-code/stitch-skills": {
+    "title": "google-labs-code/stitch-skills",
+    "first_seen": "2026-11-16",
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  "u:https://github.com/elementalsouls/Claude-BugHunter": {
+    "title": "elementalsouls/Claude-BugHunter",
+    "first_seen": "2026-11-16",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  "u:https://github.com/NVIDIA/SkillEvaluator": {
+    "title": "NVIDIA/SkillEvaluator",
+    "first_seen": "2026-11-16",
+    "url": "https://github.com/NVIDIA/SkillEvaluator"
+  },
+  "u:https://openai.com/index/step-toward-defining-the-standard-model": {
+    "title": "A step toward defining the Standard Model on a lattice",
+    "first_seen": "2026-11-16",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+  },
+  "u:https://openai.com/index/our-new-blog-for-science": {
+    "title": "Our new blog for science",
+    "first_seen": "2026-11-16",
+    "url": "https://openai.com/index/our-new-blog-for-science"
+  },
+  "u:https://simonwillison.net/2026/Nov/15/datasette-maplibre": {
+    "title": "datasette-maplibre 0.1a0",
+    "first_seen": "2026-11-16",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+  },
+  "u:https://simonwillison.net/2026/Nov/15/datasette": {
+    "title": "datasette 1.0a43",
+    "first_seen": "2026-11-16",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette/"
+  },
+  "u:https://simonwillison.net/2026/Nov/15/datasette-apps": {
+    "title": "datasette-apps 0.4a0",
+    "first_seen": "2026-11-16",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/"
+  },
+  "u:https://simonwillison.net/2026/Nov/15/datasette-agent": {
+    "title": "datasette-agent 0.6a0",
+    "first_seen": "2026-11-16",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
+  },
+  "u:https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": {
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "first_seen": "2026-11-16",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+  },
+  "u:https://www.orcarouter.ai/blog/gpt-6-2-cyber-at-the-frontier-no-show": {
+    "title": "GPT-6.2 Did Not Ship: What OpenAI Launched on 12 Nov",
+    "first_seen": "2026-11-16",
+    "url": "https://www.orcarouter.ai/blog/gpt-6-2-cyber-at-the-frontier-no-show"
+  },
+  "u:https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools": {
+    "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools - SecurityWeek",
+    "first_seen": "2026-11-16",
+    "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools"
+  },
+  "u:https://finance.yahoo.com/technology/article/anthropic-debuts-claude-fable-52-and-mythos-52-models-as-ipo-nears-190405087.html": {
+    "title": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears",
+    "first_seen": "2026-11-16",
+    "url": "https://finance.yahoo.com/technology/article/anthropic-debuts-claude-fable-52-and-mythos-52-models-as-ipo-nears-190405087.html"
+  },
+  "u:https://finance.yahoo.com/technology/ai/articles/elmos-semiconductor-se-agibot-showcase-213548041.html": {
+    "title": "Elmos Semiconductor SE and AGIBOT showcase Humanoid Robotics at Electronica 2026",
+    "first_seen": "2026-11-16",
+    "url": "https://finance.yahoo.com/technology/ai/articles/elmos-semiconductor-se-agibot-showcase-213548041.html"
+  },
+  "u:https://sfstandard.com/2026/11/14/humanoid-war-robots-soma-startup": {
+    "title": "A SoMa startup is building humanoid robots for war | The San Francisco Standard",
+    "first_seen": "2026-11-16",
+    "url": "https://sfstandard.com/2026/11/14/humanoid-war-robots-soma-startup"
+  },
+  "u:https://cryptobriefing.com/lightning-labs-pi402-ai-agents-bitcoin-inference": {
+    "title": "Lightning Labs launches pi402 so AI agents can buy inference with Bitcoin",
+    "first_seen": "2026-11-16",
+    "url": "https://cryptobriefing.com/lightning-labs-pi402-ai-agents-bitcoin-inference"
   }
 }
