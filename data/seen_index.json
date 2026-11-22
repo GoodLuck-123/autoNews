@@ -1,99 +1,4 @@
 {
-  "u:https://doi.org/10.3389/fnins.2026.1882653": {
-    "title": "Closed-loop brain-computer interfaces for post-stroke sensorimotor loop restoration",
-    "first_seen": "2026-08-23",
-    "url": "https://doi.org/10.3389/fnins.2026.1882653"
-  },
-  "u:https://doi.org/10.48550/arxiv.2608.19981": {
-    "title": "HealMed: Multilingual Evaluation of Large Language Models in Medicine",
-    "first_seen": "2026-08-23",
-    "url": "https://doi.org/10.48550/arxiv.2608.19981"
-  },
-  "u:https://doi.org/10.48550/arxiv.2608.19556": {
-    "title": "Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models",
-    "first_seen": "2026-08-23",
-    "url": "https://doi.org/10.48550/arxiv.2608.19556"
-  },
-  "u:https://doi.org/10.48550/arxiv.2608.20284": {
-    "title": "Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning",
-    "first_seen": "2026-08-23",
-    "url": "https://doi.org/10.48550/arxiv.2608.20284"
-  },
-  "u:https://doi.org/10.48550/arxiv.2608.20000": {
-    "title": "Point-Based 3D Reconstruction from Sparse Views under Known Illumination",
-    "first_seen": "2026-08-23",
-    "url": "https://doi.org/10.48550/arxiv.2608.20000"
-  },
-  "u:https://doi.org/10.48550/arxiv.2608.19758": {
-    "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
-    "first_seen": "2026-08-23",
-    "url": "https://doi.org/10.48550/arxiv.2608.19758"
-  },
-  "u:https://github.com/openai/codex": {
-    "title": "openai/codex",
-    "first_seen": "2026-08-23",
-    "url": "https://github.com/openai/codex"
-  },
-  "u:https://github.com/Wei-Shaw/sub2api": {
-    "title": "Wei-Shaw/sub2api",
-    "first_seen": "2026-08-23",
-    "url": "https://github.com/Wei-Shaw/sub2api"
-  },
-  "u:https://github.com/anthropics/claude-code": {
-    "title": "anthropics/claude-code",
-    "first_seen": "2026-08-23",
-    "url": "https://github.com/anthropics/claude-code"
-  },
-  "u:https://github.com/multica-ai/andrej-karpathy-skills": {
-    "title": "multica-ai/andrej-karpathy-skills",
-    "first_seen": "2026-08-23",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-  },
-  "u:https://simonwillison.net/2026/Aug/22/llm": {
-    "title": "llm 0.33",
-    "first_seen": "2026-08-23",
-    "url": "https://simonwillison.net/2026/Aug/22/llm/"
-  },
-  "u:https://simonwillison.net/2026/Aug/22/more-than-just-code-review": {
-    "title": "More than just code review",
-    "first_seen": "2026-08-23",
-    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
-  },
-  "u:https://magazine.sebastianraschka.com/p/claude-watermarking": {
-    "title": "How Claude Watermarks AI-Generated Text",
-    "first_seen": "2026-08-23",
-    "url": "https://magazine.sebastianraschka.com/p/claude-watermarking"
-  },
-  "u:https://www.informationweek.com/machine-learning-ai/openai-s-model-slowdown-offers-cios-a-lesson-in-ai-planning": {
-    "title": "OpenAI's model slowdown offers CIOs a lesson in AI planning",
-    "first_seen": "2026-08-23",
-    "url": "https://www.informationweek.com/machine-learning-ai/openai-s-model-slowdown-offers-cios-a-lesson-in-ai-planning"
-  },
-  "u:https://www.independent.co.uk/tech/security/chatgpt-openai-update-new-astra-model-b3035734.html": {
-    "title": "OpenAI pauses work on new version of ChatGPT after it shows concerning behaviour",
-    "first_seen": "2026-08-23",
-    "url": "https://www.independent.co.uk/tech/security/chatgpt-openai-update-new-astra-model-b3035734.html"
-  },
-  "u:https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security": {
-    "title": "Anthropic Brings Claude Mythos 5 to Claude Security",
-    "first_seen": "2026-08-23",
-    "url": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security"
-  },
-  "u:https://thenewstack.io/anthropic-mythos-claude-security": {
-    "title": "Anthropic brings Mythos 5 to its Claude Security vulnerability scanner",
-    "first_seen": "2026-08-23",
-    "url": "https://thenewstack.io/anthropic-mythos-claude-security"
-  },
-  "u:https://stocktwits.com/news-articles/markets/equity/nvidia-deals-show-next-ai-growth-wave-beyond-chips/cZY9bYlRJVb": {
-    "title": "Nvidia Is Not Just Selling AI Chips: Its Latest Deals Show Where The Next Growth Wave May Come From",
-    "first_seen": "2026-08-23",
-    "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-deals-show-next-ai-growth-wave-beyond-chips/cZY9bYlRJVb"
-  },
-  "u:https://www.forbes.com/sites/timkeary/2026/08/20/slack-brings-ai-agents-to-workspaces-but-can-it-take-on-teams": {
-    "title": "Slack Brings AI Agents To Workspaces. But Can It Take On Teams?",
-    "first_seen": "2026-08-23",
-    "url": "https://www.forbes.com/sites/timkeary/2026/08/20/slack-brings-ai-agents-to-workspaces-but-can-it-take-on-teams"
-  },
   "u:https://doi.org/10.1145/3841472": {
     "title": "A Survey on Human-AI Collaboration with Large Foundation Models",
     "first_seen": "2026-08-24",
@@ -35093,5 +34998,95 @@
     "title": "Atlarix 15.16: Your AI Coding Agent Can Make Images Now",
     "first_seen": "2026-11-21",
     "url": "https://www.atlarix.dev/blogs/atlarix-15-16-make-images-ai-coding-agent"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.26444": {
+    "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+    "first_seen": "2026-11-22",
+    "url": "https://doi.org/10.48550/arxiv.2611.26444"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.25838": {
+    "title": "ContextRenderer: Dynamic-Context Video Generation for Interactive Game Worlds",
+    "first_seen": "2026-11-22",
+    "url": "https://doi.org/10.48550/arxiv.2611.25838"
+  },
+  "u:https://doi.org/10.21203/rs.3.rs-11204608/v1": {
+    "title": "UGOD: Uncertainty-Guided Opacity and Dropout for Sparse-View 3D Gaussian Splatting",
+    "first_seen": "2026-11-22",
+    "url": "https://doi.org/10.21203/rs.3.rs-11204608/v1"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.25454": {
+    "title": "Lossless Latent Diffusion Models",
+    "first_seen": "2026-11-22",
+    "url": "https://doi.org/10.48550/arxiv.2611.25454"
+  },
+  "u:https://doi.org/10.1061/9780784486948.062": {
+    "title": "Human Mobility Trajectory Generation Based on Diffusion Model-Transformer",
+    "first_seen": "2026-11-22",
+    "url": "https://doi.org/10.1061/9780784486948.062"
+  },
+  "u:https://doi.org/10.48550/arxiv.2611.25433": {
+    "title": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+    "first_seen": "2026-11-22",
+    "url": "https://doi.org/10.48550/arxiv.2611.25433"
+  },
+  "u:https://simonwillison.net/2026/Nov/20/llm-gemini": {
+    "title": "llm-gemini 0.38.1",
+    "first_seen": "2026-11-22",
+    "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/"
+  },
+  "u:https://x.com/AINativeF/status/2123405543062863919": {
+    "title": "AI Native Foundation on X: \"OpenAI releases GPT-6.2 Astra and Sol models OpenAI announced the release of two new models, GPT-6.2…\"",
+    "first_seen": "2026-11-22",
+    "url": "https://x.com/AINativeF/status/2123405543062863919"
+  },
+  "u:https://www.facebook.com/groups/4157162401260703/posts/4411822479128026": {
+    "title": "OpenAI Codex, ChatGPT App and Dots Community | 🚀 GPT-6.2 Astra and Sol are here | Facebook",
+    "first_seen": "2026-11-22",
+    "url": "https://www.facebook.com/groups/4157162401260703/posts/4411822479128026"
+  },
+  "u:https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531/38": {
+    "title": "GPT-6.2 Astra and Sol are now available - #38 by mdruy - Announcements - OpenAI Developer Community",
+    "first_seen": "2026-11-22",
+    "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531/38"
+  },
+  "u:https://apnews.com/article/anthropic-claude-math-solution-ai-4fe8b69a891f160f9e7f0c85af8c55c8": {
+    "title": "Anthropic worker says AI helped him solve Holy Grail of math problems | AP News",
+    "first_seen": "2026-11-22",
+    "url": "https://apnews.com/article/anthropic-claude-math-solution-ai-4fe8b69a891f160f9e7f0c85af8c55c8"
+  },
+  "u:https://thenewstack.io/anthropic-claude-code-verification": {
+    "title": "Anthropic says Claude writes and reviews 90% of its team's code. The catch is how it checks the work. - The New Stack",
+    "first_seen": "2026-11-22",
+    "url": "https://thenewstack.io/anthropic-claude-code-verification"
+  },
+  "u:https://www.robotics247.com/article/embodied-ai-launches-air-a-physically-safe-humanoid-that-learns-on-the-job": {
+    "title": "Embodied AI launches AIR, a physically safe humanoid that learns on the job - Robotics 24/7",
+    "first_seen": "2026-11-22",
+    "url": "https://www.robotics247.com/article/embodied-ai-launches-air-a-physically-safe-humanoid-that-learns-on-the-job"
+  },
+  "u:https://humanoid.guide/welcome-astrabrain": {
+    "title": "Welcome, AstraBrain! - Humanoid.guide",
+    "first_seen": "2026-11-22",
+    "url": "https://humanoid.guide/welcome-astrabrain"
+  },
+  "u:https://www.google.com/finance/quote/NVDA:NASDAQ": {
+    "title": "NVIDIA Corp (NVDA) Stock Price & News - Google Finance",
+    "first_seen": "2026-11-22",
+    "url": "https://www.google.com/finance/quote/NVDA:NASDAQ"
+  },
+  "u:https://www.bbc.com/news/articles/cm2kl50vkwkdo": {
+    "title": "Nvidia reports bumper results as firm says it's not reinstating Jensen Huang",
+    "first_seen": "2026-11-22",
+    "url": "https://www.bbc.com/news/articles/cm2kl50vkwkdo"
+  },
+  "u:https://www.facebook.com/groups/codexopenai/posts/1824395242040808": {
+    "title": "AI developers building 24/7 agents with Codex, Linear, and OpenAI tools ...",
+    "first_seen": "2026-11-22",
+    "url": "https://www.facebook.com/groups/codexopenai/posts/1824395242040808"
+  },
+  "u:https://medium.com/write-your-world/best-ai-coding-agents-for-developers-in-2027-807fa10002fa": {
+    "title": "Best AI Coding Agents for Developers in 2027",
+    "first_seen": "2026-11-22",
+    "url": "https://medium.com/write-your-world/best-ai-coding-agents-for-developers-in-2027-807fa10002fa"
   }
 }
