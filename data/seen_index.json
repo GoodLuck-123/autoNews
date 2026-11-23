@@ -1,79 +1,4 @@
 {
-  "u:https://doi.org/10.1145/3841472": {
-    "title": "A Survey on Human-AI Collaboration with Large Foundation Models",
-    "first_seen": "2026-08-24",
-    "url": "https://doi.org/10.1145/3841472"
-  },
-  "u:https://doi.org/10.1145/3843225": {
-    "title": "Multi-Bin Batching for Increasing LLM Inference Throughput",
-    "first_seen": "2026-08-24",
-    "url": "https://doi.org/10.1145/3843225"
-  },
-  "u:https://github.com/freestylefly/awesome-gpt-image-2": {
-    "title": "freestylefly/awesome-gpt-image-2",
-    "first_seen": "2026-08-24",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-  },
-  "u:https://github.com/Alishahryar1/free-claude-code": {
-    "title": "Alishahryar1/free-claude-code",
-    "first_seen": "2026-08-24",
-    "url": "https://github.com/Alishahryar1/free-claude-code"
-  },
-  "u:https://github.com/tinyhumansai/openhuman": {
-    "title": "tinyhumansai/openhuman",
-    "first_seen": "2026-08-24",
-    "url": "https://github.com/tinyhumansai/openhuman"
-  },
-  "u:https://github.com/VoltAgent/awesome-agent-skills": {
-    "title": "VoltAgent/awesome-agent-skills",
-    "first_seen": "2026-08-24",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  "u:https://github.com/virgiliojr94/book-to-skill": {
-    "title": "virgiliojr94/book-to-skill",
-    "first_seen": "2026-08-24",
-    "url": "https://github.com/virgiliojr94/book-to-skill"
-  },
-  "u:https://github.com/anthropics/claude-plugins-community": {
-    "title": "anthropics/claude-plugins-community",
-    "first_seen": "2026-08-24",
-    "url": "https://github.com/anthropics/claude-plugins-community"
-  },
-  "u:https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t": {
-    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-    "first_seen": "2026-08-24",
-    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
-  },
-  "u:https://simonwillison.net/2026/Aug/23/drew-breunig": {
-    "title": "Quoting Drew Breunig",
-    "first_seen": "2026-08-24",
-    "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
-  },
-  "u:https://www.startuphub.ai/ai-news/artificial-intelligence/2026/claude-code-adds-ai-design-cross-session-chat": {
-    "title": "Claude Code Adds AI Design, Cross-Session Chat",
-    "first_seen": "2026-08-24",
-    "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/claude-code-adds-ai-design-cross-session-chat"
-  },
-  "u:https://almcorp.com/news/anthropic-claude-code-auto-mode-default-august-2026": {
-    "title": "Anthropic Is Making Claude Code’s Auto Mode the Default Setting",
-    "first_seen": "2026-08-24",
-    "url": "https://almcorp.com/news/anthropic-claude-code-auto-mode-default-august-2026"
-  },
-  "u:https://finance.yahoo.com/technology/ai/articles/noitom-robotics-releases-hiphi-one-010000288.html": {
-    "title": "Noitom Robotics Releases HiPHI, One of the Largest High-Precision Human Motion Datasets Ever Made Public, at the World Robot Conference",
-    "first_seen": "2026-08-24",
-    "url": "https://finance.yahoo.com/technology/ai/articles/noitom-robotics-releases-hiphi-one-010000288.html"
-  },
-  "u:https://es.tradingview.com/news/stocktwits:10f366471094b:0-nvidia-is-not-just-selling-ai-chips-its-latest-deals-show-where-the-next-growth-wave-may-come-from": {
-    "title": "Nvidia Is Not Just Selling AI Chips: Its Latest Deals Show Where The Next Growth Wave May Come From",
-    "first_seen": "2026-08-24",
-    "url": "https://es.tradingview.com/news/stocktwits:10f366471094b:0-nvidia-is-not-just-selling-ai-chips-its-latest-deals-show-where-the-next-growth-wave-may-come-from"
-  },
-  "u:https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-cloudera-113739829.html": {
-    "title": "Latest News In AI Chips - Cloudera NVIDIA Partnership Boosts Apache Spark Performance",
-    "first_seen": "2026-08-24",
-    "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-cloudera-113739829.html"
-  },
   "u:https://arxiv.org/abs/2608.21360v1": {
     "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
     "first_seen": "2026-08-25",
@@ -35088,5 +35013,65 @@
     "title": "Best AI Coding Agents for Developers in 2027",
     "first_seen": "2026-11-22",
     "url": "https://medium.com/write-your-world/best-ai-coding-agents-for-developers-in-2027-807fa10002fa"
+  },
+  "u:https://huggingface.co/papers/2611.27963": {
+    "title": "Non-penetrating World Models",
+    "first_seen": "2026-11-23",
+    "url": "https://huggingface.co/papers/2611.27963"
+  },
+  "u:https://huggingface.co/papers/2611.27193": {
+    "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+    "first_seen": "2026-11-23",
+    "url": "https://huggingface.co/papers/2611.27193"
+  },
+  "u:https://huggingface.co/papers/2611.27211": {
+    "title": "Explicit Style Extraction for Personalized Long-Form Text Generation",
+    "first_seen": "2026-11-23",
+    "url": "https://huggingface.co/papers/2611.27211"
+  },
+  "u:https://huggingface.co/papers/2611.27229": {
+    "title": "Prune to Expand: Training Prompt Enhancers with Less to Imitate",
+    "first_seen": "2026-11-23",
+    "url": "https://huggingface.co/papers/2611.27229"
+  },
+  "u:https://openai.com/index/perplexity-and-intelligence": {
+    "title": "Perplexity and Intelligence",
+    "first_seen": "2026-11-23",
+    "url": "https://openai.com/index/perplexity-and-intelligence"
+  },
+  "u:https://simonwillison.net/2026/Nov/22/select-styling": {
+    "title": "Select Styling Specimens",
+    "first_seen": "2026-11-23",
+    "url": "https://simonwillison.net/2026/Nov/22/select-styling/"
+  },
+  "u:https://www.reddit.com/r/OAICodex/comments/1xyfdjx/openais_internal_model_releasing_much_smarter": {
+    "title": "OpenAI's internal model releasing, much smarter than GPT-6 : r/OAICodex",
+    "first_seen": "2026-11-23",
+    "url": "https://www.reddit.com/r/OAICodex/comments/1xyfdjx/openais_internal_model_releasing_much_smarter"
+  },
+  "u:https://community.openai.com/t/gpt-live-1-1-has-arrived-in-the-api/1418537": {
+    "title": "GPT-Live-1.1 has arrived in the API - Announcements - OpenAI Developer Community",
+    "first_seen": "2026-11-23",
+    "url": "https://community.openai.com/t/gpt-live-1-1-has-arrived-in-the-api/1418537"
+  },
+  "u:https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq": {
+    "title": "Anthropic Marks its IPO at Nasdaq | Nasdaq",
+    "first_seen": "2026-11-23",
+    "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq"
+  },
+  "u:https://www.humanoidsdaily.com/news/1x-neo-developers-december-runtime-2026-bornich": {
+    "title": "1X Will Ship NEO to Developers in December, Plans Weekly Leaderboard and Live Robot Runs | Humanoids Daily",
+    "first_seen": "2026-11-23",
+    "url": "https://www.humanoidsdaily.com/news/1x-neo-developers-december-runtime-2026-bornich"
+  },
+  "u:https://af.net/realtime/chinas-miit-enacts-5-humanoid-robot-standards-across-industry": {
+    "title": "China's MIIT Enacts 5 Humanoid Robot Standards Across Industry",
+    "first_seen": "2026-11-23",
+    "url": "https://af.net/realtime/chinas-miit-enacts-5-humanoid-robot-standards-across-industry"
+  },
+  "u:https://kalshi.com/markets/kxteslaoptimus/tesla-optimus-sale/teslaoptimus-26dec31": {
+    "title": "Tesla Optimus released this year? Odds & Predictions 2026",
+    "first_seen": "2026-11-23",
+    "url": "https://kalshi.com/markets/kxteslaoptimus/tesla-optimus-sale/teslaoptimus-26dec31"
   }
 }
